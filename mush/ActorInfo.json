@@ -3468,7 +3468,7 @@
     "Category": "Bullet",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Ink/Ink_Slosher_Strong/output/Ink_Slosher_Strong.fmdb",
-    "InstanceHeapSize": 453880,
+    "InstanceHeapSize": 602536,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
@@ -8316,7 +8316,7 @@
     "Category": "CoopEnemy",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Enemy/Enm_CoopSalmonBallCase/output/Enm_CoopSalmonBallCase.fmdb",
-    "InstanceHeapSize": 438864,
+    "InstanceHeapSize": 438872,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
@@ -8336,7 +8336,7 @@
     "Category": "CoopEnemy",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Enemy/Enm_CoopSalmonBallCase/output/Enm_CoopSalmonBallCaseGold.fmdb",
-    "InstanceHeapSize": 430776,
+    "InstanceHeapSize": 430784,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
@@ -10518,14 +10518,14 @@
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
-      "X": 0.32507285,
-      "Y": 0.6424166,
-      "Z": 0.6590364
+      "X": 0.2984873,
+      "Y": 0.50654256,
+      "Z": 0.6910976
     },
     "ModelAabbMin": {
-      "X": -0.32145473,
-      "Y": -0.37615132,
-      "Z": -0.6392335
+      "X": -0.36907136,
+      "Y": -0.38180393,
+      "Z": -0.66652775
     },
     "__RowId": "DObj_Duck"
   },
@@ -10538,14 +10538,14 @@
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
-      "X": 0.16547513,
-      "Y": 0.2532714,
-      "Z": -0.24635474
+      "X": 0.2016927,
+      "Y": 0.25584242,
+      "Z": -0.5827018
     },
     "ModelAabbMin": {
-      "X": -0.15788554,
-      "Y": -0.067476004,
-      "Z": -0.6427496
+      "X": -0.19714607,
+      "Y": -0.112404525,
+      "Z": -0.91553277
     },
     "__RowId": "DObj_DuckChild"
   },
@@ -12958,14 +12958,14 @@
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
-      "X": 0.2712442,
-      "Y": 0.57065946,
-      "Z": 0.62492985
+      "X": 0.271195,
+      "Y": 0.5614319,
+      "Z": 0.62055373
     },
     "ModelAabbMin": {
-      "X": -0.25369012,
-      "Y": -0.129577,
-      "Z": -0.045754433
+      "X": -0.25464708,
+      "Y": -0.1171498,
+      "Z": -0.05063665
     },
     "__RowId": "DObj_Starling"
   },
@@ -14156,7 +14156,7 @@
     "Category": "MissionEnemy",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Enemy/Enm_StampWave/output/Enm_StampWave.fmdb",
-    "InstanceHeapSize": 364400,
+    "InstanceHeapSize": 364408,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
@@ -57943,26 +57943,6 @@
     "CalcPriority": "Before",
     "Category": "MapPart",
     "ClassName": "SplActor",
-    "Fmdb": "Work/Model/Field/MapParts/FldObj_Pivot03/output/FldObj_PivotDoor03.fmdb",
-    "InstanceHeapSize": 240128,
-    "IsCalcNodePushBack": true,
-    "IsFarActor": false,
-    "ModelAabbMax": {
-      "X": 9.000001,
-      "Y": 9.1,
-      "Z": 9.000001
-    },
-    "ModelAabbMin": {
-      "X": -9.000001,
-      "Y": 2.0,
-      "Z": -9.000001
-    },
-    "__RowId": "Mpt_PivotDoor03"
-  },
-  {
-    "CalcPriority": "Before",
-    "Category": "MapPart",
-    "ClassName": "SplActor",
     "Fmdb": "Work/Model/Field/MapParts/FldObj_Pivot03/output/FldObj_PivotHoko.fmdb",
     "InstanceHeapSize": 371584,
     "IsCalcNodePushBack": true,
@@ -68945,7 +68925,7 @@
     "DisplayRadius": 1000.0,
     "DisplayRadiusDistanceType": "EuclideanXZ",
     "Fmdb": "Work/Model/SkySphere/Sky_MsnCrater02/output/Sky_MsnCrater02.fmdb",
-    "InstanceHeapSize": 285288,
+    "InstanceHeapSize": 285280,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "LoadRadius": -1.0,
@@ -75249,7 +75229,7 @@
     "Category": "MainWeapon",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Weapon/Wmn_Slosher_StrongT/output/Wmn_Slosher_StrongT.fmdb",
-    "InstanceHeapSize": 1656944,
+    "InstanceHeapSize": 936048,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
@@ -75269,7 +75249,7 @@
     "Category": "MainWeapon",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Weapon/Wmn_Slosher_StrongT/output/Wmn_Slosher_StrongT.fmdb",
-    "InstanceHeapSize": 1657064,
+    "InstanceHeapSize": 936168,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
@@ -75289,7 +75269,7 @@
     "Category": "MainWeapon",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Weapon/Wmn_Slosher_StrongT/output/Wmn_Slosher_StrongT.fmdb",
-    "InstanceHeapSize": 1657064,
+    "InstanceHeapSize": 936168,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
@@ -79949,7 +79929,7 @@
     "Category": "MainWeapon",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Weapon/Wmn_Slosher_StrongT/output/Wmn_Slosher_StrongT.fmdb",
-    "InstanceHeapSize": 1656992,
+    "InstanceHeapSize": 936096,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
@@ -79969,7 +79949,7 @@
     "Category": "MainWeapon",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Weapon/Wmn_Slosher_StrongT/output/Wmn_Slosher_StrongT.fmdb",
-    "InstanceHeapSize": 1657120,
+    "InstanceHeapSize": 936224,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
@@ -79989,7 +79969,7 @@
     "Category": "MainWeapon",
     "ClassName": "SplActor",
     "Fmdb": "Work/Model/Weapon/Wmn_Slosher_StrongT/output/Wmn_Slosher_StrongT.fmdb",
-    "InstanceHeapSize": 1657112,
+    "InstanceHeapSize": 936216,
     "IsCalcNodePushBack": true,
     "IsFarActor": false,
     "ModelAabbMax": {
