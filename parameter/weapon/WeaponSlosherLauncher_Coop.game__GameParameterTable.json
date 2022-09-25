@@ -56,7 +56,7 @@
           "DamageParam": {
             "ReduceEndFallDistance": 8.5,
             "ReduceStartFallDistance": 1.5,
-            "ValueMax": 1500,
+            "ValueMax": 1700,
             "ValueMin": 1000
           },
           "DrawSizeParam": {
@@ -235,8 +235,8 @@
           "DamageParam": {
             "ReduceEndFallDistance": 8.5,
             "ReduceStartFallDistance": 1.5,
-            "ValueMax": 800,
-            "ValueMin": 800
+            "ValueMax": 1000,
+            "ValueMin": 1000
           },
           "DrawSizeParam": {
             "AfterOffsetEndRadius": 0.0,

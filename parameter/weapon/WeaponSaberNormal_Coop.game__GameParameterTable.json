@@ -4,13 +4,13 @@
     "BulletSaberHorizontalParam": {
       "$type": "spl__BulletSaberParam",
       "DamageParam": {
-        "HitDamage": 650
+        "HitDamage": 1000
       }
     },
     "BulletSaberSlashHorizontalParam": {
       "$type": "spl__BulletSaberSlashParam",
       "DamageParam": {
-        "DamageValue": 750
+        "DamageValue": 450
       }
     },
     "BulletSaberSlashVerticalParam": {
@@ -22,14 +22,14 @@
     "BulletSaberVerticalParam": {
       "$type": "spl__BulletSaberParam",
       "DamageParam": {
-        "HitDamage": 1500
+        "HitDamage": 1800
       }
     },
     "spl__WeaponSaberParam": {
       "$type": "spl__WeaponSaberParam",
       "ChargeParam": {
-        "InkConsumeFullCharge": 0.05,
-        "InkConsumeMinCharge": 0.02
+        "InkConsumeFullCharge": 0.06,
+        "InkConsumeMinCharge": 0.025
       },
       "SwingParam": {
         "InkConsume": 0.025,

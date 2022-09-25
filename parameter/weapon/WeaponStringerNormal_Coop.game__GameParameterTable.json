@@ -22,6 +22,7 @@
     "spl__WeaponStringerParam": {
       "$type": "spl__WeaponStringerParam",
       "ChargeParam": {
+        "InkConsumeFullCharge": 0.075,
         "InkConsumeMidCharge": 0.04,
         "InkConsumeMinCharge": 0.03
       }

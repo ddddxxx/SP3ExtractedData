@@ -66,8 +66,8 @@
       "UsualGearSkill": "MainInk_Save"
     },
     "B18": {
-      "UnusualGearSkill": "None",
-      "UsualGearSkill": "None"
+      "UnusualGearSkill": "InkRecovery_Up",
+      "UsualGearSkill": "RespawnSpecialGauge_Save"
     },
     "B19": {
       "UnusualGearSkill": "SubSpec_Up",

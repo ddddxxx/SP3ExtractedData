@@ -154,12 +154,22 @@
         "SplashPaintRadius": 3.0
       },
       "CollisionParam": {
-        "CoreIndex": 1,
+        "CoreIndex": 3,
         "OffsetArray": [
           {
             "X": 0.0,
-            "Y": 0.4,
-            "Z": -0.1
+            "Y": 1.6,
+            "Z": 0.1
+          },
+          {
+            "X": 0.0,
+            "Y": 1.2,
+            "Z": 0.2
+          },
+          {
+            "X": 0.0,
+            "Y": 0.6,
+            "Z": 0.1
           },
           {
             "X": 0.0,
@@ -169,27 +179,17 @@
           {
             "X": 0.0,
             "Y": -0.6,
-            "Z": -0.1
+            "Z": 0.1
           },
           {
             "X": 0.0,
             "Y": -1.2,
-            "Z": -0.2
+            "Z": 0.2
           },
           {
             "X": 0.0,
-            "Y": -1.8,
-            "Z": -0.1
-          },
-          {
-            "X": 0.0,
-            "Y": -2.4,
-            "Z": 0.0
-          },
-          {
-            "X": 0.0,
-            "Y": -2.8,
-            "Z": -0.1
+            "Y": -1.6,
+            "Z": 0.1
           }
         ],
         "ParamArray": [
@@ -257,7 +257,7 @@
         "WidthHalf": 2.0
       },
       "SplashSpawnParam": {
-        "DropInterval": 1.0,
+        "DropInterval": 2.0,
         "SplashNumMax": 14
       }
     },
@@ -290,7 +290,7 @@
         "HorizontalSightFrame": 6,
         "HorizontalSphereIndex": 1,
         "VerticalSightFrame": 26,
-        "VerticalSphereIndex": 2
+        "VerticalSphereIndex": 4
       },
       "SwingParam": {
         "ChargeMoveVelLimit": 0.06,
@@ -316,8 +316,8 @@
         },
         "ShotBulletOffset_Vertical": {
           "X": 0.0,
-          "Y": 3.4,
-          "Z": 0.6
+          "Y": 2.2,
+          "Z": 0.8
         },
         "ShotSlashOffset_L": {
           "X": 0.0,

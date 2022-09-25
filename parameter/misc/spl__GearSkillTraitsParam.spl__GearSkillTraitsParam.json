@@ -6,9 +6,9 @@
     },
     "ComeBack": {
       "ConsistsOfChip": [
-        "SpecialIncrease_Up",
+        "HumanMove_Up",
         "SquidMove_Up",
-        "HumanMove_Up"
+        "SpecialIncrease_Up"
       ],
       "KindLimit": "Head"
     },
@@ -34,9 +34,9 @@
     },
     "Exorcist": {
       "ConsistsOfChip": [
+        "RespawnSpecialGauge_Save",
         "RespawnTime_Save",
-        "SubEffect_Reduction",
-        "RespawnSpecialGauge_Save"
+        "SubEffect_Reduction"
       ],
       "KindLimit": "Clothes"
     },
@@ -58,8 +58,8 @@
     },
     "MinorityUp": {
       "ConsistsOfChip": [
-        "RespawnSpecialGauge_Save",
         "SpecialIncrease_Up",
+        "RespawnSpecialGauge_Save",
         "SpecialSpec_Up"
       ],
       "KindLimit": "Head"
@@ -91,7 +91,7 @@
     "SomersaultLanding": {
       "ConsistsOfChip": [
         "JumpTime_Save",
-        "SubEffect_Reduction",
+        "OpInkEffect_Reduction",
         "Action_Up"
       ],
       "KindLimit": "Shoes"
@@ -106,9 +106,9 @@
     },
     "SquidMoveSpatter_Reduction": {
       "ConsistsOfChip": [
-        "SquidMove_Up",
+        "InkRecovery_Up",
         "HumanMove_Up",
-        "Action_Up"
+        "SquidMove_Up"
       ],
       "KindLimit": "Clothes"
     },
@@ -139,7 +139,7 @@
     "SuperJumpSign_Hide": {
       "ConsistsOfChip": [
         "JumpTime_Save",
-        "OpInkEffect_Reduction",
+        "SubEffect_Reduction",
         "Action_Up"
       ],
       "KindLimit": "Shoes"
@@ -148,7 +148,7 @@
       "ConsistsOfChip": [
         "MainInk_Save",
         "SubInk_Save",
-        "InkRecovery_Up"
+        "Action_Up"
       ],
       "KindLimit": "Clothes"
     }

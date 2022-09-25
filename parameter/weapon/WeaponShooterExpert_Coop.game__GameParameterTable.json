@@ -5,6 +5,10 @@
       "$type": "spl__BulletShooterDamageParam",
       "ValueMax": 450,
       "ValueMin": 300
+    },
+    "WeaponParam": {
+      "$type": "spl__WeaponShooterParam",
+      "InkConsume": 0.016
     }
   }
 }
