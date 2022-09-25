@@ -55,26 +55,9 @@
       "DamageRate": 0.0,
       "RowKey": "Blaster_BlasterMiddle"
     },
-    "Blaster_BlasterMiddle___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Blaster_BlasterMiddle"
-    },
     "Blaster_BlasterMiddle___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Blaster_BlasterMiddle"
-    },
-    "Blaster_BlasterMiddle___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Blaster_BlasterMiddle"
-    },
-    "Blaster_BlasterMiddle___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Blaster_BlasterMiddle"
     },
@@ -87,16 +70,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Blaster_BlasterMiddle"
-    },
-    "Blaster_BlasterMiddle___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Blaster_BlasterMiddle"
-    },
-    "Blaster_BlasterMiddle___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Blaster_BlasterMiddle"
     },
     "Blaster_BlasterMiddle___Default": {
@@ -313,26 +286,9 @@
       "DamageRate": 0.0,
       "RowKey": "Blaster_BlasterShort"
     },
-    "Blaster_BlasterShort___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Blaster_BlasterShort"
-    },
     "Blaster_BlasterShort___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Blaster_BlasterShort"
-    },
-    "Blaster_BlasterShort___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Blaster_BlasterShort"
-    },
-    "Blaster_BlasterShort___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Blaster_BlasterShort"
     },
@@ -345,16 +301,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Blaster_BlasterShort"
-    },
-    "Blaster_BlasterShort___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Blaster_BlasterShort"
-    },
-    "Blaster_BlasterShort___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Blaster_BlasterShort"
     },
     "Blaster_BlasterShort___Default": {
@@ -571,26 +517,9 @@
       "DamageRate": 0.0,
       "RowKey": "Blaster_KillOneShot"
     },
-    "Blaster_KillOneShot___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Blaster_KillOneShot"
-    },
     "Blaster_KillOneShot___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Blaster_KillOneShot"
-    },
-    "Blaster_KillOneShot___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Blaster_KillOneShot"
-    },
-    "Blaster_KillOneShot___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Blaster_KillOneShot"
     },
@@ -603,16 +532,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Blaster_KillOneShot"
-    },
-    "Blaster_KillOneShot___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Blaster_KillOneShot"
-    },
-    "Blaster_KillOneShot___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Blaster_KillOneShot"
     },
     "Blaster_KillOneShot___Default": {
@@ -829,26 +748,9 @@
       "DamageRate": 0.0,
       "RowKey": "Blaster"
     },
-    "Blaster___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Blaster"
-    },
     "Blaster___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Blaster"
-    },
-    "Blaster___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Blaster"
-    },
-    "Blaster___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Blaster"
     },
@@ -861,16 +763,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Blaster"
-    },
-    "Blaster___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Blaster"
-    },
-    "Blaster___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Blaster"
     },
     "Blaster___Default": {
@@ -1055,25 +947,21 @@
     "BlowerExhale_BombCore___BulletUmbrellaCanopyCompact": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "BulletUmbrellaCanopyCompact",
-      "DamageRate": 5.0,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___BulletUmbrellaCanopyNormal": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "BulletUmbrellaCanopyNormal",
-      "DamageRate": 5.0,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___BulletUmbrellaCanopyWide": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "BulletUmbrellaCanopyWide",
-      "DamageRate": 7.0,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___Chariot": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Chariot",
-      "DamageRate": 2.8,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___CoopEnemyHardBody": {
@@ -1088,26 +976,9 @@
       "DamageRate": 0.0,
       "RowKey": "BlowerExhale_BombCore"
     },
-    "BlowerExhale_BombCore___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "BlowerExhale_BombCore"
-    },
     "BlowerExhale_BombCore___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "BlowerExhale_BombCore"
-    },
-    "BlowerExhale_BombCore___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "BlowerExhale_BombCore"
-    },
-    "BlowerExhale_BombCore___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "BlowerExhale_BombCore"
     },
@@ -1120,16 +991,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "BlowerExhale_BombCore"
-    },
-    "BlowerExhale_BombCore___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "BlowerExhale_BombCore"
-    },
-    "BlowerExhale_BombCore___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___Default": {
@@ -1146,19 +1007,18 @@
     "BlowerExhale_BombCore___Gachihoko_Barrier": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Gachihoko_Barrier",
-      "DamageRate": 5.6,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___GreatBarrier_Barrier": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "GreatBarrier_Barrier",
-      "DamageRate": 5.6,
+      "DamageRate": 1.0,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___GreatBarrier_WeakPoint": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "GreatBarrier_WeakPoint",
-      "DamageRate": 2.8,
+      "DamageRate": 1.0,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___InkRail": {
@@ -1240,7 +1100,6 @@
     "BlowerExhale_BombCore___NiceBall_Armor": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "NiceBall_Armor",
-      "DamageRate": 4.0,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___Propeller": {
@@ -1256,7 +1115,6 @@
     "BlowerExhale_BombCore___ShockSonar": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "ShockSonar",
-      "DamageRate": 5.6,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___SnakeBlock": {
@@ -1267,25 +1125,21 @@
     "BlowerExhale_BombCore___Sponge_Versus": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Sponge_Versus",
-      "DamageRate": 5.6,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___Wsb_Flag": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Wsb_Flag",
-      "DamageRate": 5.6,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___Wsb_Shield": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Wsb_Shield",
-      "DamageRate": 5.6,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale_BombCore___Wsb_Sprinkler": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Wsb_Sprinkler",
-      "DamageRate": 5.6,
       "RowKey": "BlowerExhale_BombCore"
     },
     "BlowerExhale___AttractTarget": {
@@ -1344,26 +1198,9 @@
       "DamageRate": 0.0,
       "RowKey": "BlowerExhale"
     },
-    "BlowerExhale___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "BlowerExhale"
-    },
     "BlowerExhale___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "BlowerExhale"
-    },
-    "BlowerExhale___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "BlowerExhale"
-    },
-    "BlowerExhale___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "BlowerExhale"
     },
@@ -1376,16 +1213,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "BlowerExhale"
-    },
-    "BlowerExhale___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "BlowerExhale"
-    },
-    "BlowerExhale___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "BlowerExhale"
     },
     "BlowerExhale___Default": {
@@ -1592,26 +1419,9 @@
       "DamageRate": 0.0,
       "RowKey": "BlowerInhale"
     },
-    "BlowerInhale___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "BlowerInhale"
-    },
     "BlowerInhale___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "BlowerInhale"
-    },
-    "BlowerInhale___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "BlowerInhale"
-    },
-    "BlowerInhale___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "BlowerInhale"
     },
@@ -1624,16 +1434,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "BlowerInhale"
-    },
-    "BlowerInhale___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "BlowerInhale"
-    },
-    "BlowerInhale___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "BlowerInhale"
     },
     "BlowerInhale___Default": {
@@ -1837,26 +1637,9 @@
       "DamageRate": 0.0,
       "RowKey": "BombFlower"
     },
-    "BombFlower___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "BombFlower"
-    },
     "BombFlower___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "BombFlower"
-    },
-    "BombFlower___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "BombFlower"
-    },
-    "BombFlower___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "BombFlower"
     },
@@ -1869,16 +1652,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "BombFlower"
-    },
-    "BombFlower___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "BombFlower"
-    },
-    "BombFlower___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "BombFlower"
     },
     "BombFlower___Default": {
@@ -2082,27 +1855,10 @@
       "DamageRate": 0.0,
       "RowKey": "Bomb_CurlingBullet"
     },
-    "Bomb_CurlingBullet___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Bomb_CurlingBullet"
-    },
     "Bomb_CurlingBullet___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Bomb_CurlingBullet"
-    },
-    "Bomb_CurlingBullet___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Bomb_CurlingBullet"
-    },
-    "Bomb_CurlingBullet___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Bomb_CurlingBullet"
     },
     "Bomb_CurlingBullet___CoopEnemySakelienTowerPart": {
@@ -2114,16 +1870,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Bomb_CurlingBullet"
-    },
-    "Bomb_CurlingBullet___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Bomb_CurlingBullet"
-    },
-    "Bomb_CurlingBullet___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Bomb_CurlingBullet"
     },
     "Bomb_CurlingBullet___Default": {
@@ -2336,27 +2082,10 @@
       "DamageRate": 1.0,
       "RowKey": "Bomb_DirectHit"
     },
-    "Bomb_DirectHit___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Bomb_DirectHit"
-    },
     "Bomb_DirectHit___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Bomb_DirectHit"
-    },
-    "Bomb_DirectHit___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Bomb_DirectHit"
-    },
-    "Bomb_DirectHit___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Bomb_DirectHit"
     },
     "Bomb_DirectHit___CoopEnemySakelienTowerPart": {
@@ -2368,16 +2097,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Bomb_DirectHit"
-    },
-    "Bomb_DirectHit___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Bomb_DirectHit"
-    },
-    "Bomb_DirectHit___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Bomb_DirectHit"
     },
     "Bomb_DirectHit___Default": {
@@ -2406,7 +2125,7 @@
     "Bomb_DirectHit___GreatBarrier_WeakPoint": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "GreatBarrier_WeakPoint",
-      "DamageRate": 1.5,
+      "DamageRate": 0.5,
       "RowKey": "Bomb_DirectHit"
     },
     "Bomb_DirectHit___InkRail": {
@@ -2599,27 +2318,10 @@
       "DamageRate": 0.0,
       "RowKey": "Bomb_Fizzy"
     },
-    "Bomb_Fizzy___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Bomb_Fizzy"
-    },
     "Bomb_Fizzy___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Bomb_Fizzy"
-    },
-    "Bomb_Fizzy___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Bomb_Fizzy"
-    },
-    "Bomb_Fizzy___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Bomb_Fizzy"
     },
     "Bomb_Fizzy___CoopEnemySakelienTowerPart": {
@@ -2631,16 +2333,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Bomb_Fizzy"
-    },
-    "Bomb_Fizzy___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Bomb_Fizzy"
-    },
-    "Bomb_Fizzy___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Bomb_Fizzy"
     },
     "Bomb_Fizzy___Default": {
@@ -2860,27 +2552,10 @@
       "DamageRate": 0.0,
       "RowKey": "Bomb_Suction"
     },
-    "Bomb_Suction___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Bomb_Suction"
-    },
     "Bomb_Suction___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Bomb_Suction"
-    },
-    "Bomb_Suction___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Bomb_Suction"
-    },
-    "Bomb_Suction___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Bomb_Suction"
     },
     "Bomb_Suction___CoopEnemySakelienTowerPart": {
@@ -2892,16 +2567,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Bomb_Suction"
-    },
-    "Bomb_Suction___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Bomb_Suction"
-    },
-    "Bomb_Suction___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Bomb_Suction"
     },
     "Bomb_Suction___Default": {
@@ -3120,27 +2785,10 @@
       "DamageRate": 0.0,
       "RowKey": "Bomb_TorpedoBullet"
     },
-    "Bomb_TorpedoBullet___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Bomb_TorpedoBullet"
-    },
     "Bomb_TorpedoBullet___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Bomb_TorpedoBullet"
-    },
-    "Bomb_TorpedoBullet___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Bomb_TorpedoBullet"
-    },
-    "Bomb_TorpedoBullet___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Bomb_TorpedoBullet"
     },
     "Bomb_TorpedoBullet___CoopEnemySakelienTowerPart": {
@@ -3152,16 +2800,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Bomb_TorpedoBullet"
-    },
-    "Bomb_TorpedoBullet___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Bomb_TorpedoBullet"
-    },
-    "Bomb_TorpedoBullet___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Bomb_TorpedoBullet"
     },
     "Bomb_TorpedoBullet___Default": {
@@ -3376,27 +3014,10 @@
       "DamageRate": 0.0,
       "RowKey": "Bomb_TorpedoSplashBurst"
     },
-    "Bomb_TorpedoSplashBurst___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Bomb_TorpedoSplashBurst"
-    },
     "Bomb_TorpedoSplashBurst___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Bomb_TorpedoSplashBurst"
-    },
-    "Bomb_TorpedoSplashBurst___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Bomb_TorpedoSplashBurst"
-    },
-    "Bomb_TorpedoSplashBurst___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Bomb_TorpedoSplashBurst"
     },
     "Bomb_TorpedoSplashBurst___CoopEnemySakelienTowerPart": {
@@ -3408,16 +3029,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Bomb_TorpedoSplashBurst"
-    },
-    "Bomb_TorpedoSplashBurst___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Bomb_TorpedoSplashBurst"
-    },
-    "Bomb_TorpedoSplashBurst___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Bomb_TorpedoSplashBurst"
     },
     "Bomb_TorpedoSplashBurst___Default": {
@@ -3445,7 +3056,7 @@
     "Bomb_TorpedoSplashBurst___GreatBarrier_WeakPoint": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "GreatBarrier_WeakPoint",
-      "DamageRate": 1.0,
+      "DamageRate": 0.25,
       "RowKey": "Bomb_TorpedoSplashBurst"
     },
     "Bomb_TorpedoSplashBurst___InkRail": {
@@ -3626,27 +3237,10 @@
       "DamageRate": 0.0,
       "RowKey": "Bomb_Trap"
     },
-    "Bomb_Trap___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Bomb_Trap"
-    },
     "Bomb_Trap___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Bomb_Trap"
-    },
-    "Bomb_Trap___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Bomb_Trap"
-    },
-    "Bomb_Trap___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Bomb_Trap"
     },
     "Bomb_Trap___CoopEnemySakelienTowerPart": {
@@ -3658,16 +3252,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Bomb_Trap"
-    },
-    "Bomb_Trap___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Bomb_Trap"
-    },
-    "Bomb_Trap___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Bomb_Trap"
     },
     "Bomb_Trap___Default": {
@@ -3887,27 +3471,10 @@
       "DamageRate": 1.0,
       "RowKey": "Bomb"
     },
-    "Bomb___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Bomb"
-    },
     "Bomb___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Bomb"
-    },
-    "Bomb___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Bomb"
-    },
-    "Bomb___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Bomb"
     },
     "Bomb___CoopEnemySakelienTowerPart": {
@@ -3919,16 +3486,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Bomb"
-    },
-    "Bomb___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Bomb"
-    },
-    "Bomb___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Bomb"
     },
     "Bomb___Default": {
@@ -4144,26 +3701,9 @@
       "DamageRate": 0.0,
       "RowKey": "BrushCore"
     },
-    "BrushCore___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "BrushCore"
-    },
     "BrushCore___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "BrushCore"
-    },
-    "BrushCore___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "BrushCore"
-    },
-    "BrushCore___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "BrushCore"
     },
@@ -4176,18 +3716,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "BrushCore"
-    },
-    "BrushCore___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "DamageRate": 1.0,
-      "RowKey": "BrushCore"
-    },
-    "BrushCore___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
-      "DamageRate": 2.0,
       "RowKey": "BrushCore"
     },
     "BrushCore___Default": {
@@ -4403,26 +3931,9 @@
       "DamageRate": 0.0,
       "RowKey": "BrushSplash"
     },
-    "BrushSplash___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "BrushSplash"
-    },
     "BrushSplash___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "BrushSplash"
-    },
-    "BrushSplash___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "BrushSplash"
-    },
-    "BrushSplash___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "BrushSplash"
     },
@@ -4435,16 +3946,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "BrushSplash"
-    },
-    "BrushSplash___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "BrushSplash"
-    },
-    "BrushSplash___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "BrushSplash"
     },
     "BrushSplash___Default": {
@@ -4653,28 +4154,11 @@
     "CannonMissile___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.0,
-      "RowKey": "CannonMissile"
-    },
-    "CannonMissile___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
       "RowKey": "CannonMissile"
     },
     "CannonMissile___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "CannonMissile"
-    },
-    "CannonMissile___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "CannonMissile"
-    },
-    "CannonMissile___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "CannonMissile"
     },
     "CannonMissile___CoopEnemySakelienTowerPart": {
@@ -4685,16 +4169,6 @@
     "CannonMissile___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "CannonMissile"
-    },
-    "CannonMissile___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "CannonMissile"
-    },
-    "CannonMissile___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "CannonMissile"
     },
     "CannonMissile___Default": {
@@ -4900,26 +4374,9 @@
       "DamageRate": 0.0,
       "RowKey": "ChargerFull_Light"
     },
-    "ChargerFull_Light___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ChargerFull_Light"
-    },
     "ChargerFull_Light___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "ChargerFull_Light"
-    },
-    "ChargerFull_Light___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ChargerFull_Light"
-    },
-    "ChargerFull_Light___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "ChargerFull_Light"
     },
@@ -4933,16 +4390,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "ChargerFull_Light"
-    },
-    "ChargerFull_Light___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ChargerFull_Light"
-    },
-    "ChargerFull_Light___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ChargerFull_Light"
     },
     "ChargerFull_Light___Default": {
@@ -5159,26 +4606,9 @@
       "DamageRate": 0.0,
       "RowKey": "ChargerFull_Long"
     },
-    "ChargerFull_Long___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ChargerFull_Long"
-    },
     "ChargerFull_Long___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "ChargerFull_Long"
-    },
-    "ChargerFull_Long___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ChargerFull_Long"
-    },
-    "ChargerFull_Long___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "ChargerFull_Long"
     },
@@ -5192,16 +4622,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "ChargerFull_Long"
-    },
-    "ChargerFull_Long___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ChargerFull_Long"
-    },
-    "ChargerFull_Long___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ChargerFull_Long"
     },
     "ChargerFull_Long___Default": {
@@ -5418,26 +4838,9 @@
       "DamageRate": 0.0,
       "RowKey": "ChargerFull"
     },
-    "ChargerFull___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ChargerFull"
-    },
     "ChargerFull___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "ChargerFull"
-    },
-    "ChargerFull___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ChargerFull"
-    },
-    "ChargerFull___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "ChargerFull"
     },
@@ -5451,16 +4854,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "ChargerFull"
-    },
-    "ChargerFull___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ChargerFull"
-    },
-    "ChargerFull___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ChargerFull"
     },
     "ChargerFull___Default": {
@@ -5677,26 +5070,9 @@
       "DamageRate": 0.0,
       "RowKey": "Charger_Light"
     },
-    "Charger_Light___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Charger_Light"
-    },
     "Charger_Light___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Charger_Light"
-    },
-    "Charger_Light___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Charger_Light"
-    },
-    "Charger_Light___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Charger_Light"
     },
@@ -5710,16 +5086,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "Charger_Light"
-    },
-    "Charger_Light___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Charger_Light"
-    },
-    "Charger_Light___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Charger_Light"
     },
     "Charger_Light___Default": {
@@ -5936,26 +5302,9 @@
       "DamageRate": 0.0,
       "RowKey": "Charger_Long"
     },
-    "Charger_Long___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Charger_Long"
-    },
     "Charger_Long___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Charger_Long"
-    },
-    "Charger_Long___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Charger_Long"
-    },
-    "Charger_Long___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Charger_Long"
     },
@@ -5969,16 +5318,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "Charger_Long"
-    },
-    "Charger_Long___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Charger_Long"
-    },
-    "Charger_Long___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Charger_Long"
     },
     "Charger_Long___Default": {
@@ -6194,26 +5533,9 @@
       "DamageRate": 0.0,
       "RowKey": "Charger"
     },
-    "Charger___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Charger"
-    },
     "Charger___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Charger"
-    },
-    "Charger___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Charger"
-    },
-    "Charger___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Charger"
     },
@@ -6227,16 +5549,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "Charger"
-    },
-    "Charger___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Charger"
-    },
-    "Charger___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Charger"
     },
     "Charger___Default": {
@@ -6452,26 +5764,9 @@
       "DamageRate": 0.0,
       "RowKey": "Chariot_Body"
     },
-    "Chariot_Body___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Chariot_Body"
-    },
     "Chariot_Body___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Chariot_Body"
-    },
-    "Chariot_Body___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Chariot_Body"
-    },
-    "Chariot_Body___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Chariot_Body"
     },
@@ -6484,16 +5779,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Chariot_Body"
-    },
-    "Chariot_Body___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Chariot_Body"
-    },
-    "Chariot_Body___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Chariot_Body"
     },
     "Chariot_Body___Default": {
@@ -6702,29 +5987,13 @@
     "Chariot_Cannon___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.0,
-      "RowKey": "Chariot_Cannon"
-    },
-    "Chariot_Cannon___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
+      "DamageRate": 1.0,
       "RowKey": "Chariot_Cannon"
     },
     "Chariot_Cannon___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Chariot_Cannon"
-    },
-    "Chariot_Cannon___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Chariot_Cannon"
-    },
-    "Chariot_Cannon___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Chariot_Cannon"
     },
     "Chariot_Cannon___CoopEnemySakelienTowerPart": {
@@ -6736,16 +6005,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Chariot_Cannon"
-    },
-    "Chariot_Cannon___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Chariot_Cannon"
-    },
-    "Chariot_Cannon___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Chariot_Cannon"
     },
     "Chariot_Cannon___Default": {
@@ -6906,715 +6165,6 @@
       "DamageRate": 3.0,
       "RowKey": "Chariot_Cannon"
     },
-    "CoopEnemyRush___AttractTarget": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "AttractTarget",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___BlowerInhale": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BlowerInhale",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___BlowoutsRoll": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BlowoutsRoll",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___Bomb_TorpedoBullet": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Bomb_TorpedoBullet",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___BulletUmbrellaCanopyCompact": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyCompact",
-      "DamageRate": 0.0,
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___BulletUmbrellaCanopyNormal": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyNormal",
-      "DamageRate": 0.0,
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___BulletUmbrellaCanopyWide": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyWide",
-      "DamageRate": 0.0,
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___Chariot": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Chariot",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopEnemyHardBody": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemyHardBody",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopEnemySakeTamaire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaire",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopEnemySakelienCupTwins": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopEnemySakelienTowerPart": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienTowerPart",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopEnemySakelienTowerUnite": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___Default": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Default",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___EnemyRockBall": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "EnemyRockBall",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___Gachihoko_Barrier": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Gachihoko_Barrier",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___GreatBarrier_Barrier": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "GreatBarrier_Barrier",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___GreatBarrier_WeakPoint": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "GreatBarrier_WeakPoint",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___InkRail": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "InkRail",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnBossWeak": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBossWeak",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnBoxHard": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxHard",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnBoxL": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxL",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnBoxS": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxS",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnEnemy": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemy",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnEnemyEscape": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyEscape",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnEnemyShield": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyShield",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnEnemyTakopodDEV": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyTakopodDEV",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnGoal": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnGoal",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnLeaderMoray": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnLeaderMoray",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnMantaShadow": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnMantaShadow",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnRailKingHand": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnRailKingHand",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnSharkKing": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnSharkKing",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___MsnYakan": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnYakan",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___NiceBall_Armor": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "NiceBall_Armor",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___Propeller": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Propeller",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___SalmonBuddy": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "SalmonBuddy",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___ShockSonar": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "ShockSonar",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___SnakeBlock": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "SnakeBlock",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___Sponge_Versus": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Sponge_Versus",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___Wsb_Flag": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Flag",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___Wsb_Shield": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Shield",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemyRush___Wsb_Sprinkler": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Sprinkler",
-      "RowKey": "CoopEnemyRush"
-    },
-    "CoopEnemySakeSaucerFall___AttractTarget": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "AttractTarget",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___BlowerInhale": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BlowerInhale",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___BlowoutsRoll": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BlowoutsRoll",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___Bomb_TorpedoBullet": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Bomb_TorpedoBullet",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___BulletUmbrellaCanopyCompact": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyCompact",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___BulletUmbrellaCanopyNormal": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyNormal",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___BulletUmbrellaCanopyWide": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyWide",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___Chariot": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Chariot",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopEnemyHardBody": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemyHardBody",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopEnemySakeTamaire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaire",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopEnemySakelienCupTwins": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "DamageRate": 0.0,
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopEnemySakelienTowerPart": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienTowerPart",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopEnemySakelienTowerUnite": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___Default": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Default",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___EnemyRockBall": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "EnemyRockBall",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___Gachihoko_Barrier": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Gachihoko_Barrier",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___GreatBarrier_Barrier": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "GreatBarrier_Barrier",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___GreatBarrier_WeakPoint": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "GreatBarrier_WeakPoint",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___InkRail": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "InkRail",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnBossWeak": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBossWeak",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnBoxHard": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxHard",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnBoxL": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxL",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnBoxS": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxS",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnEnemy": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemy",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnEnemyEscape": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyEscape",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnEnemyShield": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyShield",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnEnemyTakopodDEV": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyTakopodDEV",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnGoal": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnGoal",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnLeaderMoray": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnLeaderMoray",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnMantaShadow": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnMantaShadow",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnRailKingHand": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnRailKingHand",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnSharkKing": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnSharkKing",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___MsnYakan": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnYakan",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___NiceBall_Armor": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "NiceBall_Armor",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___Propeller": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Propeller",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___SalmonBuddy": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "SalmonBuddy",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___ShockSonar": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "ShockSonar",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___SnakeBlock": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "SnakeBlock",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___Sponge_Versus": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Sponge_Versus",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___Wsb_Flag": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Flag",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___Wsb_Shield": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Shield",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeSaucerFall___Wsb_Sprinkler": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Sprinkler",
-      "RowKey": "CoopEnemySakeSaucerFall"
-    },
-    "CoopEnemySakeTamaireBombDamage___AttractTarget": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "AttractTarget",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___BlowerInhale": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BlowerInhale",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___BlowoutsRoll": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BlowoutsRoll",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___Bomb_TorpedoBullet": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Bomb_TorpedoBullet",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___BulletUmbrellaCanopyCompact": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyCompact",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___BulletUmbrellaCanopyNormal": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyNormal",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___BulletUmbrellaCanopyWide": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyWide",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___Chariot": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Chariot",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopEnemyHardBody": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemyHardBody",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopEnemySakeTamaire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaire",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopEnemySakelienCupTwins": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopEnemySakelienTowerPart": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienTowerPart",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopEnemySakelienTowerUnite": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___Default": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Default",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___EnemyRockBall": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "EnemyRockBall",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___Gachihoko_Barrier": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Gachihoko_Barrier",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___GreatBarrier_Barrier": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "GreatBarrier_Barrier",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___GreatBarrier_WeakPoint": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "GreatBarrier_WeakPoint",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___InkRail": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "InkRail",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnBossWeak": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBossWeak",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnBoxHard": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxHard",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnBoxL": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxL",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnBoxS": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxS",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnEnemy": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemy",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnEnemyEscape": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyEscape",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnEnemyShield": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyShield",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnEnemyTakopodDEV": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyTakopodDEV",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnGoal": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnGoal",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnLeaderMoray": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnLeaderMoray",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnMantaShadow": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnMantaShadow",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnRailKingHand": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnRailKingHand",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnSharkKing": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnSharkKing",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___MsnYakan": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnYakan",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___NiceBall_Armor": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "NiceBall_Armor",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___Propeller": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Propeller",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___SalmonBuddy": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "SalmonBuddy",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___ShockSonar": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "ShockSonar",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___SnakeBlock": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "SnakeBlock",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___Sponge_Versus": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Sponge_Versus",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___Wsb_Flag": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Flag",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___Wsb_Shield": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Shield",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
-    "CoopEnemySakeTamaireBombDamage___Wsb_Sprinkler": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Sprinkler",
-      "RowKey": "CoopEnemySakeTamaireBombDamage"
-    },
     "Default___AttractTarget": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "AttractTarget",
@@ -7670,26 +6220,9 @@
       "DamageRate": 0.0,
       "RowKey": "Default"
     },
-    "Default___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Default"
-    },
     "Default___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Default"
-    },
-    "Default___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Default"
-    },
-    "Default___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Default"
     },
@@ -7702,16 +6235,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Default"
-    },
-    "Default___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Default"
-    },
-    "Default___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Default"
     },
     "Default___Default": {
@@ -7916,26 +6439,9 @@
       "DamageRate": 0.0,
       "RowKey": "EnemyFlyingHohei_BombCore"
     },
-    "EnemyFlyingHohei_BombCore___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "EnemyFlyingHohei_BombCore"
-    },
     "EnemyFlyingHohei_BombCore___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "EnemyFlyingHohei_BombCore"
-    },
-    "EnemyFlyingHohei_BombCore___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "EnemyFlyingHohei_BombCore"
-    },
-    "EnemyFlyingHohei_BombCore___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "EnemyFlyingHohei_BombCore"
     },
@@ -7948,16 +6454,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "EnemyFlyingHohei_BombCore"
-    },
-    "EnemyFlyingHohei_BombCore___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "EnemyFlyingHohei_BombCore"
-    },
-    "EnemyFlyingHohei_BombCore___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "EnemyFlyingHohei_BombCore"
     },
     "EnemyFlyingHohei_BombCore___Default": {
@@ -8108,255 +6604,6 @@
       "ColumnKey": "Wsb_Sprinkler",
       "RowKey": "EnemyFlyingHohei_BombCore"
     },
-    "GachihokoTimeUpBurst___AttractTarget": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "AttractTarget",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___BlowerInhale": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BlowerInhale",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___BlowoutsRoll": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BlowoutsRoll",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___Bomb_TorpedoBullet": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Bomb_TorpedoBullet",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___BulletUmbrellaCanopyCompact": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyCompact",
-      "DamageRate": 1.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___BulletUmbrellaCanopyNormal": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyNormal",
-      "DamageRate": 1.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___BulletUmbrellaCanopyWide": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "BulletUmbrellaCanopyWide",
-      "DamageRate": 1.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___Chariot": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Chariot",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopEnemyHardBody": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemyHardBody",
-      "DamageRate": 0.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopEnemySakeTamaire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopEnemySakelienCupTwins": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopEnemySakelienTowerPart": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienTowerPart",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopEnemySakelienTowerUnite": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "DamageRate": 0.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___Default": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Default",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___EnemyRockBall": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "EnemyRockBall",
-      "DamageRate": 0.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___Gachihoko_Barrier": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Gachihoko_Barrier",
-      "DamageRate": 0.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___GreatBarrier_Barrier": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "GreatBarrier_Barrier",
-      "DamageRate": 1.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___GreatBarrier_WeakPoint": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "GreatBarrier_WeakPoint",
-      "DamageRate": 1.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___InkRail": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "InkRail",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnBossWeak": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBossWeak",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnBoxHard": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxHard",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnBoxL": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxL",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnBoxS": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnBoxS",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnEnemy": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemy",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnEnemyEscape": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyEscape",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnEnemyShield": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyShield",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnEnemyTakopodDEV": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnEnemyTakopodDEV",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnGoal": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnGoal",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnLeaderMoray": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnLeaderMoray",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnMantaShadow": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnMantaShadow",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnRailKingHand": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnRailKingHand",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnSharkKing": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnSharkKing",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___MsnYakan": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "MsnYakan",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___NiceBall_Armor": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "NiceBall_Armor",
-      "DamageRate": 1.0,
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___Propeller": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Propeller",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___SalmonBuddy": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "SalmonBuddy",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___ShockSonar": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "ShockSonar",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___SnakeBlock": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "SnakeBlock",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___Sponge_Versus": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Sponge_Versus",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___Wsb_Flag": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Flag",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___Wsb_Shield": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Shield",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
-    "GachihokoTimeUpBurst___Wsb_Sprinkler": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "Wsb_Sprinkler",
-      "RowKey": "GachihokoTimeUpBurst"
-    },
     "Gachihoko_BombCore___AttractTarget": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "AttractTarget",
@@ -8412,26 +6659,9 @@
       "DamageRate": 0.0,
       "RowKey": "Gachihoko_BombCore"
     },
-    "Gachihoko_BombCore___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Gachihoko_BombCore"
-    },
     "Gachihoko_BombCore___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Gachihoko_BombCore"
-    },
-    "Gachihoko_BombCore___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Gachihoko_BombCore"
-    },
-    "Gachihoko_BombCore___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Gachihoko_BombCore"
     },
@@ -8444,16 +6674,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Gachihoko_BombCore"
-    },
-    "Gachihoko_BombCore___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Gachihoko_BombCore"
-    },
-    "Gachihoko_BombCore___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Gachihoko_BombCore"
     },
     "Gachihoko_BombCore___Default": {
@@ -8665,26 +6885,9 @@
       "DamageRate": 0.0,
       "RowKey": "Gachihoko_Bullet"
     },
-    "Gachihoko_Bullet___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Gachihoko_Bullet"
-    },
     "Gachihoko_Bullet___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Gachihoko_Bullet"
-    },
-    "Gachihoko_Bullet___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Gachihoko_Bullet"
-    },
-    "Gachihoko_Bullet___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Gachihoko_Bullet"
     },
@@ -8697,16 +6900,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Gachihoko_Bullet"
-    },
-    "Gachihoko_Bullet___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Gachihoko_Bullet"
-    },
-    "Gachihoko_Bullet___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Gachihoko_Bullet"
     },
     "Gachihoko_Bullet___Default": {
@@ -8910,26 +7103,9 @@
       "DamageRate": 0.0,
       "RowKey": "Geyser"
     },
-    "Geyser___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Geyser"
-    },
     "Geyser___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Geyser"
-    },
-    "Geyser___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Geyser"
-    },
-    "Geyser___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Geyser"
     },
@@ -8942,16 +7118,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Geyser"
-    },
-    "Geyser___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Geyser"
-    },
-    "Geyser___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Geyser"
     },
     "Geyser___Default": {
@@ -9153,27 +7319,10 @@
       "DamageRate": 0.0,
       "RowKey": "GoldenIkuraAttack"
     },
-    "GoldenIkuraAttack___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "GoldenIkuraAttack"
-    },
     "GoldenIkuraAttack___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "GoldenIkuraAttack"
-    },
-    "GoldenIkuraAttack___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "GoldenIkuraAttack"
-    },
-    "GoldenIkuraAttack___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "GoldenIkuraAttack"
     },
     "GoldenIkuraAttack___CoopEnemySakelienTowerPart": {
@@ -9185,16 +7334,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "GoldenIkuraAttack"
-    },
-    "GoldenIkuraAttack___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "GoldenIkuraAttack"
-    },
-    "GoldenIkuraAttack___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "GoldenIkuraAttack"
     },
     "GoldenIkuraAttack___Default": {
@@ -9405,26 +7544,9 @@
       "DamageRate": 0.0,
       "RowKey": "InkStormRain"
     },
-    "InkStormRain___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "InkStormRain"
-    },
     "InkStormRain___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "InkStormRain"
-    },
-    "InkStormRain___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "InkStormRain"
-    },
-    "InkStormRain___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "InkStormRain"
     },
@@ -9438,16 +7560,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "InkStormRain"
-    },
-    "InkStormRain___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "InkStormRain"
-    },
-    "InkStormRain___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "InkStormRain"
     },
     "InkStormRain___Default": {
@@ -9682,26 +7794,9 @@
       "DamageRate": 0.0,
       "RowKey": "InkStorm"
     },
-    "InkStorm___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "InkStorm"
-    },
     "InkStorm___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "InkStorm"
-    },
-    "InkStorm___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "InkStorm"
-    },
-    "InkStorm___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "InkStorm"
     },
@@ -9714,16 +7809,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "InkStorm"
-    },
-    "InkStorm___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "InkStorm"
-    },
-    "InkStorm___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "InkStorm"
     },
     "InkStorm___Default": {
@@ -9933,29 +8018,13 @@
     "Jetpack_BombCore___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.0,
-      "RowKey": "Jetpack_BombCore"
-    },
-    "Jetpack_BombCore___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
+      "DamageRate": 1.0,
       "RowKey": "Jetpack_BombCore"
     },
     "Jetpack_BombCore___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Jetpack_BombCore"
-    },
-    "Jetpack_BombCore___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Jetpack_BombCore"
-    },
-    "Jetpack_BombCore___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Jetpack_BombCore"
     },
     "Jetpack_BombCore___CoopEnemySakelienTowerPart": {
@@ -9966,16 +8035,6 @@
     "Jetpack_BombCore___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "Jetpack_BombCore"
-    },
-    "Jetpack_BombCore___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Jetpack_BombCore"
-    },
-    "Jetpack_BombCore___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Jetpack_BombCore"
     },
     "Jetpack_BombCore___Default": {
@@ -10190,12 +8249,6 @@
     "Jetpack_Bullet___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.0,
-      "RowKey": "Jetpack_Bullet"
-    },
-    "Jetpack_Bullet___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
       "DamageRate": 1.0,
       "RowKey": "Jetpack_Bullet"
     },
@@ -10203,17 +8256,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Jetpack_Bullet"
-    },
-    "Jetpack_Bullet___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Jetpack_Bullet"
-    },
-    "Jetpack_Bullet___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Jetpack_Bullet"
     },
     "Jetpack_Bullet___CoopEnemySakelienTowerPart": {
@@ -10224,16 +8266,6 @@
     "Jetpack_Bullet___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "Jetpack_Bullet"
-    },
-    "Jetpack_Bullet___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Jetpack_Bullet"
-    },
-    "Jetpack_Bullet___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Jetpack_Bullet"
     },
     "Jetpack_Bullet___Default": {
@@ -10447,29 +8479,13 @@
     "Jetpack_Coop___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.0,
-      "RowKey": "Jetpack_Coop"
-    },
-    "Jetpack_Coop___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
+      "DamageRate": 1.0,
       "RowKey": "Jetpack_Coop"
     },
     "Jetpack_Coop___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Jetpack_Coop"
-    },
-    "Jetpack_Coop___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Jetpack_Coop"
-    },
-    "Jetpack_Coop___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Jetpack_Coop"
     },
     "Jetpack_Coop___CoopEnemySakelienTowerPart": {
@@ -10480,16 +8496,6 @@
     "Jetpack_Coop___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "Jetpack_Coop"
-    },
-    "Jetpack_Coop___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Jetpack_Coop"
-    },
-    "Jetpack_Coop___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Jetpack_Coop"
     },
     "Jetpack_Coop___Default": {
@@ -10698,29 +8704,12 @@
     "Jetpack_Jet___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.0,
-      "RowKey": "Jetpack_Jet"
-    },
-    "Jetpack_Jet___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
+      "DamageRate": 1.0,
       "RowKey": "Jetpack_Jet"
     },
     "Jetpack_Jet___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Jetpack_Jet"
-    },
-    "Jetpack_Jet___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Jetpack_Jet"
-    },
-    "Jetpack_Jet___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Jetpack_Jet"
     },
@@ -10732,16 +8721,6 @@
     "Jetpack_Jet___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "Jetpack_Jet"
-    },
-    "Jetpack_Jet___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Jetpack_Jet"
-    },
-    "Jetpack_Jet___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Jetpack_Jet"
     },
     "Jetpack_Jet___Default": {
@@ -10954,26 +8933,9 @@
       "DamageRate": 0.0,
       "RowKey": "Maneuver_Short"
     },
-    "Maneuver_Short___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Maneuver_Short"
-    },
     "Maneuver_Short___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Maneuver_Short"
-    },
-    "Maneuver_Short___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Maneuver_Short"
-    },
-    "Maneuver_Short___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Maneuver_Short"
     },
@@ -10986,16 +8948,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Maneuver_Short"
-    },
-    "Maneuver_Short___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Maneuver_Short"
-    },
-    "Maneuver_Short___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Maneuver_Short"
     },
     "Maneuver_Short___Default": {
@@ -11203,26 +9155,9 @@
       "DamageRate": 0.0,
       "RowKey": "Maneuver"
     },
-    "Maneuver___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Maneuver"
-    },
     "Maneuver___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Maneuver"
-    },
-    "Maneuver___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Maneuver"
-    },
-    "Maneuver___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Maneuver"
     },
@@ -11235,16 +9170,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Maneuver"
-    },
-    "Maneuver___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Maneuver"
-    },
-    "Maneuver___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Maneuver"
     },
     "Maneuver___Default": {
@@ -11448,29 +9373,12 @@
     "MicroLaser___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.5,
-      "RowKey": "MicroLaser"
-    },
-    "MicroLaser___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
+      "DamageRate": 1.0,
       "RowKey": "MicroLaser"
     },
     "MicroLaser___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "MicroLaser"
-    },
-    "MicroLaser___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "MicroLaser"
-    },
-    "MicroLaser___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "MicroLaser"
     },
@@ -11484,16 +9392,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "MicroLaser"
-    },
-    "MicroLaser___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "MicroLaser"
-    },
-    "MicroLaser___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "MicroLaser"
     },
     "MicroLaser___Default": {
@@ -11702,26 +9600,9 @@
       "DamageRate": 0.0,
       "RowKey": "MissionSalmonBuddy"
     },
-    "MissionSalmonBuddy___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "MissionSalmonBuddy"
-    },
     "MissionSalmonBuddy___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "MissionSalmonBuddy"
-    },
-    "MissionSalmonBuddy___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "MissionSalmonBuddy"
-    },
-    "MissionSalmonBuddy___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "MissionSalmonBuddy"
     },
@@ -11734,16 +9615,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "MissionSalmonBuddy"
-    },
-    "MissionSalmonBuddy___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "MissionSalmonBuddy"
-    },
-    "MissionSalmonBuddy___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "MissionSalmonBuddy"
     },
     "MissionSalmonBuddy___Default": {
@@ -11952,26 +9823,9 @@
       "DamageRate": 0.0,
       "RowKey": "MovePainter_Burst"
     },
-    "MovePainter_Burst___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "MovePainter_Burst"
-    },
     "MovePainter_Burst___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "MovePainter_Burst"
-    },
-    "MovePainter_Burst___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "MovePainter_Burst"
-    },
-    "MovePainter_Burst___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "MovePainter_Burst"
     },
     "MovePainter_Burst___CoopEnemySakelienTowerPart": {
@@ -11982,16 +9836,6 @@
     "MovePainter_Burst___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "MovePainter_Burst"
-    },
-    "MovePainter_Burst___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "MovePainter_Burst"
-    },
-    "MovePainter_Burst___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "MovePainter_Burst"
     },
     "MovePainter_Burst___Default": {
@@ -12198,26 +10042,9 @@
       "DamageRate": 0.0,
       "RowKey": "MovePainter_Direct"
     },
-    "MovePainter_Direct___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "MovePainter_Direct"
-    },
     "MovePainter_Direct___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "MovePainter_Direct"
-    },
-    "MovePainter_Direct___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "MovePainter_Direct"
-    },
-    "MovePainter_Direct___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "MovePainter_Direct"
     },
@@ -12230,16 +10057,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "MovePainter_Direct"
-    },
-    "MovePainter_Direct___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "MovePainter_Direct"
-    },
-    "MovePainter_Direct___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "MovePainter_Direct"
     },
     "MovePainter_Direct___Default": {
@@ -12448,26 +10265,9 @@
       "DamageRate": 0.0,
       "RowKey": "MultiMissile_BombCore"
     },
-    "MultiMissile_BombCore___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "MultiMissile_BombCore"
-    },
     "MultiMissile_BombCore___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "MultiMissile_BombCore"
-    },
-    "MultiMissile_BombCore___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "MultiMissile_BombCore"
-    },
-    "MultiMissile_BombCore___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "MultiMissile_BombCore"
     },
@@ -12480,16 +10280,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "MultiMissile_BombCore"
-    },
-    "MultiMissile_BombCore___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "MultiMissile_BombCore"
-    },
-    "MultiMissile_BombCore___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "MultiMissile_BombCore"
     },
     "MultiMissile_BombCore___Default": {
@@ -12709,26 +10499,9 @@
       "DamageRate": 0.0,
       "RowKey": "MultiMissile_Bullet"
     },
-    "MultiMissile_Bullet___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "MultiMissile_Bullet"
-    },
     "MultiMissile_Bullet___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "MultiMissile_Bullet"
-    },
-    "MultiMissile_Bullet___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "MultiMissile_Bullet"
-    },
-    "MultiMissile_Bullet___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "MultiMissile_Bullet"
     },
@@ -12741,16 +10514,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "MultiMissile_Bullet"
-    },
-    "MultiMissile_Bullet___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "MultiMissile_Bullet"
-    },
-    "MultiMissile_Bullet___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "MultiMissile_Bullet"
     },
     "MultiMissile_Bullet___Default": {
@@ -12966,26 +10729,9 @@
       "DamageRate": 1.0,
       "RowKey": "NiceBall"
     },
-    "NiceBall___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "NiceBall"
-    },
     "NiceBall___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "NiceBall"
-    },
-    "NiceBall___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "NiceBall"
-    },
-    "NiceBall___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "NiceBall"
     },
@@ -12998,16 +10744,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "NiceBall"
-    },
-    "NiceBall___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "NiceBall"
-    },
-    "NiceBall___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "NiceBall"
     },
     "NiceBall___Default": {
@@ -13216,26 +10952,9 @@
       "DamageRate": 0.0,
       "RowKey": "ObjectEffect_Up"
     },
-    "ObjectEffect_Up___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ObjectEffect_Up"
-    },
     "ObjectEffect_Up___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "ObjectEffect_Up"
-    },
-    "ObjectEffect_Up___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ObjectEffect_Up"
-    },
-    "ObjectEffect_Up___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "ObjectEffect_Up"
     },
     "ObjectEffect_Up___CoopEnemySakelienTowerPart": {
@@ -13246,16 +10965,6 @@
     "ObjectEffect_Up___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "ObjectEffect_Up"
-    },
-    "ObjectEffect_Up___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ObjectEffect_Up"
-    },
-    "ObjectEffect_Up___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ObjectEffect_Up"
     },
     "ObjectEffect_Up___Default": {
@@ -13467,26 +11176,9 @@
       "DamageRate": 0.0,
       "RowKey": "RollerCore"
     },
-    "RollerCore___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "RollerCore"
-    },
     "RollerCore___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "RollerCore"
-    },
-    "RollerCore___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "RollerCore"
-    },
-    "RollerCore___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "RollerCore"
     },
@@ -13500,17 +11192,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "RollerCore"
-    },
-    "RollerCore___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "DamageRate": 1.0,
-      "RowKey": "RollerCore"
-    },
-    "RollerCore___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "RollerCore"
     },
     "RollerCore___Default": {
@@ -13725,26 +11406,9 @@
       "DamageRate": 0.0,
       "RowKey": "RollerSplash_Compact"
     },
-    "RollerSplash_Compact___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "RollerSplash_Compact"
-    },
     "RollerSplash_Compact___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "RollerSplash_Compact"
-    },
-    "RollerSplash_Compact___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "RollerSplash_Compact"
-    },
-    "RollerSplash_Compact___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "RollerSplash_Compact"
     },
@@ -13758,16 +11422,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "RollerSplash_Compact"
-    },
-    "RollerSplash_Compact___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "RollerSplash_Compact"
-    },
-    "RollerSplash_Compact___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "RollerSplash_Compact"
     },
     "RollerSplash_Compact___Default": {
@@ -13983,26 +11637,9 @@
       "DamageRate": 0.0,
       "RowKey": "RollerSplash_Heavy"
     },
-    "RollerSplash_Heavy___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "RollerSplash_Heavy"
-    },
     "RollerSplash_Heavy___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "RollerSplash_Heavy"
-    },
-    "RollerSplash_Heavy___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "RollerSplash_Heavy"
-    },
-    "RollerSplash_Heavy___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "RollerSplash_Heavy"
     },
@@ -14016,16 +11653,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "RollerSplash_Heavy"
-    },
-    "RollerSplash_Heavy___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "RollerSplash_Heavy"
-    },
-    "RollerSplash_Heavy___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "RollerSplash_Heavy"
     },
     "RollerSplash_Heavy___Default": {
@@ -14242,26 +11869,9 @@
       "DamageRate": 0.0,
       "RowKey": "RollerSplash_Hunter"
     },
-    "RollerSplash_Hunter___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "RollerSplash_Hunter"
-    },
     "RollerSplash_Hunter___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "RollerSplash_Hunter"
-    },
-    "RollerSplash_Hunter___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "RollerSplash_Hunter"
-    },
-    "RollerSplash_Hunter___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "RollerSplash_Hunter"
     },
@@ -14275,16 +11885,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "RollerSplash_Hunter"
-    },
-    "RollerSplash_Hunter___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "RollerSplash_Hunter"
-    },
-    "RollerSplash_Hunter___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "RollerSplash_Hunter"
     },
     "RollerSplash_Hunter___Default": {
@@ -14500,26 +12100,9 @@
       "DamageRate": 0.0,
       "RowKey": "RollerSplash"
     },
-    "RollerSplash___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "RollerSplash"
-    },
     "RollerSplash___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "RollerSplash"
-    },
-    "RollerSplash___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "RollerSplash"
-    },
-    "RollerSplash___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "RollerSplash"
     },
@@ -14533,16 +12116,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "RollerSplash"
-    },
-    "RollerSplash___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "RollerSplash"
-    },
-    "RollerSplash___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "RollerSplash"
     },
     "RollerSplash___Default": {
@@ -14759,26 +12332,9 @@
       "DamageRate": 0.0,
       "RowKey": "Saber_ChargeShot"
     },
-    "Saber_ChargeShot___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Saber_ChargeShot"
-    },
     "Saber_ChargeShot___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Saber_ChargeShot"
-    },
-    "Saber_ChargeShot___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Saber_ChargeShot"
-    },
-    "Saber_ChargeShot___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Saber_ChargeShot"
     },
@@ -14791,16 +12347,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Saber_ChargeShot"
-    },
-    "Saber_ChargeShot___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Saber_ChargeShot"
-    },
-    "Saber_ChargeShot___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Saber_ChargeShot"
     },
     "Saber_ChargeShot___Default": {
@@ -15017,26 +12563,9 @@
       "DamageRate": 0.0,
       "RowKey": "Saber_ChargeSlash"
     },
-    "Saber_ChargeSlash___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Saber_ChargeSlash"
-    },
     "Saber_ChargeSlash___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Saber_ChargeSlash"
-    },
-    "Saber_ChargeSlash___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Saber_ChargeSlash"
-    },
-    "Saber_ChargeSlash___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Saber_ChargeSlash"
     },
@@ -15049,16 +12578,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Saber_ChargeSlash"
-    },
-    "Saber_ChargeSlash___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Saber_ChargeSlash"
-    },
-    "Saber_ChargeSlash___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Saber_ChargeSlash"
     },
     "Saber_ChargeSlash___Default": {
@@ -15276,26 +12795,9 @@
       "DamageRate": 0.0,
       "RowKey": "Saber_Shot"
     },
-    "Saber_Shot___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Saber_Shot"
-    },
     "Saber_Shot___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Saber_Shot"
-    },
-    "Saber_Shot___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Saber_Shot"
-    },
-    "Saber_Shot___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Saber_Shot"
     },
@@ -15308,16 +12810,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Saber_Shot"
-    },
-    "Saber_Shot___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Saber_Shot"
-    },
-    "Saber_Shot___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Saber_Shot"
     },
     "Saber_Shot___Default": {
@@ -15533,26 +13025,9 @@
       "DamageRate": 0.0,
       "RowKey": "Saber_Slash"
     },
-    "Saber_Slash___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Saber_Slash"
-    },
     "Saber_Slash___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Saber_Slash"
-    },
-    "Saber_Slash___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Saber_Slash"
-    },
-    "Saber_Slash___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Saber_Slash"
     },
@@ -15565,16 +13040,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Saber_Slash"
-    },
-    "Saber_Slash___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Saber_Slash"
-    },
-    "Saber_Slash___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Saber_Slash"
     },
     "Saber_Slash___Default": {
@@ -15795,27 +13260,10 @@
       "DamageRate": 0.0,
       "RowKey": "SakerocketBullet"
     },
-    "SakerocketBullet___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "SakerocketBullet"
-    },
     "SakerocketBullet___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "SakerocketBullet"
-    },
-    "SakerocketBullet___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "SakerocketBullet"
-    },
-    "SakerocketBullet___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "SakerocketBullet"
     },
     "SakerocketBullet___CoopEnemySakelienTowerPart": {
@@ -15827,16 +13275,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "SakerocketBullet"
-    },
-    "SakerocketBullet___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "SakerocketBullet"
-    },
-    "SakerocketBullet___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "SakerocketBullet"
     },
     "SakerocketBullet___Default": {
@@ -16068,26 +13506,9 @@
       "DamageRate": 0.0,
       "RowKey": "ShelterCanopy_Compact"
     },
-    "ShelterCanopy_Compact___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterCanopy_Compact"
-    },
     "ShelterCanopy_Compact___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterCanopy_Compact"
-    },
-    "ShelterCanopy_Compact___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ShelterCanopy_Compact"
-    },
-    "ShelterCanopy_Compact___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "ShelterCanopy_Compact"
     },
@@ -16101,16 +13522,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "ShelterCanopy_Compact"
-    },
-    "ShelterCanopy_Compact___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ShelterCanopy_Compact"
-    },
-    "ShelterCanopy_Compact___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ShelterCanopy_Compact"
     },
     "ShelterCanopy_Compact___Default": {
@@ -16324,26 +13735,9 @@
       "DamageRate": 0.0,
       "RowKey": "ShelterCanopy_Wide"
     },
-    "ShelterCanopy_Wide___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterCanopy_Wide"
-    },
     "ShelterCanopy_Wide___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterCanopy_Wide"
-    },
-    "ShelterCanopy_Wide___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ShelterCanopy_Wide"
-    },
-    "ShelterCanopy_Wide___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "ShelterCanopy_Wide"
     },
@@ -16357,16 +13751,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "ShelterCanopy_Wide"
-    },
-    "ShelterCanopy_Wide___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ShelterCanopy_Wide"
-    },
-    "ShelterCanopy_Wide___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ShelterCanopy_Wide"
     },
     "ShelterCanopy_Wide___Default": {
@@ -16580,26 +13964,9 @@
       "DamageRate": 0.0,
       "RowKey": "ShelterCanopy"
     },
-    "ShelterCanopy___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterCanopy"
-    },
     "ShelterCanopy___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterCanopy"
-    },
-    "ShelterCanopy___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ShelterCanopy"
-    },
-    "ShelterCanopy___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "ShelterCanopy"
     },
@@ -16613,16 +13980,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "ShelterCanopy"
-    },
-    "ShelterCanopy___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ShelterCanopy"
-    },
-    "ShelterCanopy___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ShelterCanopy"
     },
     "ShelterCanopy___Default": {
@@ -16837,26 +14194,9 @@
       "DamageRate": 0.0,
       "RowKey": "ShelterShot_Compact"
     },
-    "ShelterShot_Compact___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterShot_Compact"
-    },
     "ShelterShot_Compact___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterShot_Compact"
-    },
-    "ShelterShot_Compact___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ShelterShot_Compact"
-    },
-    "ShelterShot_Compact___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "ShelterShot_Compact"
     },
@@ -16869,16 +14209,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "ShelterShot_Compact"
-    },
-    "ShelterShot_Compact___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ShelterShot_Compact"
-    },
-    "ShelterShot_Compact___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ShelterShot_Compact"
     },
     "ShelterShot_Compact___Default": {
@@ -17095,26 +14425,9 @@
       "DamageRate": 0.0,
       "RowKey": "ShelterShot_Wide"
     },
-    "ShelterShot_Wide___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterShot_Wide"
-    },
     "ShelterShot_Wide___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterShot_Wide"
-    },
-    "ShelterShot_Wide___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ShelterShot_Wide"
-    },
-    "ShelterShot_Wide___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "ShelterShot_Wide"
     },
@@ -17127,16 +14440,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "ShelterShot_Wide"
-    },
-    "ShelterShot_Wide___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ShelterShot_Wide"
-    },
-    "ShelterShot_Wide___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ShelterShot_Wide"
     },
     "ShelterShot_Wide___Default": {
@@ -17352,26 +14655,9 @@
       "DamageRate": 0.0,
       "RowKey": "ShelterShot"
     },
-    "ShelterShot___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterShot"
-    },
     "ShelterShot___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "ShelterShot"
-    },
-    "ShelterShot___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ShelterShot"
-    },
-    "ShelterShot___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "ShelterShot"
     },
@@ -17384,16 +14670,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "ShelterShot"
-    },
-    "ShelterShot___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ShelterShot"
-    },
-    "ShelterShot___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ShelterShot"
     },
     "ShelterShot___Default": {
@@ -17611,26 +14887,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shield"
     },
-    "Shield___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shield"
-    },
     "Shield___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shield"
-    },
-    "Shield___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shield"
-    },
-    "Shield___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shield"
     },
@@ -17643,16 +14902,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shield"
-    },
-    "Shield___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shield"
-    },
-    "Shield___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shield"
     },
     "Shield___Default": {
@@ -17857,29 +15106,11 @@
     "ShockSonar_Wave___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.0,
-      "RowKey": "ShockSonar_Wave"
-    },
-    "ShockSonar_Wave___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
       "RowKey": "ShockSonar_Wave"
     },
     "ShockSonar_Wave___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "ShockSonar_Wave"
-    },
-    "ShockSonar_Wave___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "ShockSonar_Wave"
-    },
-    "ShockSonar_Wave___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "ShockSonar_Wave"
     },
     "ShockSonar_Wave___CoopEnemySakelienTowerPart": {
@@ -17891,16 +15122,6 @@
     "ShockSonar_Wave___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "ShockSonar_Wave"
-    },
-    "ShockSonar_Wave___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "ShockSonar_Wave"
-    },
-    "ShockSonar_Wave___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "ShockSonar_Wave"
     },
     "ShockSonar_Wave___Default": {
@@ -18111,26 +15332,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_Blaze"
     },
-    "Shooter_Blaze___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Blaze"
-    },
     "Shooter_Blaze___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Blaze"
-    },
-    "Shooter_Blaze___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_Blaze"
-    },
-    "Shooter_Blaze___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_Blaze"
     },
@@ -18143,16 +15347,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_Blaze"
-    },
-    "Shooter_Blaze___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_Blaze"
-    },
-    "Shooter_Blaze___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_Blaze"
     },
     "Shooter_Blaze___Default": {
@@ -18360,26 +15554,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_Expert"
     },
-    "Shooter_Expert___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Expert"
-    },
     "Shooter_Expert___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Expert"
-    },
-    "Shooter_Expert___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_Expert"
-    },
-    "Shooter_Expert___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_Expert"
     },
@@ -18392,16 +15569,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_Expert"
-    },
-    "Shooter_Expert___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_Expert"
-    },
-    "Shooter_Expert___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_Expert"
     },
     "Shooter_Expert___Default": {
@@ -18609,26 +15776,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_First"
     },
-    "Shooter_First___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_First"
-    },
     "Shooter_First___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_First"
-    },
-    "Shooter_First___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_First"
-    },
-    "Shooter_First___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_First"
     },
@@ -18641,16 +15791,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_First"
-    },
-    "Shooter_First___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_First"
-    },
-    "Shooter_First___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_First"
     },
     "Shooter_First___Default": {
@@ -18858,26 +15998,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_FlashRepeat"
     },
-    "Shooter_FlashRepeat___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_FlashRepeat"
-    },
     "Shooter_FlashRepeat___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_FlashRepeat"
-    },
-    "Shooter_FlashRepeat___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_FlashRepeat"
-    },
-    "Shooter_FlashRepeat___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_FlashRepeat"
     },
@@ -18890,16 +16013,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_FlashRepeat"
-    },
-    "Shooter_FlashRepeat___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_FlashRepeat"
-    },
-    "Shooter_FlashRepeat___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_FlashRepeat"
     },
     "Shooter_FlashRepeat___Default": {
@@ -19110,26 +16223,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_Flash"
     },
-    "Shooter_Flash___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Flash"
-    },
     "Shooter_Flash___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Flash"
-    },
-    "Shooter_Flash___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_Flash"
-    },
-    "Shooter_Flash___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_Flash"
     },
@@ -19142,16 +16238,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_Flash"
-    },
-    "Shooter_Flash___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_Flash"
-    },
-    "Shooter_Flash___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_Flash"
     },
     "Shooter_Flash___Default": {
@@ -19362,26 +16448,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_Gravity"
     },
-    "Shooter_Gravity___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Gravity"
-    },
     "Shooter_Gravity___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Gravity"
-    },
-    "Shooter_Gravity___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_Gravity"
-    },
-    "Shooter_Gravity___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_Gravity"
     },
@@ -19394,16 +16463,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_Gravity"
-    },
-    "Shooter_Gravity___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_Gravity"
-    },
-    "Shooter_Gravity___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_Gravity"
     },
     "Shooter_Gravity___Default": {
@@ -19613,26 +16672,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_Heavy"
     },
-    "Shooter_Heavy___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Heavy"
-    },
     "Shooter_Heavy___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Heavy"
-    },
-    "Shooter_Heavy___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_Heavy"
-    },
-    "Shooter_Heavy___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_Heavy"
     },
@@ -19645,16 +16687,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_Heavy"
-    },
-    "Shooter_Heavy___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_Heavy"
-    },
-    "Shooter_Heavy___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_Heavy"
     },
     "Shooter_Heavy___Default": {
@@ -19864,26 +16896,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_Long"
     },
-    "Shooter_Long___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Long"
-    },
     "Shooter_Long___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Long"
-    },
-    "Shooter_Long___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_Long"
-    },
-    "Shooter_Long___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_Long"
     },
@@ -19896,16 +16911,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_Long"
-    },
-    "Shooter_Long___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_Long"
-    },
-    "Shooter_Long___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_Long"
     },
     "Shooter_Long___Default": {
@@ -20113,26 +17118,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_Precision"
     },
-    "Shooter_Precision___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Precision"
-    },
     "Shooter_Precision___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Precision"
-    },
-    "Shooter_Precision___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_Precision"
-    },
-    "Shooter_Precision___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_Precision"
     },
@@ -20145,16 +17133,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_Precision"
-    },
-    "Shooter_Precision___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_Precision"
-    },
-    "Shooter_Precision___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_Precision"
     },
     "Shooter_Precision___Default": {
@@ -20362,26 +17340,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_Short"
     },
-    "Shooter_Short___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Short"
-    },
     "Shooter_Short___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_Short"
-    },
-    "Shooter_Short___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_Short"
-    },
-    "Shooter_Short___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_Short"
     },
@@ -20394,16 +17355,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_Short"
-    },
-    "Shooter_Short___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_Short"
-    },
-    "Shooter_Short___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_Short"
     },
     "Shooter_Short___Default": {
@@ -20613,26 +17564,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_TripleMiddle"
     },
-    "Shooter_TripleMiddle___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_TripleMiddle"
-    },
     "Shooter_TripleMiddle___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_TripleMiddle"
-    },
-    "Shooter_TripleMiddle___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_TripleMiddle"
-    },
-    "Shooter_TripleMiddle___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_TripleMiddle"
     },
@@ -20645,16 +17579,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_TripleMiddle"
-    },
-    "Shooter_TripleMiddle___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_TripleMiddle"
-    },
-    "Shooter_TripleMiddle___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_TripleMiddle"
     },
     "Shooter_TripleMiddle___Default": {
@@ -20866,26 +17790,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter_TripleQuick"
     },
-    "Shooter_TripleQuick___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_TripleQuick"
-    },
     "Shooter_TripleQuick___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter_TripleQuick"
-    },
-    "Shooter_TripleQuick___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter_TripleQuick"
-    },
-    "Shooter_TripleQuick___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter_TripleQuick"
     },
@@ -20898,16 +17805,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter_TripleQuick"
-    },
-    "Shooter_TripleQuick___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter_TripleQuick"
-    },
-    "Shooter_TripleQuick___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter_TripleQuick"
     },
     "Shooter_TripleQuick___Default": {
@@ -21119,26 +18016,9 @@
       "DamageRate": 0.0,
       "RowKey": "Shooter"
     },
-    "Shooter___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter"
-    },
     "Shooter___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Shooter"
-    },
-    "Shooter___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Shooter"
-    },
-    "Shooter___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Shooter"
     },
@@ -21151,16 +18031,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Shooter"
-    },
-    "Shooter___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Shooter"
-    },
-    "Shooter___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Shooter"
     },
     "Shooter___Default": {
@@ -21365,29 +18235,11 @@
     "Skewer_Body___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.45,
-      "RowKey": "Skewer_Body"
-    },
-    "Skewer_Body___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
       "RowKey": "Skewer_Body"
     },
     "Skewer_Body___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "Skewer_Body"
-    },
-    "Skewer_Body___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Skewer_Body"
-    },
-    "Skewer_Body___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Skewer_Body"
     },
     "Skewer_Body___CoopEnemySakelienTowerPart": {
@@ -21398,16 +18250,6 @@
     "Skewer_Body___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "Skewer_Body"
-    },
-    "Skewer_Body___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Skewer_Body"
-    },
-    "Skewer_Body___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Skewer_Body"
     },
     "Skewer_Body___Default": {
@@ -21618,29 +18460,11 @@
     "Skewer___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.3,
-      "RowKey": "Skewer"
-    },
-    "Skewer___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
       "RowKey": "Skewer"
     },
     "Skewer___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "Skewer"
-    },
-    "Skewer___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Skewer"
-    },
-    "Skewer___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Skewer"
     },
     "Skewer___CoopEnemySakelienTowerPart": {
@@ -21651,16 +18475,6 @@
     "Skewer___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "Skewer"
-    },
-    "Skewer___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Skewer"
-    },
-    "Skewer___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Skewer"
     },
     "Skewer___Default": {
@@ -21873,26 +18687,9 @@
       "DamageRate": 0.0,
       "RowKey": "Slosher_Bathtub"
     },
-    "Slosher_Bathtub___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Slosher_Bathtub"
-    },
     "Slosher_Bathtub___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Slosher_Bathtub"
-    },
-    "Slosher_Bathtub___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Slosher_Bathtub"
-    },
-    "Slosher_Bathtub___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Slosher_Bathtub"
     },
@@ -21905,16 +18702,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Slosher_Bathtub"
-    },
-    "Slosher_Bathtub___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Slosher_Bathtub"
-    },
-    "Slosher_Bathtub___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Slosher_Bathtub"
     },
     "Slosher_Bathtub___Default": {
@@ -22128,25 +18915,9 @@
       "DamageRate": 0.0,
       "RowKey": "Slosher_Bear"
     },
-    "Slosher_Bear___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "RowKey": "Slosher_Bear"
-    },
     "Slosher_Bear___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Slosher_Bear"
-    },
-    "Slosher_Bear___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Slosher_Bear"
-    },
-    "Slosher_Bear___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Slosher_Bear"
     },
@@ -22159,16 +18930,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Slosher_Bear"
-    },
-    "Slosher_Bear___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Slosher_Bear"
-    },
-    "Slosher_Bear___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Slosher_Bear"
     },
     "Slosher_Bear___Default": {
@@ -22383,27 +19144,10 @@
       "DamageRate": 0.0,
       "RowKey": "Slosher_WashtubBombCore"
     },
-    "Slosher_WashtubBombCore___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 1.0,
-      "RowKey": "Slosher_WashtubBombCore"
-    },
     "Slosher_WashtubBombCore___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Slosher_WashtubBombCore"
-    },
-    "Slosher_WashtubBombCore___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Slosher_WashtubBombCore"
-    },
-    "Slosher_WashtubBombCore___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Slosher_WashtubBombCore"
     },
     "Slosher_WashtubBombCore___CoopEnemySakelienTowerPart": {
@@ -22415,16 +19159,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Slosher_WashtubBombCore"
-    },
-    "Slosher_WashtubBombCore___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Slosher_WashtubBombCore"
-    },
-    "Slosher_WashtubBombCore___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Slosher_WashtubBombCore"
     },
     "Slosher_WashtubBombCore___Default": {
@@ -22640,27 +19374,10 @@
       "DamageRate": 0.0,
       "RowKey": "Slosher_Washtub"
     },
-    "Slosher_Washtub___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Slosher_Washtub"
-    },
     "Slosher_Washtub___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "Slosher_Washtub"
-    },
-    "Slosher_Washtub___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Slosher_Washtub"
-    },
-    "Slosher_Washtub___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Slosher_Washtub"
     },
     "Slosher_Washtub___CoopEnemySakelienTowerPart": {
@@ -22672,16 +19389,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Slosher_Washtub"
-    },
-    "Slosher_Washtub___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Slosher_Washtub"
-    },
-    "Slosher_Washtub___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Slosher_Washtub"
     },
     "Slosher_Washtub___Default": {
@@ -22896,26 +19603,9 @@
       "DamageRate": 0.0,
       "RowKey": "Slosher"
     },
-    "Slosher___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Slosher"
-    },
     "Slosher___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Slosher"
-    },
-    "Slosher___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Slosher"
-    },
-    "Slosher___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Slosher"
     },
@@ -22929,16 +19619,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 1.0,
-      "RowKey": "Slosher"
-    },
-    "Slosher___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Slosher"
-    },
-    "Slosher___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Slosher"
     },
     "Slosher___Default": {
@@ -23154,26 +19834,9 @@
       "DamageRate": 0.0,
       "RowKey": "Spinner"
     },
-    "Spinner___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Spinner"
-    },
     "Spinner___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Spinner"
-    },
-    "Spinner___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Spinner"
-    },
-    "Spinner___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Spinner"
     },
@@ -23186,16 +19849,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Spinner"
-    },
-    "Spinner___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Spinner"
-    },
-    "Spinner___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Spinner"
     },
     "Spinner___Default": {
@@ -23401,26 +20054,9 @@
       "DamageRate": 0.0,
       "RowKey": "Sprinkler"
     },
-    "Sprinkler___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Sprinkler"
-    },
     "Sprinkler___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Sprinkler"
-    },
-    "Sprinkler___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Sprinkler"
-    },
-    "Sprinkler___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Sprinkler"
     },
@@ -23433,16 +20069,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Sprinkler"
-    },
-    "Sprinkler___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Sprinkler"
-    },
-    "Sprinkler___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Sprinkler"
     },
     "Sprinkler___Default": {
@@ -23641,36 +20267,16 @@
     "Stringer_Short___CoopEnemyHardBody": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemyHardBody",
-      "DamageRate": 0.0,
       "RowKey": "Stringer_Short"
     },
     "Stringer_Short___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.0,
-      "RowKey": "Stringer_Short"
-    },
-    "Stringer_Short___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
       "RowKey": "Stringer_Short"
     },
     "Stringer_Short___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Stringer_Short"
-    },
-    "Stringer_Short___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Stringer_Short"
-    },
-    "Stringer_Short___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "Stringer_Short"
     },
     "Stringer_Short___CoopEnemySakelienTowerPart": {
@@ -23681,17 +20287,6 @@
     "Stringer_Short___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "DamageRate": 0.0,
-      "RowKey": "Stringer_Short"
-    },
-    "Stringer_Short___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Stringer_Short"
-    },
-    "Stringer_Short___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Stringer_Short"
     },
     "Stringer_Short___Default": {
@@ -23903,26 +20498,9 @@
       "DamageRate": 0.0,
       "RowKey": "Stringer"
     },
-    "Stringer___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "Stringer"
-    },
     "Stringer___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "Stringer"
-    },
-    "Stringer___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "Stringer"
-    },
-    "Stringer___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "Stringer"
     },
@@ -23935,16 +20513,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "Stringer"
-    },
-    "Stringer___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "Stringer"
-    },
-    "Stringer___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "Stringer"
     },
     "Stringer___Default": {
@@ -24162,27 +20730,10 @@
       "DamageRate": 0.0,
       "RowKey": "SuperHook"
     },
-    "SuperHook___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "SuperHook"
-    },
     "SuperHook___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "SuperHook"
-    },
-    "SuperHook___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "SuperHook"
-    },
-    "SuperHook___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "SuperHook"
     },
     "SuperHook___CoopEnemySakelienTowerPart": {
@@ -24194,16 +20745,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "SuperHook"
-    },
-    "SuperHook___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "SuperHook"
-    },
-    "SuperHook___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "SuperHook"
     },
     "SuperHook___Default": {
@@ -24423,27 +20964,10 @@
       "DamageRate": 0.0,
       "RowKey": "SuperLanding"
     },
-    "SuperLanding___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "SuperLanding"
-    },
     "SuperLanding___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 10.0,
-      "RowKey": "SuperLanding"
-    },
-    "SuperLanding___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "SuperLanding"
-    },
-    "SuperLanding___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "SuperLanding"
     },
     "SuperLanding___CoopEnemySakelienTowerPart": {
@@ -24455,16 +20979,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "SuperLanding"
-    },
-    "SuperLanding___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "SuperLanding"
-    },
-    "SuperLanding___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "SuperLanding"
     },
     "SuperLanding___Default": {
@@ -24688,29 +21202,12 @@
     "TripleTornado___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.8,
-      "RowKey": "TripleTornado"
-    },
-    "TripleTornado___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
+      "DamageRate": 1.0,
       "RowKey": "TripleTornado"
     },
     "TripleTornado___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "TripleTornado"
-    },
-    "TripleTornado___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "TripleTornado"
-    },
-    "TripleTornado___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "TripleTornado"
     },
@@ -24723,16 +21220,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "TripleTornado"
-    },
-    "TripleTornado___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "TripleTornado"
-    },
-    "TripleTornado___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "TripleTornado"
     },
     "TripleTornado___Default": {
@@ -24947,27 +21434,10 @@
       "DamageRate": 0.0,
       "RowKey": "UltraShot"
     },
-    "UltraShot___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "UltraShot"
-    },
     "UltraShot___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
       "DamageRate": 1.0,
-      "RowKey": "UltraShot"
-    },
-    "UltraShot___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "UltraShot"
-    },
-    "UltraShot___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "UltraShot"
     },
     "UltraShot___CoopEnemySakelienTowerPart": {
@@ -24979,16 +21449,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "UltraShot"
-    },
-    "UltraShot___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "UltraShot"
-    },
-    "UltraShot___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "UltraShot"
     },
     "UltraShot___Default": {
@@ -25204,26 +21664,9 @@
       "DamageRate": 0.0,
       "RowKey": "UltraStamp_Swing"
     },
-    "UltraStamp_Swing___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "UltraStamp_Swing"
-    },
     "UltraStamp_Swing___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "DamageRate": 0.0,
-      "RowKey": "UltraStamp_Swing"
-    },
-    "UltraStamp_Swing___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "UltraStamp_Swing"
-    },
-    "UltraStamp_Swing___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
       "DamageRate": 0.0,
       "RowKey": "UltraStamp_Swing"
     },
@@ -25236,16 +21679,6 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
       "DamageRate": 0.0,
-      "RowKey": "UltraStamp_Swing"
-    },
-    "UltraStamp_Swing___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "UltraStamp_Swing"
-    },
-    "UltraStamp_Swing___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "UltraStamp_Swing"
     },
     "UltraStamp_Swing___Default": {
@@ -25462,26 +21895,9 @@
       "DamageRate": 0.0,
       "RowKey": "UltraStamp_Throw_BombCore"
     },
-    "UltraStamp_Throw_BombCore___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "UltraStamp_Throw_BombCore"
-    },
     "UltraStamp_Throw_BombCore___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "UltraStamp_Throw_BombCore"
-    },
-    "UltraStamp_Throw_BombCore___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "UltraStamp_Throw_BombCore"
-    },
-    "UltraStamp_Throw_BombCore___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "UltraStamp_Throw_BombCore"
     },
     "UltraStamp_Throw_BombCore___CoopEnemySakelienTowerPart": {
@@ -25492,16 +21908,6 @@
     "UltraStamp_Throw_BombCore___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "UltraStamp_Throw_BombCore"
-    },
-    "UltraStamp_Throw_BombCore___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "UltraStamp_Throw_BombCore"
-    },
-    "UltraStamp_Throw_BombCore___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "UltraStamp_Throw_BombCore"
     },
     "UltraStamp_Throw_BombCore___Default": {
@@ -25716,26 +22122,9 @@
       "DamageRate": 0.0,
       "RowKey": "UltraStamp_Throw"
     },
-    "UltraStamp_Throw___CoopEnemySakeTamaireOneBomb": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
-      "RowKey": "UltraStamp_Throw"
-    },
     "UltraStamp_Throw___CoopEnemySakelienCupTwins": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienCupTwins",
-      "RowKey": "UltraStamp_Throw"
-    },
-    "UltraStamp_Throw___CoopEnemySakelienGiant": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiant",
-      "RowKey": "UltraStamp_Throw"
-    },
-    "UltraStamp_Throw___CoopEnemySakelienGiantFriendlyFire": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
-      "DamageRate": 0.0,
       "RowKey": "UltraStamp_Throw"
     },
     "UltraStamp_Throw___CoopEnemySakelienTowerPart": {
@@ -25746,16 +22135,6 @@
     "UltraStamp_Throw___CoopEnemySakelienTowerUnite": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakelienTowerUnite",
-      "RowKey": "UltraStamp_Throw"
-    },
-    "UltraStamp_Throw___CoopGoldenIkuraBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopGoldenIkuraBox",
-      "RowKey": "UltraStamp_Throw"
-    },
-    "UltraStamp_Throw___CoopSpawnBox": {
-      "$type": "spl__DamageRateInfoCell",
-      "ColumnKey": "CoopSpawnBox",
       "RowKey": "UltraStamp_Throw"
     },
     "UltraStamp_Throw___Default": {

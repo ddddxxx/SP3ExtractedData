@@ -3,8 +3,8 @@
   "GameParameters": {
     "DamageParam": {
       "$type": "spl__BulletShooterDamageParam",
-      "ValueMax": 700,
-      "ValueMin": 600
+      "ValueMax": 600,
+      "ValueMin": 500
     },
     "WeaponParam": {
       "$type": "spl__WeaponShooterParam",

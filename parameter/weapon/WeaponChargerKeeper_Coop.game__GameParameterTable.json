@@ -4,8 +4,8 @@
     "DamageParam": {
       "$type": "spl__BulletChargerDamageParam",
       "ValueFullCharge": 3000,
-      "ValueMaxCharge": 2000,
-      "ValueMinCharge": 800
+      "ValueMaxCharge": 1800,
+      "ValueMinCharge": 500
     },
     "WeaponParam": {
       "$type": "spl__WeaponChargerParam",

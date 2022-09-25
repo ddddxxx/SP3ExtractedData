@@ -95,7 +95,7 @@
         "InkConsumeMinCharge": 0.05,
         "JumpHeightFullCharge": 0.07,
         "MoveSpeedFullCharge": 0.06,
-        "PostDelayFrame": 10
+        "PostDelayFrame": 2
       },
       "IsEnableChargeKeep": false,
       "PlayerParam": {

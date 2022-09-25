@@ -13,7 +13,7 @@
     },
     "MoveParam": {
       "$type": "spl__BulletSpInkStormGeneratorMoveParam",
-      "GuideHitCollisionType": "InkStorm",
+      "GuideHitCollisionType": "EnemyOffFenceOn",
       "SpawnSpeedY": 0.24,
       "SpawnSpeedYWorldMin": -0.4,
       "SpawnSpeedZSpecUp": {

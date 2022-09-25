@@ -22,18 +22,16 @@
       "$type": "spl__BulletRollerBrushInkUnitGroupParam",
       "DamageParam": {
         "Inside": {
-          "DamageHighValue": 360,
-          "DamageLowValue": 250,
-          "DamageMaxValue": 360,
-          "DamageMinValue": 250,
-          "FinalDamageMinValue": 250
+          "DamageHighValue": 300,
+          "DamageLowValue": 200,
+          "DamageMinValue": 200,
+          "FinalDamageMinValue": 200
         },
         "Outside": {
-          "DamageHighValue": 360,
-          "DamageLowValue": 250,
-          "DamageMaxValue": 360,
-          "DamageMinValue": 250,
-          "FinalDamageMinValue": 250
+          "DamageHighValue": 300,
+          "DamageLowValue": 200,
+          "DamageMinValue": 200,
+          "FinalDamageMinValue": 200
         }
       }
     },
@@ -41,10 +39,6 @@
       "$type": "spl__WeaponBrushRollParam",
       "InkConsumeMaxPerFrame": 0.0009,
       "InkConsumeMinPerFrame": 0.0009
-    },
-    "WeaponSwingParam": {
-      "$type": "spl__WeaponRollerSwingParam",
-      "InkConsume": 0.015
     }
   }
 }

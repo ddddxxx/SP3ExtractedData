@@ -5,23 +5,23 @@
       "$type": "spl__BulletBlastParam",
       "DistanceDamage": [
         {
-          "Damage": 1500,
+          "Damage": 1400,
           "Distance": 1.0
         },
         {
-          "Damage": 1500,
+          "Damage": 1000,
           "Distance": 3.5
         }
       ]
     },
     "DamageParam": {
       "$type": "spl__BulletShooterDamageParam",
-      "ValueMax": 2500,
-      "ValueMin": 2500
+      "ValueMax": 2000,
+      "ValueMin": 2000
     },
     "WeaponParam": {
       "$type": "spl__WeaponShooterParam",
-      "InkConsume": 0.05
+      "InkConsume": 0.055
     }
   }
 }
