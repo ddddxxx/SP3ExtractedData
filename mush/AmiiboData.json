@@ -133,6 +133,25 @@
     "__RowId": "AmiiboData_Girl2"
   },
   {
+    "Actor": "Work/Actor/Amiibo_Girl3.engine__actor__ActorParam.gyml",
+    "Equip": "Work/Gyml/AmiiboData_Girl3.spl__NpcInfo.gyml",
+    "GiftOtherAppData": false,
+    "Hash": 2041830618,
+    "IsGreetAsAppear": true,
+    "IsGreetAsDisappear": false,
+    "NameColor": 2,
+    "NameMsg": "",
+    "RewardCloth": "Work/Gyml/Clt_AMB011.spl__GearInfo.gyml",
+    "RewardCloth2": "",
+    "RewardHead": "Work/Gyml/Hed_AMB011.spl__GearInfo.gyml",
+    "RewardHead2": "",
+    "RewardShoes": "Work/Gyml/Shs_AMB011.spl__GearInfo.gyml",
+    "RewardShoes2": "",
+    "TalkMsg": "InkYellow",
+    "Tank": "Work/Gyml/Tnk_403.spl__TankInfo.gyml",
+    "__RowId": "AmiiboData_Girl3"
+  },
+  {
     "Actor": "Work/Actor/NpcAmiiboHime.engine__actor__ActorParam.gyml",
     "Equip": "Work/Gyml/AmiiboData_Idol02.spl__NpcInfo.gyml",
     "GiftOtherAppData": true,
@@ -209,6 +228,25 @@
     "__RowId": "AmiiboData_OctBoy0"
   },
   {
+    "Actor": "Work/Actor/Amiibo_OctBoy1.engine__actor__ActorParam.gyml",
+    "Equip": "Work/Gyml/AmiiboData_OctBoy1.spl__NpcInfo.gyml",
+    "GiftOtherAppData": false,
+    "Hash": 3416114860,
+    "IsGreetAsAppear": true,
+    "IsGreetAsDisappear": false,
+    "NameColor": 2,
+    "NameMsg": "",
+    "RewardCloth": "Work/Gyml/Clt_AMB012.spl__GearInfo.gyml",
+    "RewardCloth2": "",
+    "RewardHead": "Work/Gyml/Hed_AMB012.spl__GearInfo.gyml",
+    "RewardHead2": "",
+    "RewardShoes": "Work/Gyml/Shs_AMB012.spl__GearInfo.gyml",
+    "RewardShoes2": "",
+    "TalkMsg": "OctoBlue",
+    "Tank": "Work/Gyml/Tnk_403.spl__TankInfo.gyml",
+    "__RowId": "AmiiboData_OctBoy1"
+  },
+  {
     "Actor": "Work/Actor/Amiibo_OctGirl0.engine__actor__ActorParam.gyml",
     "Equip": "Work/Gyml/AmiiboData_OctGirl0.spl__NpcInfo.gyml",
     "GiftOtherAppData": true,
@@ -245,6 +283,25 @@
     "TalkMsg": "Octo",
     "Tank": "",
     "__RowId": "AmiiboData_Octopus0"
+  },
+  {
+    "Actor": "Work/Actor/NpcAmiiboSalmonBuddy.engine__actor__ActorParam.gyml",
+    "Equip": "Work/Gyml/AmiiboData_SalmonBuddy.spl__NpcInfo.gyml",
+    "GiftOtherAppData": false,
+    "Hash": 2428548559,
+    "IsGreetAsAppear": true,
+    "IsGreetAsDisappear": false,
+    "NameColor": 5,
+    "NameMsg": "",
+    "RewardCloth": "Work/Gyml/Clt_AMB013.spl__GearInfo.gyml",
+    "RewardCloth2": "",
+    "RewardHead": "Work/Gyml/Hed_AMB013.spl__GearInfo.gyml",
+    "RewardHead2": "",
+    "RewardShoes": "Work/Gyml/Shs_AMB013.spl__GearInfo.gyml",
+    "RewardShoes2": "",
+    "TalkMsg": "Smallfry",
+    "Tank": "",
+    "__RowId": "AmiiboData_SalmonBuddy"
   },
   {
     "Actor": "Work/Actor/NpcAmiiboSquid.engine__actor__ActorParam.gyml",

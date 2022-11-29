@@ -427,6 +427,69 @@
     "__RowId": "Work/Gyml/Grf_Cp_SetC_Grf_Cp_SetC_17.game__gfx__parameter__GraffitiParam.gyml"
   },
   {
+    "Hash": 2840431917,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Pap_Cp_SetD_03_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Pap_Cp_SetD_03.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3514375323,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Pap_Cp_SetD_04_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Pap_Cp_SetD_04.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 4071637333,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Pap_Cp_SetD_08_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Pap_Cp_SetD_08.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1584786527,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Pap_Cp_SetD_09_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Pap_Cp_SetD_09.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 959613148,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Pap_Cp_SetD_10_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Pap_Cp_SetD_10.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1414867685,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Stc_Cp_SetD_01_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Stc_Cp_SetD_01.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1192661137,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Stc_Cp_SetD_05_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Stc_Cp_SetD_05.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3391271206,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Stc_Cp_SetD_06_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Stc_Cp_SetD_06.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2677460773,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Stc_Cp_SetD_07_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Stc_Cp_SetD_07.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
     "Hash": 1440365241,
     "Material": "Sticker",
     "Scale": 1.0,

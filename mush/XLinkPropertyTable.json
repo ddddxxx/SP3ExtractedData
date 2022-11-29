@@ -584,6 +584,28 @@
         "Minimum": 0.0,
         "PropertyName": "IsPhotograph",
         "PropertyType": "EnumGeyml"
+      },
+      {
+        "EnumParam": {
+          "Entries": [
+            {
+              "EntryName": "False",
+              "EntryValue": 0,
+              "EnumName": "F"
+            },
+            {
+              "EntryName": "True",
+              "EntryValue": 1,
+              "EnumName": "T"
+            }
+          ],
+          "IsCreateEntriesInRuntime": false,
+          "IsSpecifyEnumValue": true
+        },
+        "Maximum": 10.0,
+        "Minimum": 0.0,
+        "PropertyName": "IsBigRun",
+        "PropertyType": "EnumGeyml"
       }
     ],
     "__RowId": "Work/XLink/PropertyTableParam/Global.engine__xlink__PropertyTableParam.gyml"

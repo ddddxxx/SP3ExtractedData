@@ -64,5 +64,11 @@
     "Label": "amiibo用タンク(2タコ)",
     "SpecActor": "Work/Actor/PlayerTank_amiibo_2O.engine__actor__ActorParam.gyml",
     "__RowId": "Tnk_402"
+  },
+  {
+    "Id": 403,
+    "Label": "amiibo用タンク(3)",
+    "SpecActor": "Work/Actor/PlayerTank_amiibo_3.engine__actor__ActorParam.gyml",
+    "__RowId": "Tnk_403"
   }
 ]

@@ -13,6 +13,7 @@
     "DropDemoFrame": 660,
     "GameClearCallUpFrame": 120,
     "GameClearExitFrame": 360,
+    "GameClearExitFrameBoss": 480,
     "GameStartMinFrm": 150,
     "StartDemoFaderWaitFrame": 2,
     "TutorialBagmanEscapeWaitFrame": 540,

@@ -1348,6 +1348,118 @@
     "AlphaInkRimIntensity": 1.0,
     "AlphaTeamColor": {
       "A": 1.0,
+      "B": 0.972549,
+      "G": 0.09803922,
+      "R": 0.5411765
+    },
+    "AlphaUIColor": {
+      "A": 1.0,
+      "B": 0.0,
+      "G": 0.0,
+      "R": 1.0
+    },
+    "BravoHueOffset": 0.0,
+    "BravoInkRimIntensity": 1.0,
+    "BravoTeamColor": {
+      "A": 1.0,
+      "B": 0.09411765,
+      "G": 0.4431373,
+      "R": 0.7490196
+    },
+    "BravoUIColor": {
+      "A": 1.0,
+      "B": 0.0,
+      "G": 1.0,
+      "R": 0.0
+    },
+    "CharlieHueOffset": 0.0,
+    "CharlieInkRimIntensity": 1.0,
+    "CharlieTeamColor": {
+      "A": 1.0,
+      "B": 0.3686275,
+      "G": 0.7529412,
+      "R": 0.1607843
+    },
+    "CharlieUIColor": {
+      "A": 1.0,
+      "B": 1.0,
+      "G": 0.0,
+      "R": 0.0
+    },
+    "EnableInkRimIntensity": false,
+    "HueOffsetEnable": false,
+    "IsSetUIColor": false,
+    "NeutralColor": {
+      "A": 1.0,
+      "B": 0.82745,
+      "G": 0.17255,
+      "R": 0.25098
+    },
+    "NeutralHueOffset": 0.0,
+    "Tag": "VersusTricolor",
+    "__RowId": "Work/Gyml/JUEA-MUJINTOU.game__gfx__parameter__TeamColorDataSet.gyml"
+  },
+  {
+    "AlphaHueOffset": 0.0,
+    "AlphaInkRimIntensity": 1.0,
+    "AlphaTeamColor": {
+      "A": 1.0,
+      "B": 0.454902,
+      "G": 0.6627451,
+      "R": 0.1058824
+    },
+    "AlphaUIColor": {
+      "A": 1.0,
+      "B": 0.0,
+      "G": 0.0,
+      "R": 1.0
+    },
+    "BravoHueOffset": 0.0,
+    "BravoInkRimIntensity": 1.0,
+    "BravoTeamColor": {
+      "A": 1.0,
+      "B": 0.08235294,
+      "G": 0.2745098,
+      "R": 0.854902
+    },
+    "BravoUIColor": {
+      "A": 1.0,
+      "B": 0.0,
+      "G": 1.0,
+      "R": 0.0
+    },
+    "CharlieHueOffset": 0.0,
+    "CharlieInkRimIntensity": 1.0,
+    "CharlieTeamColor": {
+      "A": 1.0,
+      "B": 1.0,
+      "G": 0.1647059,
+      "R": 0.0
+    },
+    "CharlieUIColor": {
+      "A": 1.0,
+      "B": 1.0,
+      "G": 0.0,
+      "R": 0.0
+    },
+    "EnableInkRimIntensity": false,
+    "HueOffsetEnable": false,
+    "IsSetUIColor": false,
+    "NeutralColor": {
+      "A": 1.0,
+      "B": 0.0,
+      "G": 1.0,
+      "R": 1.0
+    },
+    "NeutralHueOffset": 0.0,
+    "Tag": "VersusTricolor",
+    "__RowId": "Work/Gyml/JUEA-POCKET.game__gfx__parameter__TeamColorDataSet.gyml"
+  },
+  {
+    "AlphaHueOffset": 0.0,
+    "AlphaInkRimIntensity": 1.0,
+    "AlphaTeamColor": {
+      "A": 1.0,
       "B": 0.254902,
       "G": 0.8078431,
       "R": 0.7490196
@@ -1398,6 +1510,62 @@
     "NeutralHueOffset": 0.0,
     "Tag": "VersusRegular",
     "__RowId": "Work/Gyml/LimegreenPurple.game__gfx__parameter__TeamColorDataSet.gyml"
+  },
+  {
+    "AlphaHueOffset": 0.0,
+    "AlphaInkRimIntensity": 1.2,
+    "AlphaTeamColor": {
+      "A": 1.0,
+      "B": 0.7294118,
+      "G": 0.2313726,
+      "R": 0.254902
+    },
+    "AlphaUIColor": {
+      "A": 1.0,
+      "B": 0.0,
+      "G": 0.0,
+      "R": 1.0
+    },
+    "BravoHueOffset": 0.0,
+    "BravoInkRimIntensity": 0.9,
+    "BravoTeamColor": {
+      "A": 1.0,
+      "B": 0.07450981,
+      "G": 0.6901961,
+      "R": 0.7490196
+    },
+    "BravoUIColor": {
+      "A": 1.0,
+      "B": 0.0,
+      "G": 1.0,
+      "R": 0.0
+    },
+    "CharlieHueOffset": -0.077,
+    "CharlieInkRimIntensity": 1.0,
+    "CharlieTeamColor": {
+      "A": 1.0,
+      "B": 0.2431373,
+      "G": 0.2431373,
+      "R": 0.7529412
+    },
+    "CharlieUIColor": {
+      "A": 1.0,
+      "B": 1.0,
+      "G": 0.0,
+      "R": 0.0
+    },
+    "EnableInkRimIntensity": true,
+    "HueOffsetEnable": true,
+    "IsSetUIColor": false,
+    "NeutralColor": {
+      "A": 1.0,
+      "B": 0.2862745,
+      "G": 0.7294118,
+      "R": 0.2078431
+    },
+    "NeutralHueOffset": 0.0,
+    "Tag": "VersusTricolor",
+    "__RowId": "Work/Gyml/MBTOFU.game__gfx__parameter__TeamColorDataSet.gyml"
   },
   {
     "AlphaHueOffset": -0.05,
@@ -1698,9 +1866,9 @@
     "BravoInkRimIntensity": 1.0,
     "BravoTeamColor": {
       "A": 1.0,
-      "B": 0.6784314,
-      "G": 0.2588235,
-      "R": 0.7843137
+      "B": 0.7568628,
+      "G": 0.5215687,
+      "R": 0.3058824
     },
     "BravoUIColor": {
       "A": 1.0,

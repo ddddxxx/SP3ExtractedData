@@ -31,6 +31,7 @@
     },
     "WeaponParam": {
       "$type": "spl__WeaponSpNiceBallParam",
+      "ArmorHP": 4700,
       "ChargeRateAutoPerFrame": {
         "High": 0.01,
         "Low": 0.002,

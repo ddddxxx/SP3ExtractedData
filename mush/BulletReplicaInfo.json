@@ -27,6 +27,12 @@
     "__RowId": "BulletSpEnergyStandFridge"
   },
   {
+    "__RowId": "BulletSpFireworkIce"
+  },
+  {
+    "__RowId": "BulletSpFireworkPipe"
+  },
+  {
     "__RowId": "BulletSpGreatBarrier"
   },
   {
@@ -70,5 +76,8 @@
   },
   {
     "__RowId": "Obj_BeaconGimmick"
+  },
+  {
+    "__RowId": "TttTestSpawn"
   }
 ]

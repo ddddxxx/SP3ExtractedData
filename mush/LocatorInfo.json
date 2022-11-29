@@ -402,6 +402,14 @@
   {
     "HitCollectNum": 0,
     "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Cube",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "DummyTextArea"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
     "Scale": 10.0,
     "ShapeType": "Cube",
     "TargetMaskType": "ControlledPlayer",
@@ -435,6 +443,14 @@
     "HitCollectNum": 0,
     "IsHitActor": false,
     "Scale": 1.0,
+    "ShapeType": "Plane",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "GamePlacementGroupTag"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
     "ShapeType": "Cone",
     "TargetMaskType": "ControlledPlayer",
     "__RowId": "GeneralLocator"
@@ -454,6 +470,14 @@
     "ShapeType": "Cylinder",
     "TargetMaskType": "ControlledPlayer",
     "__RowId": "GeneralLocator_Cylinder"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Sphere",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "GeneralLocator_Sphere"
   },
   {
     "HitCollectNum": 0,
@@ -718,6 +742,14 @@
     "ShapeType": "Cube",
     "TargetMaskType": "ControlledPlayer",
     "__RowId": "LocatorLocker"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Cube",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "LocatorMikoshiPhotograph"
   },
   {
     "HitCollectNum": 0,

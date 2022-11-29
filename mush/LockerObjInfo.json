@@ -226,6 +226,51 @@
   },
   {
     "Category": "Clothes",
+    "Hash": 825758129,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Clt_AMB011.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Clt_AMB011.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Clothes",
+    "Hash": 609819458,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Clt_AMB012.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Clt_AMB012.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Clothes",
+    "Hash": 4093020528,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Clt_AMB013.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Clt_AMB013.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Clothes",
     "Hash": 470350332,
     "LockerObjTransforms": [
       {
@@ -5326,6 +5371,51 @@
   },
   {
     "Category": "Head",
+    "Hash": 1860702509,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Hed_AMB011.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Hed_AMB011.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Head",
+    "Hash": 3984588444,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Hed_AMB012.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Hed_AMB012.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Head",
+    "Hash": 2487375080,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Hed_AMB013.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Hed_AMB013.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Head",
     "Hash": 1111508504,
     "LockerObjTransforms": [
       {
@@ -5593,6 +5683,21 @@
       }
     ],
     "__RowId": "Work/Gyml/LObj_Hed_EYE003.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Head",
+    "Hash": 2692313861,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Hed_EYE007.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Hed_EYE007.spl__LockerObjParam.gyml"
   },
   {
     "Category": "Head",
@@ -6581,6 +6686,75 @@
       }
     ],
     "__RowId": "Work/Gyml/LObj_Shs_AMB010.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Shoes",
+    "Hash": 2415668756,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Shs_AMB011.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.12,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Shs_AMB011_Mirror.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": -0.12,
+          "Y": -0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Shs_AMB011.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Shoes",
+    "Hash": 1999057543,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Shs_AMB012.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.12,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Shs_AMB012_Mirror.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": -0.12,
+          "Y": -0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Shs_AMB012.spl__LockerObjParam.gyml"
+  },
+  {
+    "Category": "Shoes",
+    "Hash": 1676191177,
+    "LockerObjTransforms": [
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Shs_AMB013.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": 0.15,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "LockerObjActorName": "Work/Actor/LObj_Shs_AMB013_Mirror.engine__actor__ActorParam.gyml",
+        "Offset": {
+          "X": -0.15,
+          "Y": -0.0,
+          "Z": 0.0
+        }
+      }
+    ],
+    "__RowId": "Work/Gyml/LObj_Shs_AMB013.spl__LockerObjParam.gyml"
   },
   {
     "Category": "Shoes",

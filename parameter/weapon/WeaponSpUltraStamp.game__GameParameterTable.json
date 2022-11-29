@@ -23,6 +23,11 @@
     "SwingBulletWallParam": {
       "$type": "spl__BulletSpUltraStampSwingBulletWallParam"
     },
+    "SwingParam": {
+      "$type": "spl__BulletSpUltraStampSwingParam",
+      "DefiladeHandSideOffsetLength": 0.1,
+      "StateSwingUpLateFrame": 2
+    },
     "SwingSmallBlastParam": {
       "$type": "spl__BulletBlastParam",
       "CrossPaintCheckLength": 0.0,

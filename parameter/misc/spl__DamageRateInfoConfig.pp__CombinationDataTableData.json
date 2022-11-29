@@ -14960,6 +14960,265 @@
       "DamageRate": 4.8,
       "RowKey": "Saber_ChargeShot"
     },
+    "Saber_ChargeSlash_Penetrate___AttractTarget": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "AttractTarget",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___BlowerInhale": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "BlowerInhale",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___BlowoutsRoll": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "BlowoutsRoll",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___Bomb_TorpedoBullet": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "Bomb_TorpedoBullet",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___BulletUmbrellaCanopyCompact": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "BulletUmbrellaCanopyCompact",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___BulletUmbrellaCanopyNormal": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "BulletUmbrellaCanopyNormal",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___BulletUmbrellaCanopyWide": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "BulletUmbrellaCanopyWide",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___Chariot": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "Chariot",
+      "DamageRate": 0.65,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopEnemyHardBody": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopEnemyHardBody",
+      "DamageRate": 1.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopEnemySakeTamaire": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopEnemySakeTamaire",
+      "DamageRate": 0.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopEnemySakeTamaireOneBomb": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopEnemySakeTamaireOneBomb",
+      "DamageRate": 0.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopEnemySakelienCupTwins": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopEnemySakelienCupTwins",
+      "DamageRate": 0.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopEnemySakelienGiant": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopEnemySakelienGiant",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopEnemySakelienGiantFriendlyFire": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopEnemySakelienGiantFriendlyFire",
+      "DamageRate": 0.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopEnemySakelienTowerPart": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopEnemySakelienTowerPart",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopEnemySakelienTowerUnite": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopEnemySakelienTowerUnite",
+      "DamageRate": 0.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopGoldenIkuraBox": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopGoldenIkuraBox",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___CoopSpawnBox": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "CoopSpawnBox",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___Default": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "Default",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___EnemyRockBall": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "EnemyRockBall",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___Gachihoko_Barrier": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "Gachihoko_Barrier",
+      "DamageRate": 0.8,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___GreatBarrier_Barrier": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "GreatBarrier_Barrier",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___GreatBarrier_WeakPoint": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "GreatBarrier_WeakPoint",
+      "DamageRate": 0.9,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___InkRail": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "InkRail",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnBossWeak": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnBossWeak",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnBoxHard": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnBoxHard",
+      "DamageRate": 10.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnBoxL": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnBoxL",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnBoxS": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnBoxS",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnEnemy": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnEnemy",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnEnemyEscape": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnEnemyEscape",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnEnemyShield": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnEnemyShield",
+      "DamageRate": 10.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnEnemyTakopodDEV": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnEnemyTakopodDEV",
+      "DamageRate": 4.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnGoal": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnGoal",
+      "DamageRate": 10.0,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnLeaderMoray": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnLeaderMoray",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnMantaShadow": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnMantaShadow",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnRailKingHand": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnRailKingHand",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnSharkKing": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnSharkKing",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___MsnYakan": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "MsnYakan",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___NiceBall_Armor": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "NiceBall_Armor",
+      "DamageRate": 0.65,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___Propeller": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "Propeller",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___SalmonBuddy": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "SalmonBuddy",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___ShockSonar": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "ShockSonar",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___SnakeBlock": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "SnakeBlock",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___Sponge_Versus": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "Sponge_Versus",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___Wsb_Flag": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "Wsb_Flag",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___Wsb_Shield": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "Wsb_Shield",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___Wsb_Sprinkler": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "Wsb_Sprinkler",
+      "DamageRate": 1.2,
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
     "Saber_ChargeSlash___AttractTarget": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "AttractTarget",

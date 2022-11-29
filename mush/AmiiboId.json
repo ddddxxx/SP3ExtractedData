@@ -90,6 +90,16 @@
     "__RowId": "AmiiboId_Girl2"
   },
   {
+    "BaseId": 2048,
+    "CheckOrder": 4,
+    "Comment": "インクリング(イエロー)",
+    "Data": "Work/Gyml/AmiiboData_Girl3.spl__AmiiboData.gyml",
+    "DetailId": 1,
+    "NumberingId": -1,
+    "SeriesId": -1,
+    "__RowId": "AmiiboId_Girl3"
+  },
+  {
     "BaseId": 2051,
     "CheckOrder": 50,
     "Comment": "ヒメ",
@@ -131,6 +141,16 @@
   },
   {
     "BaseId": 2053,
+    "CheckOrder": 111,
+    "Comment": "オクトリング(ブルー)",
+    "Data": "Work/Gyml/AmiiboData_OctBoy1.spl__AmiiboData.gyml",
+    "DetailId": 2,
+    "NumberingId": -1,
+    "SeriesId": -1,
+    "__RowId": "AmiiboId_OctBoy1"
+  },
+  {
+    "BaseId": 2053,
     "CheckOrder": 100,
     "Comment": "タコガール",
     "Data": "Work/Gyml/AmiiboData_OctGirl0.spl__AmiiboData.gyml",
@@ -148,6 +168,16 @@
     "NumberingId": -1,
     "SeriesId": -1,
     "__RowId": "AmiiboId_Octopus0"
+  },
+  {
+    "BaseId": 2054,
+    "CheckOrder": 130,
+    "Comment": "コジャケ",
+    "Data": "Work/Gyml/AmiiboData_SalmonBuddy.spl__AmiiboData.gyml",
+    "DetailId": 1,
+    "NumberingId": -1,
+    "SeriesId": -1,
+    "__RowId": "AmiiboId_SalmonBuddy"
   },
   {
     "BaseId": 2048,
