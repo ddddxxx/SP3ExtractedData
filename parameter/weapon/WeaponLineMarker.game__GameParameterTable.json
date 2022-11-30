@@ -35,9 +35,9 @@
       "ReboundWallReflectAngleRate": 1.0,
       "SpawnSpeedYWorldMin": -100.0,
       "SpawnSpeedZSpecUp": {
-        "High": 5.4,
-        "Low": 5.0,
-        "Mid": 5.2
+        "High": 6.48,
+        "Low": 6.0,
+        "Mid": 6.24
       },
       "TailDamage": 0,
       "TailFrame": 90

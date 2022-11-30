@@ -39,6 +39,21 @@
       "YPlusRate": 0.0,
       "ZRate": 0.3
     },
+    "KnockBackByCanopyParam": {
+      "$type": "spl__BulletRollerBodyKnockBackByCanopyParam",
+      "KnockBackRollerPlayerDamageOff": {
+        "AccelMax": 750.0,
+        "AccelMin": 700.0,
+        "MyVelocityRate": 4800.0,
+        "OpponentVelocityRate": 2000.0
+      },
+      "KnockBackRollerPlayerDamageOn": {
+        "AccelMax": 750.0,
+        "AccelMin": 700.0,
+        "MyVelocityRate": 4800.0,
+        "OpponentVelocityRate": 2000.0
+      }
+    },
     "MainEffectiveRangeUpParam": {
       "$type": "spl__PlayerGearSkillParam_MainEffectiveRangeUp",
       "High": 1.57,

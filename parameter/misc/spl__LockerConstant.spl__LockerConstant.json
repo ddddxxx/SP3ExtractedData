@@ -205,6 +205,7 @@
     }
   },
   "LockerSticker": {
-    "NormalOffset": 0.0
+    "NormalOffset": 0.0,
+    "RayEndLocalPosZ": -1
   }
 }

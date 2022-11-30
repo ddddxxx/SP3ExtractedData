@@ -99,6 +99,14 @@
     "HitCollectNum": 0,
     "IsHitActor": false,
     "Scale": 1.0,
+    "ShapeType": "Cube",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "CoopDummyFloor"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
     "ShapeType": "Sphere",
     "TargetMaskType": "ControlledPlayer",
     "__RowId": "CoopEventRelayGoldenIkuraDropPoint0"
@@ -155,9 +163,41 @@
     "HitCollectNum": 0,
     "IsHitActor": false,
     "Scale": 1.0,
+    "ShapeType": "Cube",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "CoopLargeEnemyNoTargetArea"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
     "ShapeType": "Sphere",
     "TargetMaskType": "ControlledPlayer",
     "__RowId": "CoopParamHolderEventGeyser"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Cube",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "CoopPathCorrectArea"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Sphere",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "CoopPathCorrectPoint"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Cube",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "CoopSakeArtilleryGunNoShootArea"
   },
   {
     "HitCollectNum": 0,
@@ -189,6 +229,14 @@
     "Scale": 1.0,
     "ShapeType": "Cube",
     "TargetMaskType": "ControlledPlayer",
+    "__RowId": "CoopSakeBigMouthNoDropIkuraArea"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Cube",
+    "TargetMaskType": "ControlledPlayer",
     "__RowId": "CoopSakeCarrierSpawnDefeatPos"
   },
   {
@@ -198,6 +246,22 @@
     "ShapeType": "Cube",
     "TargetMaskType": "ControlledPlayer",
     "__RowId": "CoopSakeCarrierWaitPos"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Cube",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "CoopSakeDiverNoDiveArea"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Cube",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "CoopSakeFlyBagManArrivalPointForLift"
   },
   {
     "HitCollectNum": 0,
@@ -370,6 +434,14 @@
   {
     "HitCollectNum": 0,
     "IsHitActor": false,
+    "Scale": 1.0,
+    "ShapeType": "Cylinder",
+    "TargetMaskType": "ControlledPlayer",
+    "__RowId": "CoopWaterLevelSwitch"
+  },
+  {
+    "HitCollectNum": 0,
+    "IsHitActor": false,
     "Scale": 10.0,
     "ShapeType": "Cube",
     "TargetMaskType": "ControlledPlayer",
@@ -398,14 +470,6 @@
     "ShapeType": "Cube",
     "TargetMaskType": "ControlledPlayer",
     "__RowId": "CullingOcclusionArea"
-  },
-  {
-    "HitCollectNum": 0,
-    "IsHitActor": false,
-    "Scale": 1.0,
-    "ShapeType": "Cube",
-    "TargetMaskType": "ControlledPlayer",
-    "__RowId": "DummyTextArea"
   },
   {
     "HitCollectNum": 0,
@@ -443,14 +507,6 @@
     "HitCollectNum": 0,
     "IsHitActor": false,
     "Scale": 1.0,
-    "ShapeType": "Plane",
-    "TargetMaskType": "ControlledPlayer",
-    "__RowId": "GamePlacementGroupTag"
-  },
-  {
-    "HitCollectNum": 0,
-    "IsHitActor": false,
-    "Scale": 1.0,
     "ShapeType": "Cone",
     "TargetMaskType": "ControlledPlayer",
     "__RowId": "GeneralLocator"
@@ -470,14 +526,6 @@
     "ShapeType": "Cylinder",
     "TargetMaskType": "ControlledPlayer",
     "__RowId": "GeneralLocator_Cylinder"
-  },
-  {
-    "HitCollectNum": 0,
-    "IsHitActor": false,
-    "Scale": 1.0,
-    "ShapeType": "Sphere",
-    "TargetMaskType": "ControlledPlayer",
-    "__RowId": "GeneralLocator_Sphere"
   },
   {
     "HitCollectNum": 0,

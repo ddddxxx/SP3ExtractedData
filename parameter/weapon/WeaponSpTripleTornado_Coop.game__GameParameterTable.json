@@ -4,8 +4,8 @@
     "BlastParam": {
       "$type": "spl__BulletSpTripleTornadoBlastParam",
       "DamageHeightUp": 20.0,
-      "DamageValueEnd": 80,
-      "DamageValueStart": 80
+      "DamageValueEnd": 100,
+      "DamageValueStart": 100
     }
   }
 }

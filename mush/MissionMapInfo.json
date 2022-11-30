@@ -8,13 +8,6 @@
   },
   {
     "Admission": 100,
-    "MapNameLabel": "StageNameTest",
-    "MapType": "NormalStage",
-    "OctaSupplyWeaponInfoArray": [],
-    "__RowId": "EnemyTest"
-  },
-  {
-    "Admission": 100,
     "MapNameLabel": "LastBossA",
     "MapType": "LastBoss",
     "OctaSupplyWeaponInfoArray": [],
@@ -33,13 +26,6 @@
     "MapType": "LaunchPadWorld",
     "OctaSupplyWeaponInfoArray": [],
     "__RowId": "LaunchPadWorld"
-  },
-  {
-    "Admission": 100,
-    "MapNameLabel": "",
-    "MapType": "NormalStage",
-    "OctaSupplyWeaponInfoArray": [],
-    "__RowId": "MapPartsTest"
   },
   {
     "Admission": 100,
@@ -2722,25 +2708,11 @@
   {
     "Admission": 100,
     "MapNameLabel": "",
-    "MapType": "NormalStage",
-    "OctaSupplyWeaponInfoArray": [],
-    "__RowId": "ObjectTest"
-  },
-  {
-    "Admission": 100,
-    "MapNameLabel": "",
     "MapType": "SmallWorld",
     "OctaSupplyWeaponInfoArray": [],
     "__RowId": "SmallWorld"
   },
   {
     "__RowId": "StaffRoll"
-  },
-  {
-    "Admission": 100,
-    "MapNameLabel": "",
-    "MapType": "NormalStage",
-    "OctaSupplyWeaponInfoArray": [],
-    "__RowId": "TestMsnParent"
   }
 ]

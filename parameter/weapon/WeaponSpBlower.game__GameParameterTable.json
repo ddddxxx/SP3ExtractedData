@@ -5,7 +5,7 @@
       "DamageOffsetY": 0.5,
       "DistanceDamage": [
         {
-          "Damage": 1200,
+          "Damage": 2200,
           "Distance": 8.0
         }
       ],
@@ -22,7 +22,7 @@
       "DamageOffsetY": 0.5,
       "DistanceDamage": [
         {
-          "Damage": 1200,
+          "Damage": 2200,
           "Distance": 4.0
         }
       ],
@@ -41,6 +41,7 @@
     },
     "ExhaleParam": {
       "$type": "spl__BulletSpBlowerExhaleParam",
+      "DirectDamage": 2200,
       "FlyGravity": 0.003,
       "FlyPositionAirResist": 0.01,
       "GuideHitCollisionType": "BlowerExhale",

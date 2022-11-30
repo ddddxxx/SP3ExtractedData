@@ -17,6 +17,18 @@
   },
   {
     "ClassName": "",
+    "Label": "スメーシーワールドCoop",
+    "PreloadResource": "Model/Fld_BigRunCarousel03.bfres",
+    "SceneBridgeBgm": "BgmLobbySceneBridge",
+    "SceneSpecificBgm": "",
+    "SequenceName": "Coop",
+    "StageIconBanner": "Vss_Carousel",
+    "StageIconL": "Vss_Carousel",
+    "StageIconS": "Vss_Carousel",
+    "__RowId": "Cop_Carousel"
+  },
+  {
+    "ClassName": "",
     "Label": "ムニ・エ―ル海洋発電所",
     "PreloadResource": "Model/Fld_Shakedent00.bfres",
     "SceneBridgeBgm": "BgmLobbySceneBridge",
@@ -26,6 +38,18 @@
     "StageIconL": "Cop_Shakedent",
     "StageIconS": "Cop_Shakedent",
     "__RowId": "Cop_Shakedent"
+  },
+  {
+    "ClassName": "",
+    "Label": "難破船ドン・ブラコ",
+    "PreloadResource": "Model/Fld_Shakeship00.bfres",
+    "SceneBridgeBgm": "BgmLobbySceneBridge",
+    "SceneSpecificBgm": "",
+    "SequenceName": "Coop",
+    "StageIconBanner": "Cop_Shakeship",
+    "StageIconL": "Cop_Shakeship",
+    "StageIconS": "Cop_Shakeship",
+    "__RowId": "Cop_Shakeship"
   },
   {
     "ClassName": "",
@@ -66,20 +90,6 @@
     "PreloadResource": "",
     "SequenceName": "DayChange",
     "__RowId": "DayChange"
-  },
-  {
-    "ClassName": "",
-    "Label": "開発ポータル",
-    "PreloadResource": "",
-    "SequenceName": "DevPortal",
-    "__RowId": "DevPortal"
-  },
-  {
-    "ClassName": "",
-    "Label": "99_Msn エネミーテストシーン",
-    "PreloadResource": "Model/TestField0004.bfres",
-    "SequenceName": "Mission",
-    "__RowId": "EnemyTest"
   },
   {
     "ClassName": "",
@@ -134,34 +144,6 @@
     "SceneSpecificBgm": "",
     "SequenceName": "LobbyVersus",
     "__RowId": "LobbyVersus"
-  },
-  {
-    "ClassName": "",
-    "Label": "99_Msn マップパーツテストシーン",
-    "PreloadResource": "",
-    "SequenceName": "Mission",
-    "__RowId": "MapPartsTest"
-  },
-  {
-    "ClassName": "",
-    "Label": "ミニゲーム デッキエディタテスト",
-    "PreloadResource": "",
-    "SequenceName": "MiniGameEditDeckTest",
-    "__RowId": "MiniGameEditDeckTest"
-  },
-  {
-    "ClassName": "",
-    "Label": "ミニゲームテスト",
-    "PreloadResource": "",
-    "SequenceName": "MiniGameTest",
-    "__RowId": "MiniGameTest"
-  },
-  {
-    "ClassName": "",
-    "Label": "ミニゲームUIチェックシーン",
-    "PreloadResource": "",
-    "SequenceName": "MiniGameUICheck",
-    "__RowId": "MiniGameUICheck"
   },
   {
     "ClassName": "",
@@ -876,26 +858,12 @@
   },
   {
     "ClassName": "",
-    "Label": "99_Msn オブジェクトテストシーン",
-    "PreloadResource": "Model/TestField0004.bfres",
-    "SequenceName": "Mission",
-    "__RowId": "ObjectTest"
-  },
-  {
-    "ClassName": "",
     "Label": "ウォーミングアップ（プレイヤーメイク）",
     "PreloadResource": "Model/Fld_PlayerMake.bfres",
     "SceneBridgeBgm": "",
     "SceneSpecificBgm": "",
     "SequenceName": "PlayerMake",
     "__RowId": "PlayerMake"
-  },
-  {
-    "ClassName": "",
-    "Label": "プレイヤービューワー",
-    "PreloadResource": "",
-    "SequenceName": "PlayerViewer",
-    "__RowId": "PlayerViewer"
   },
   {
     "ClassName": "",
@@ -942,24 +910,15 @@
   },
   {
     "ClassName": "",
-    "Label": "P2Pテストマッチシーン",
-    "PreloadResource": "",
-    "SequenceName": "TestMatchScene",
-    "__RowId": "TestMatchScene"
-  },
-  {
-    "ClassName": "",
-    "Label": "UIチェックシーン",
-    "PreloadResource": "",
-    "SequenceName": "UICheck",
-    "__RowId": "UICheck"
-  },
-  {
-    "ClassName": "",
-    "Label": "お揃い称号チェックシーン",
-    "PreloadResource": "",
-    "SequenceName": "UniformNameCheck",
-    "__RowId": "UniformNameCheck"
+    "Label": "クサヤ温泉",
+    "PreloadResource": "Model/Fld_BigSlope00.bfres",
+    "SceneBridgeBgm": "BgmLobbySceneBridge",
+    "SceneSpecificBgm": "",
+    "SequenceName": "Versus",
+    "StageIconBanner": "Vss_BigSlope",
+    "StageIconL": "Vss_BigSlope",
+    "StageIconS": "Vss_BigSlope",
+    "__RowId": "Vss_BigSlope00"
   },
   {
     "ClassName": "",
@@ -996,6 +955,18 @@
     "StageIconL": "Vss_Hiagari",
     "StageIconS": "Vss_Hiagari",
     "__RowId": "Vss_Hiagari03"
+  },
+  {
+    "ClassName": "",
+    "Label": "ヒラメが丘団地",
+    "PreloadResource": "Model/Fld_Jyoheki03.bfres",
+    "SceneBridgeBgm": "BgmLobbySceneBridge",
+    "SceneSpecificBgm": "",
+    "SequenceName": "Versus",
+    "StageIconBanner": "Vss_Jyoheki",
+    "StageIconL": "Vss_Jyoheki",
+    "StageIconS": "Vss_Jyoheki",
+    "__RowId": "Vss_Jyoheki03"
   },
   {
     "ClassName": "",

@@ -469,6 +469,13 @@
     "__RowId": "Work/Gyml/Grf_Cp_SetD_Stc_Cp_SetD_01.game__gfx__parameter__GraffitiParam.gyml"
   },
   {
+    "Hash": 3258726180,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_Cp_SetD/output/textures/Stc_Cp_SetD_02_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_Cp_SetD_Stc_Cp_SetD_02.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
     "Hash": 1192661137,
     "Material": "Sticker",
     "Scale": 1.0,
@@ -2828,6 +2835,174 @@
     "__RowId": "Work/Gyml/Grf_PlayerMake_Stc_PlayerMake_40.game__gfx__parameter__GraffitiParam.gyml"
   },
   {
+    "Hash": 3742984709,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Grf_VS_BigSlope_07_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Grf_VS_BigSlope_07.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1035531207,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Grf_VS_BigSlope_08_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Grf_VS_BigSlope_08.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1208747738,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Grf_VS_BigSlope_28_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Grf_VS_BigSlope_28.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3961536059,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Hlg_VS_BigSlope_05_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Hlg_VS_BigSlope_05.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1386949480,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Pap_VS_BigSlope_09_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Pap_VS_BigSlope_09.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1113383368,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Pap_VS_BigSlope_16_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Pap_VS_BigSlope_16.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3984833569,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Pap_VS_BigSlope_17_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Pap_VS_BigSlope_17.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2981001079,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Pap_VS_BigSlope_20_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Pap_VS_BigSlope_20.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 386989313,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Pap_VS_BigSlope_21_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Pap_VS_BigSlope_21.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 229206986,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Sig_VS_BigSlope_10_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Sig_VS_BigSlope_10.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 353466701,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Sig_VS_BigSlope_11_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Sig_VS_BigSlope_11.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1370528770,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Sig_VS_BigSlope_12_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Sig_VS_BigSlope_12.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3391052228,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Sig_VS_BigSlope_13_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Sig_VS_BigSlope_13.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 822990409,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Sig_VS_BigSlope_14_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Sig_VS_BigSlope_14.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1461526070,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Sig_VS_BigSlope_15_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Sig_VS_BigSlope_15.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1979495746,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Stc_VS_BigSlope_00_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Stc_VS_BigSlope_00.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1943018988,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Stc_VS_BigSlope_02_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Stc_VS_BigSlope_02.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2234370069,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Stc_VS_BigSlope_03_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Stc_VS_BigSlope_03.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3040066710,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Stc_VS_BigSlope_04_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Stc_VS_BigSlope_04.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3655339607,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Stc_VS_BigSlope_06_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Stc_VS_BigSlope_06.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2935421463,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Stc_VS_BigSlope_18_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Stc_VS_BigSlope_18.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 99813238,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Stc_VS_BigSlope_19_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Stc_VS_BigSlope_19.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 4107222042,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Stc_VS_BigSlope_22_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Stc_VS_BigSlope_22.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1361770181,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_BigSlope/output/textures/Stc_VS_BigSlope_23_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_BigSlope_Stc_VS_BigSlope_23.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
     "Hash": 3219191929,
     "Material": "Sticker",
     "Scale": 1.0,
@@ -3134,6 +3309,244 @@
     "Scale": 1.0,
     "TexturePath": "Work/Model/Graffiti/Grf_VS_Hiagari03/output/textures/Stc_VS_Hiagari03_23_Alb.ftxb",
     "__RowId": "Work/Gyml/Grf_VS_Hiagari03_Stc_VS_Hiagari03_23.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1213593554,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Grf_VS_Jyoheki03_24_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Grf_VS_Jyoheki03_24.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3276395071,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Grf_VS_Jyoheki03_28_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Grf_VS_Jyoheki03_28.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3510579232,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Grf_VS_Jyoheki03_29_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Grf_VS_Jyoheki03_29.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 4000587901,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Grf_VS_Jyoheki03_32_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Grf_VS_Jyoheki03_32.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 4140693967,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Grf_VS_Jyoheki03_33_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Grf_VS_Jyoheki03_33.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3347352116,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_04_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_04.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 4145198677,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_05_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_05.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3312314987,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_06_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_06.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 4263571449,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_07_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_07.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2161319273,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_08_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_08.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3646192142,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_09_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_09.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2886757311,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_20_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_20.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1448434788,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_21_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_21.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 626023858,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_25_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_25.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1454635365,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_26_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_26.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3298445454,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Pap_VS_Jyoheki03_27_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Pap_VS_Jyoheki03_27.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2193830231,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Sig_VS_Jyoheki03_30_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Sig_VS_Jyoheki03_30.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2103205864,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Sig_VS_Jyoheki03_31_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Sig_VS_Jyoheki03_31.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2985783335,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_00_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_00.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 4053437949,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_01_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_01.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1288199369,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_02_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_02.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3387716038,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_03_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_03.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3737743512,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_10_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_10.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3415266029,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_11_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_11.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2571697360,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_12_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_12.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 221550440,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_13_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_13.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2057100288,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_14_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_14.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 3332479044,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_15_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_15.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 436691489,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_16_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_16.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1305995351,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_17_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_17.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 2018655802,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_18_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_18.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1223391501,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_19_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_19.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1124291479,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_22_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_22.game__gfx__parameter__GraffitiParam.gyml"
+  },
+  {
+    "Hash": 1241694211,
+    "Material": "Sticker",
+    "Scale": 1.0,
+    "TexturePath": "Work/Model/Graffiti/Grf_VS_Jyoheki03/output/textures/Stc_VS_Jyoheki03_23_Alb.ftxb",
+    "__RowId": "Work/Gyml/Grf_VS_Jyoheki03_Stc_VS_Jyoheki03_23.game__gfx__parameter__GraffitiParam.gyml"
   },
   {
     "Hash": 1544576090,

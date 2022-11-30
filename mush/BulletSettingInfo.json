@@ -177,6 +177,15 @@
     "DeactivateFrame": -1,
     "WallDropPositionStoreNum": 0,
     "WallDropThinOutDistance": 0.3,
+    "__RowId": "BulletSaberInkBear"
+  },
+  {
+    "CullingDistAround": -1.0,
+    "CullingDistCameraDirection": -1.0,
+    "DeactivateFallHeight": 10.0,
+    "DeactivateFrame": -1,
+    "WallDropPositionStoreNum": 0,
+    "WallDropThinOutDistance": 0.3,
     "__RowId": "BulletSaberInkEnemy"
   },
   {

@@ -6,6 +6,7 @@
       "G": 0.6,
       "R": 0.6
     },
+    "DisplayOrder": 1,
     "Hash": 180017560,
     "HowToGet": "Other",
     "Id": 1,
@@ -30,6 +31,7 @@
       "G": 0.6,
       "R": 0.6
     },
+    "DisplayOrder": 10,
     "Hash": 1750234745,
     "HowToGet": "Shop",
     "Id": 10,
@@ -54,6 +56,7 @@
       "G": 0.003921569,
       "R": 0.003921569
     },
+    "DisplayOrder": 20,
     "Hash": 1030167843,
     "HowToGet": "Shop",
     "Id": 20,
@@ -78,6 +81,7 @@
       "G": 0.5333334,
       "R": 0.372549
     },
+    "DisplayOrder": 21,
     "Hash": 3445447846,
     "HowToGet": "Shop",
     "Id": 21,
@@ -102,6 +106,7 @@
       "G": 0.08235294,
       "R": 0.02745098
     },
+    "DisplayOrder": 23,
     "Hash": 3953186083,
     "HowToGet": "Shop",
     "Id": 23,
@@ -126,6 +131,7 @@
       "G": 0.4941176,
       "R": 0.5
     },
+    "DisplayOrder": 24,
     "Hash": 1102763513,
     "HowToGet": "Shop",
     "Id": 24,
@@ -150,6 +156,7 @@
       "G": 0.06666667,
       "R": 0.3921569
     },
+    "DisplayOrder": 25,
     "Hash": 1109812591,
     "HowToGet": "Shop",
     "Id": 25,
@@ -174,6 +181,7 @@
       "G": 0.1647059,
       "R": 0.02352941
     },
+    "DisplayOrder": 26,
     "Hash": 2726148673,
     "HowToGet": "Shop",
     "Id": 26,
@@ -198,6 +206,7 @@
       "G": 0.09019608,
       "R": 0.09019608
     },
+    "DisplayOrder": 27,
     "Hash": 37556344,
     "HowToGet": "Shop",
     "Id": 27,
@@ -222,6 +231,7 @@
       "G": 0.3568628,
       "R": 0.8980392
     },
+    "DisplayOrder": 28,
     "Hash": 2593810601,
     "HowToGet": "Shop",
     "Id": 28,
@@ -246,6 +256,7 @@
       "G": 0.01960784,
       "R": 0.2352941
     },
+    "DisplayOrder": 29,
     "Hash": 680113153,
     "HowToGet": "Shop",
     "Id": 29,
@@ -270,6 +281,7 @@
       "G": 0.55,
       "R": 0.55
     },
+    "DisplayOrder": 30,
     "Hash": 220693427,
     "HowToGet": "Shop",
     "Id": 30,
@@ -294,6 +306,7 @@
       "G": 0.6,
       "R": 0.6
     },
+    "DisplayOrder": 31,
     "Hash": 2302867256,
     "HowToGet": "Shop",
     "Id": 31,
@@ -318,6 +331,7 @@
       "G": 0.7450981,
       "R": 0.7490196
     },
+    "DisplayOrder": 50,
     "Hash": 3666471020,
     "HowToGet": "Shop",
     "Id": 50,
@@ -342,6 +356,7 @@
       "G": 0.03529412,
       "R": 0.03137255
     },
+    "DisplayOrder": 51,
     "Hash": 3680911667,
     "HowToGet": "Shop",
     "Id": 51,
@@ -366,6 +381,7 @@
       "G": 0.2313726,
       "R": 0.2705882
     },
+    "DisplayOrder": 52,
     "Hash": 2690435576,
     "HowToGet": "Shop",
     "Id": 52,

@@ -110,16 +110,6 @@
     "Type": "SakelienGiant"
   },
   {
-    "ActorMax": 4,
-    "CalcAppearPriority": 0,
-    "Category": "Rare",
-    "GraphIdx": 0,
-    "HitIkuraNum": 13,
-    "IsTest": false,
-    "KillIkuraNum": 3,
-    "Type": "SakeSaucer"
-  },
-  {
     "ActorMax": 1,
     "CalcAppearPriority": 0,
     "Category": "EventRare",
@@ -128,6 +118,16 @@
     "IsTest": false,
     "KillIkuraNum": 10,
     "Type": "SakelienGeyser"
+  },
+  {
+    "ActorMax": 4,
+    "CalcAppearPriority": 2,
+    "Category": "Rare",
+    "GraphIdx": 0,
+    "HitIkuraNum": 12,
+    "IsTest": false,
+    "KillIkuraNum": 6,
+    "Type": "SakelienCupTwins"
   },
   {
     "ActorMax": 4,
@@ -221,13 +221,13 @@
   },
   {
     "ActorMax": 4,
-    "CalcAppearPriority": 2,
+    "CalcAppearPriority": 0,
     "Category": "Rare",
     "GraphIdx": 0,
-    "HitIkuraNum": 12,
+    "HitIkuraNum": 13,
     "IsTest": false,
-    "KillIkuraNum": 6,
-    "Type": "SakelienCupTwins"
+    "KillIkuraNum": 3,
+    "Type": "SakeSaucer"
   },
   {
     "ActorMax": 1,

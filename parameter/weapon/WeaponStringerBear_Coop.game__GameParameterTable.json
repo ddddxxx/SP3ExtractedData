@@ -121,9 +121,9 @@
       "SplashPaintParam": {
         "DepthMaxDropHeight": 3.0,
         "DepthMinDropHeight": 10.0,
-        "DepthScaleMax": 1.2,
+        "DepthScaleMax": 2.7,
         "DepthScaleMin": 1.0,
-        "WidthHalf": 1.28,
+        "WidthHalf": 1.35,
         "WidthHalfNearest": 1.792
       },
       "SplashSpawnParam": {
@@ -133,7 +133,7 @@
         "RandomSpawnVelYMax": 0.015,
         "RandomSpawnVelZMax": 0.02,
         "RandomSpawnVelZMin": 0.01,
-        "SplashNumMax": 3,
+        "SplashNumMax": 5,
         "SplitNum": 7
       },
       "WallDropMoveParam": {

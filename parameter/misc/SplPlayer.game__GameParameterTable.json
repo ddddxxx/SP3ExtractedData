@@ -135,6 +135,9 @@
     "spl__PlayerCanolaShotParam": {
       "$type": "spl__PlayerCanolaShotParam"
     },
+    "spl__PlayerEntryLiftParam": {
+      "$type": "spl__PlayerEntryLiftParam"
+    },
     "spl__PlayerGearSkillParam_ActionSpecUp_Squid": {
       "$type": "spl__PlayerGearSkillParam_ActionSpecUp_Squid",
       "WallJumpChargeFrm_High": 5,

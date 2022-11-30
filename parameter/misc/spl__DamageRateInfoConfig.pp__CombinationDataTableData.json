@@ -218,6 +218,12 @@
       "DamageRate": 2.0,
       "RowKey": "Blaster_BlasterMiddle"
     },
+    "Blaster_BlasterMiddle___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 2.0,
+      "RowKey": "Blaster_BlasterMiddle"
+    },
     "Blaster_BlasterMiddle___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -473,6 +479,12 @@
     "Blaster_BlasterShort___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 2.0,
+      "RowKey": "Blaster_BlasterShort"
+    },
+    "Blaster_BlasterShort___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 2.0,
       "RowKey": "Blaster_BlasterShort"
     },
@@ -734,6 +746,12 @@
       "DamageRate": 2.0,
       "RowKey": "Blaster_KillOneShot"
     },
+    "Blaster_KillOneShot___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 2.0,
+      "RowKey": "Blaster_KillOneShot"
+    },
     "Blaster_KillOneShot___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -989,6 +1007,12 @@
     "Blaster___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 2.0,
+      "RowKey": "Blaster"
+    },
+    "Blaster___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 2.0,
       "RowKey": "Blaster"
     },
@@ -1248,6 +1272,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "BlowerExhale_BombCore"
     },
+    "BlowerExhale_BombCore___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "BlowerExhale_BombCore"
+    },
     "BlowerExhale_BombCore___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -1503,6 +1532,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "BlowerExhale"
     },
+    "BlowerExhale___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "BlowerExhale"
+    },
     "BlowerExhale___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -1749,6 +1783,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "BlowerInhale"
     },
+    "BlowerInhale___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "BlowerInhale"
+    },
     "BlowerInhale___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -1991,6 +2030,11 @@
     "BombFlower___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "BombFlower"
+    },
+    "BombFlower___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "BombFlower"
     },
     "BombFlower___SalmonBuddy": {
@@ -2239,6 +2283,12 @@
     "Bomb_CurlingBullet___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 3.0,
+      "RowKey": "Bomb_CurlingBullet"
+    },
+    "Bomb_CurlingBullet___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 3.0,
       "RowKey": "Bomb_CurlingBullet"
     },
@@ -2499,6 +2549,12 @@
     "Bomb_DirectHit___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 5.0,
+      "RowKey": "Bomb_DirectHit"
+    },
+    "Bomb_DirectHit___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 5.0,
       "RowKey": "Bomb_DirectHit"
     },
@@ -2763,6 +2819,12 @@
       "DamageRate": 5.0,
       "RowKey": "Bomb_Fizzy"
     },
+    "Bomb_Fizzy___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
+      "RowKey": "Bomb_Fizzy"
+    },
     "Bomb_Fizzy___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -3021,6 +3083,12 @@
     "Bomb_Suction___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 5.0,
+      "RowKey": "Bomb_Suction"
+    },
+    "Bomb_Suction___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 5.0,
       "RowKey": "Bomb_Suction"
     },
@@ -3283,6 +3351,12 @@
       "DamageRate": 5.0,
       "RowKey": "Bomb_TorpedoBullet"
     },
+    "Bomb_TorpedoBullet___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
+      "RowKey": "Bomb_TorpedoBullet"
+    },
     "Bomb_TorpedoBullet___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -3531,6 +3605,12 @@
     "Bomb_TorpedoSplashBurst___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 5.0,
+      "RowKey": "Bomb_TorpedoSplashBurst"
+    },
+    "Bomb_TorpedoSplashBurst___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 5.0,
       "RowKey": "Bomb_TorpedoSplashBurst"
     },
@@ -3788,6 +3868,12 @@
     "Bomb_Trap___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 5.0,
+      "RowKey": "Bomb_Trap"
+    },
+    "Bomb_Trap___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 5.0,
       "RowKey": "Bomb_Trap"
     },
@@ -4052,6 +4138,12 @@
       "DamageRate": 5.0,
       "RowKey": "Bomb"
     },
+    "Bomb___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
+      "RowKey": "Bomb"
+    },
     "Bomb___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -4309,6 +4401,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "BrushCore"
     },
+    "BrushCore___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "BrushCore"
+    },
     "BrushCore___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -4564,6 +4661,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "BrushSplash"
     },
+    "BrushSplash___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "BrushSplash"
+    },
     "BrushSplash___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -4807,6 +4909,11 @@
     "CannonMissile___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "CannonMissile"
+    },
+    "CannonMissile___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "CannonMissile"
     },
     "CannonMissile___SalmonBuddy": {
@@ -5060,6 +5167,12 @@
     "ChargerFull_Light___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 2.0,
+      "RowKey": "ChargerFull_Light"
+    },
+    "ChargerFull_Light___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 2.0,
       "RowKey": "ChargerFull_Light"
     },
@@ -5322,6 +5435,12 @@
       "DamageRate": 2.0,
       "RowKey": "ChargerFull_Long"
     },
+    "ChargerFull_Long___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 2.0,
+      "RowKey": "ChargerFull_Long"
+    },
     "ChargerFull_Long___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -5578,6 +5697,12 @@
     "ChargerFull___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 2.0,
+      "RowKey": "ChargerFull"
+    },
+    "ChargerFull___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 2.0,
       "RowKey": "ChargerFull"
     },
@@ -5840,6 +5965,12 @@
       "DamageRate": 2.0,
       "RowKey": "Charger_Light"
     },
+    "Charger_Light___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "Charger_Light"
+    },
     "Charger_Light___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -6096,6 +6227,12 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
       "DamageRate": 2.0,
+      "RowKey": "Charger_Long"
+    },
+    "Charger_Long___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
       "RowKey": "Charger_Long"
     },
     "Charger_Long___SalmonBuddy": {
@@ -6356,6 +6493,12 @@
       "DamageRate": 2.0,
       "RowKey": "Charger"
     },
+    "Charger___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "Charger"
+    },
     "Charger___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -6608,6 +6751,11 @@
     "Chariot_Body___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Chariot_Body"
+    },
+    "Chariot_Body___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Chariot_Body"
     },
     "Chariot_Body___SalmonBuddy": {
@@ -6866,6 +7014,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Chariot_Cannon"
     },
+    "Chariot_Cannon___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Chariot_Cannon"
+    },
     "Chariot_Cannon___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -7109,6 +7262,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "CoopEnemyRush"
     },
+    "CoopEnemyRush___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "CoopEnemyRush"
+    },
     "CoopEnemyRush___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -7345,6 +7503,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "CoopEnemySakeSaucerFall"
     },
+    "CoopEnemySakeSaucerFall___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "CoopEnemySakeSaucerFall"
+    },
     "CoopEnemySakeSaucerFall___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -7578,6 +7741,11 @@
     "CoopEnemySakeTamaireBombDamage___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "CoopEnemySakeTamaireBombDamage"
+    },
+    "CoopEnemySakeTamaireBombDamage___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "CoopEnemySakeTamaireBombDamage"
     },
     "CoopEnemySakeTamaireBombDamage___SalmonBuddy": {
@@ -7828,6 +7996,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Default"
     },
+    "Default___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Default"
+    },
     "Default___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -8070,6 +8243,12 @@
     "EnemyFlyingHohei_BombCore___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 5.0,
+      "RowKey": "EnemyFlyingHohei_BombCore"
+    },
+    "EnemyFlyingHohei_BombCore___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 5.0,
       "RowKey": "EnemyFlyingHohei_BombCore"
     },
@@ -8320,6 +8499,11 @@
     "GachihokoTimeUpBurst___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "GachihokoTimeUpBurst"
+    },
+    "GachihokoTimeUpBurst___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "GachihokoTimeUpBurst"
     },
     "GachihokoTimeUpBurst___SalmonBuddy": {
@@ -8573,6 +8757,12 @@
       "DamageRate": 5.0,
       "RowKey": "Gachihoko_BombCore"
     },
+    "Gachihoko_BombCore___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
+      "RowKey": "Gachihoko_BombCore"
+    },
     "Gachihoko_BombCore___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -8823,6 +9013,11 @@
       "DamageRate": 1.0,
       "RowKey": "Gachihoko_Bullet"
     },
+    "Gachihoko_Bullet___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Gachihoko_Bullet"
+    },
     "Gachihoko_Bullet___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -9064,6 +9259,11 @@
     "Geyser___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Geyser"
+    },
+    "Geyser___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Geyser"
     },
     "Geyser___SalmonBuddy": {
@@ -9308,6 +9508,11 @@
     "GoldenIkuraAttack___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "GoldenIkuraAttack"
+    },
+    "GoldenIkuraAttack___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "GoldenIkuraAttack"
     },
     "GoldenIkuraAttack___SalmonBuddy": {
@@ -9582,6 +9787,12 @@
       "DamageRate": 0.0,
       "RowKey": "InkStormRain"
     },
+    "InkStormRain___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 0.0,
+      "RowKey": "InkStormRain"
+    },
     "InkStormRain___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -9841,6 +10052,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "InkStorm"
     },
+    "InkStorm___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "InkStorm"
+    },
     "InkStorm___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -10094,6 +10310,12 @@
     "Jetpack_BombCore___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Jetpack_BombCore"
+    },
+    "Jetpack_BombCore___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
       "RowKey": "Jetpack_BombCore"
     },
     "Jetpack_BombCore___SalmonBuddy": {
@@ -10355,6 +10577,12 @@
       "ColumnKey": "Propeller",
       "RowKey": "Jetpack_Bullet"
     },
+    "Jetpack_Bullet___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
+      "RowKey": "Jetpack_Bullet"
+    },
     "Jetpack_Bullet___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -10603,6 +10831,12 @@
     "Jetpack_Coop___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Jetpack_Coop"
+    },
+    "Jetpack_Coop___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
       "RowKey": "Jetpack_Coop"
     },
     "Jetpack_Coop___SalmonBuddy": {
@@ -10856,6 +11090,11 @@
     "Jetpack_Jet___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Jetpack_Jet"
+    },
+    "Jetpack_Jet___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Jetpack_Jet"
     },
     "Jetpack_Jet___SalmonBuddy": {
@@ -11112,6 +11351,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Maneuver_Short"
     },
+    "Maneuver_Short___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Maneuver_Short"
+    },
     "Maneuver_Short___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -11361,6 +11605,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Maneuver"
     },
+    "Maneuver___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Maneuver"
+    },
     "Maneuver___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -11448,7 +11697,7 @@
     "MicroLaser___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.5,
+      "DamageRate": 0.45,
       "RowKey": "MicroLaser"
     },
     "MicroLaser___CoopEnemySakeTamaireOneBomb": {
@@ -11607,6 +11856,11 @@
     "MicroLaser___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "MicroLaser"
+    },
+    "MicroLaser___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "MicroLaser"
     },
     "MicroLaser___SalmonBuddy": {
@@ -11865,6 +12119,12 @@
       "DamageRate": 5.0,
       "RowKey": "MissionSalmonBuddy"
     },
+    "MissionSalmonBuddy___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
+      "RowKey": "MissionSalmonBuddy"
+    },
     "MissionSalmonBuddy___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -12107,6 +12367,11 @@
     "MovePainter_Burst___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "MovePainter_Burst"
+    },
+    "MovePainter_Burst___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "MovePainter_Burst"
     },
     "MovePainter_Burst___SalmonBuddy": {
@@ -12353,6 +12618,11 @@
     "MovePainter_Direct___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "MovePainter_Direct"
+    },
+    "MovePainter_Direct___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "MovePainter_Direct"
     },
     "MovePainter_Direct___SalmonBuddy": {
@@ -12608,6 +12878,12 @@
     "MultiMissile_BombCore___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 5.0,
+      "RowKey": "MultiMissile_BombCore"
+    },
+    "MultiMissile_BombCore___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 5.0,
       "RowKey": "MultiMissile_BombCore"
     },
@@ -12869,6 +13145,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "MultiMissile_Bullet"
     },
+    "MultiMissile_Bullet___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "MultiMissile_Bullet"
+    },
     "MultiMissile_Bullet___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -13125,6 +13406,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "NiceBall"
     },
+    "NiceBall___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "NiceBall"
+    },
     "NiceBall___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -13371,6 +13657,11 @@
     "ObjectEffect_Up___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "ObjectEffect_Up"
+    },
+    "ObjectEffect_Up___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "ObjectEffect_Up"
     },
     "ObjectEffect_Up___SalmonBuddy": {
@@ -13631,6 +13922,12 @@
       "DamageRate": 0.5,
       "RowKey": "RollerCore"
     },
+    "RollerCore___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 0.5,
+      "RowKey": "RollerCore"
+    },
     "RollerCore___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -13886,6 +14183,12 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
       "DamageRate": 3.0,
+      "RowKey": "RollerSplash_Compact"
+    },
+    "RollerSplash_Compact___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
       "RowKey": "RollerSplash_Compact"
     },
     "RollerSplash_Compact___SalmonBuddy": {
@@ -14147,6 +14450,12 @@
       "DamageRate": 3.0,
       "RowKey": "RollerSplash_Heavy"
     },
+    "RollerSplash_Heavy___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "RollerSplash_Heavy"
+    },
     "RollerSplash_Heavy___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -14403,6 +14712,12 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
       "DamageRate": 3.0,
+      "RowKey": "RollerSplash_Hunter"
+    },
+    "RollerSplash_Hunter___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
       "RowKey": "RollerSplash_Hunter"
     },
     "RollerSplash_Hunter___SalmonBuddy": {
@@ -14663,6 +14978,12 @@
       "DamageRate": 3.0,
       "RowKey": "RollerSplash"
     },
+    "RollerSplash___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "RollerSplash"
+    },
     "RollerSplash___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -14920,6 +15241,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Saber_ChargeShot"
     },
+    "Saber_ChargeShot___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Saber_ChargeShot"
+    },
     "Saber_ChargeShot___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -15020,7 +15346,7 @@
     "Saber_ChargeSlash_Penetrate___CoopEnemySakeTamaireOneBomb": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaireOneBomb",
-      "DamageRate": 0.0,
+      "DamageRate": 1.0,
       "RowKey": "Saber_ChargeSlash_Penetrate"
     },
     "Saber_ChargeSlash_Penetrate___CoopEnemySakelienCupTwins": {
@@ -15177,6 +15503,11 @@
     "Saber_ChargeSlash_Penetrate___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Saber_ChargeSlash_Penetrate"
+    },
+    "Saber_ChargeSlash_Penetrate___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Saber_ChargeSlash_Penetrate"
     },
     "Saber_ChargeSlash_Penetrate___SalmonBuddy": {
@@ -15438,6 +15769,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Saber_ChargeSlash"
     },
+    "Saber_ChargeSlash___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Saber_ChargeSlash"
+    },
     "Saber_ChargeSlash___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -15693,6 +16029,11 @@
     "Saber_Shot___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Saber_Shot"
+    },
+    "Saber_Shot___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Saber_Shot"
     },
     "Saber_Shot___SalmonBuddy": {
@@ -15952,6 +16293,11 @@
     "Saber_Slash___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Saber_Slash"
+    },
+    "Saber_Slash___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Saber_Slash"
     },
     "Saber_Slash___SalmonBuddy": {
@@ -16229,6 +16575,12 @@
       "DamageRate": 0.0,
       "RowKey": "SakerocketBullet"
     },
+    "SakerocketBullet___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 0.0,
+      "RowKey": "SakerocketBullet"
+    },
     "SakerocketBullet___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -16487,6 +16839,12 @@
       "DamageRate": 3.0,
       "RowKey": "ShelterCanopy_Compact"
     },
+    "ShelterCanopy_Compact___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "ShelterCanopy_Compact"
+    },
     "ShelterCanopy_Compact___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -16743,6 +17101,12 @@
       "DamageRate": 3.0,
       "RowKey": "ShelterCanopy_Wide"
     },
+    "ShelterCanopy_Wide___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "ShelterCanopy_Wide"
+    },
     "ShelterCanopy_Wide___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -16997,6 +17361,12 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
       "DamageRate": 3.0,
+      "RowKey": "ShelterCanopy"
+    },
+    "ShelterCanopy___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
       "RowKey": "ShelterCanopy"
     },
     "ShelterCanopy___SalmonBuddy": {
@@ -17257,6 +17627,12 @@
       "DamageRate": 2.0,
       "RowKey": "ShelterShot_Compact"
     },
+    "ShelterShot_Compact___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "ShelterShot_Compact"
+    },
     "ShelterShot_Compact___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -17512,6 +17888,12 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
       "DamageRate": 2.0,
+      "RowKey": "ShelterShot_Wide"
+    },
+    "ShelterShot_Wide___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
       "RowKey": "ShelterShot_Wide"
     },
     "ShelterShot_Wide___SalmonBuddy": {
@@ -17773,6 +18155,12 @@
       "DamageRate": 2.0,
       "RowKey": "ShelterShot"
     },
+    "ShelterShot___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "ShelterShot"
+    },
     "ShelterShot___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -18030,6 +18418,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Shield"
     },
+    "Shield___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Shield"
+    },
     "Shield___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -18273,6 +18666,11 @@
     "ShockSonar_Wave___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "ShockSonar_Wave"
+    },
+    "ShockSonar_Wave___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "ShockSonar_Wave"
     },
     "ShockSonar_Wave___SalmonBuddy": {
@@ -18528,6 +18926,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Shooter_Blaze"
     },
+    "Shooter_Blaze___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Shooter_Blaze"
+    },
     "Shooter_Blaze___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -18775,6 +19178,11 @@
     "Shooter_Expert___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Shooter_Expert"
+    },
+    "Shooter_Expert___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Shooter_Expert"
     },
     "Shooter_Expert___SalmonBuddy": {
@@ -19026,6 +19434,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Shooter_First"
     },
+    "Shooter_First___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Shooter_First"
+    },
     "Shooter_First___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -19274,6 +19687,11 @@
     "Shooter_FlashRepeat___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Shooter_FlashRepeat"
+    },
+    "Shooter_FlashRepeat___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Shooter_FlashRepeat"
     },
     "Shooter_FlashRepeat___SalmonBuddy": {
@@ -19528,6 +19946,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Shooter_Flash"
     },
+    "Shooter_Flash___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Shooter_Flash"
+    },
     "Shooter_Flash___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -19777,6 +20200,11 @@
     "Shooter_Gravity___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Shooter_Gravity"
+    },
+    "Shooter_Gravity___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Shooter_Gravity"
     },
     "Shooter_Gravity___SalmonBuddy": {
@@ -20030,6 +20458,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Shooter_Heavy"
     },
+    "Shooter_Heavy___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Shooter_Heavy"
+    },
     "Shooter_Heavy___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -20281,6 +20714,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Shooter_Long"
     },
+    "Shooter_Long___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Shooter_Long"
+    },
     "Shooter_Long___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -20528,6 +20966,11 @@
     "Shooter_Precision___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Shooter_Precision"
+    },
+    "Shooter_Precision___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Shooter_Precision"
     },
     "Shooter_Precision___SalmonBuddy": {
@@ -20780,6 +21223,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Shooter_Short"
     },
+    "Shooter_Short___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Shooter_Short"
+    },
     "Shooter_Short___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -21029,6 +21477,11 @@
     "Shooter_TripleMiddle___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Shooter_TripleMiddle"
+    },
+    "Shooter_TripleMiddle___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Shooter_TripleMiddle"
     },
     "Shooter_TripleMiddle___SalmonBuddy": {
@@ -21284,6 +21737,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Shooter_TripleQuick"
     },
+    "Shooter_TripleQuick___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Shooter_TripleQuick"
+    },
     "Shooter_TripleQuick___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -21536,6 +21994,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Shooter"
     },
+    "Shooter___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Shooter"
+    },
     "Shooter___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -21782,6 +22245,11 @@
     "Skewer_Body___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Skewer_Body"
+    },
+    "Skewer_Body___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Skewer_Body"
     },
     "Skewer_Body___SalmonBuddy": {
@@ -22035,6 +22503,11 @@
     "Skewer___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Skewer"
+    },
+    "Skewer___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Skewer"
     },
     "Skewer___SalmonBuddy": {
@@ -22293,6 +22766,12 @@
       "DamageRate": 2.0,
       "RowKey": "Slosher_Bathtub"
     },
+    "Slosher_Bathtub___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "Slosher_Bathtub"
+    },
     "Slosher_Bathtub___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -22544,6 +23023,12 @@
     "Slosher_Bear___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 2.0,
+      "RowKey": "Slosher_Bear"
+    },
+    "Slosher_Bear___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 2.0,
       "RowKey": "Slosher_Bear"
     },
@@ -22805,6 +23290,12 @@
       "DamageRate": 5.0,
       "RowKey": "Slosher_WashtubBombCore"
     },
+    "Slosher_WashtubBombCore___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
+      "RowKey": "Slosher_WashtubBombCore"
+    },
     "Slosher_WashtubBombCore___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -23058,6 +23549,12 @@
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
       "DamageRate": 2.0,
+      "RowKey": "Slosher_Washtub"
+    },
+    "Slosher_Washtub___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
       "RowKey": "Slosher_Washtub"
     },
     "Slosher_Washtub___SalmonBuddy": {
@@ -23317,6 +23814,12 @@
       "DamageRate": 2.0,
       "RowKey": "Slosher"
     },
+    "Slosher___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 1.0,
+      "RowKey": "Slosher"
+    },
     "Slosher___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -23571,6 +24074,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "Spinner"
     },
+    "Spinner___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "Spinner"
+    },
     "Spinner___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -23816,6 +24324,11 @@
     "Sprinkler___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Sprinkler"
+    },
+    "Sprinkler___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Sprinkler"
     },
     "Sprinkler___SalmonBuddy": {
@@ -24064,6 +24577,11 @@
     "Stringer_Short___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "Stringer_Short"
+    },
+    "Stringer_Short___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "Stringer_Short"
     },
     "Stringer_Short___SalmonBuddy": {
@@ -24325,6 +24843,12 @@
       "DamageRate": 2.0,
       "RowKey": "Stringer"
     },
+    "Stringer___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 2.0,
+      "RowKey": "Stringer"
+    },
     "Stringer___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -24582,6 +25106,12 @@
     "SuperHook___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "DamageRate": 5.0,
+      "RowKey": "SuperHook"
+    },
+    "SuperHook___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "DamageRate": 5.0,
       "RowKey": "SuperHook"
     },
@@ -24853,6 +25383,12 @@
       "DamageRate": 5.0,
       "RowKey": "SuperLanding"
     },
+    "SuperLanding___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "DamageRate": 5.0,
+      "RowKey": "SuperLanding"
+    },
     "SuperLanding___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -24947,7 +25483,7 @@
     "TripleTornado___CoopEnemySakeTamaire": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "CoopEnemySakeTamaire",
-      "DamageRate": 0.8,
+      "DamageRate": 0.4,
       "RowKey": "TripleTornado"
     },
     "TripleTornado___CoopEnemySakeTamaireOneBomb": {
@@ -25107,6 +25643,11 @@
     "TripleTornado___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "TripleTornado"
+    },
+    "TripleTornado___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "TripleTornado"
     },
     "TripleTornado___SalmonBuddy": {
@@ -25368,6 +25909,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "UltraShot"
     },
+    "UltraShot___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "UltraShot"
+    },
     "UltraShot___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -25624,6 +26170,11 @@
       "ColumnKey": "Propeller",
       "RowKey": "UltraStamp_Swing"
     },
+    "UltraStamp_Swing___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
+      "RowKey": "UltraStamp_Swing"
+    },
     "UltraStamp_Swing___SalmonBuddy": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "SalmonBuddy",
@@ -25876,6 +26427,11 @@
     "UltraStamp_Throw_BombCore___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "UltraStamp_Throw_BombCore"
+    },
+    "UltraStamp_Throw_BombCore___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "UltraStamp_Throw_BombCore"
     },
     "UltraStamp_Throw_BombCore___SalmonBuddy": {
@@ -26131,6 +26687,11 @@
     "UltraStamp_Throw___Propeller": {
       "$type": "spl__DamageRateInfoCell",
       "ColumnKey": "Propeller",
+      "RowKey": "UltraStamp_Throw"
+    },
+    "UltraStamp_Throw___PropellerOnline": {
+      "$type": "spl__DamageRateInfoCell",
+      "ColumnKey": "PropellerOnline",
       "RowKey": "UltraStamp_Throw"
     },
     "UltraStamp_Throw___SalmonBuddy": {

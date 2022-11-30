@@ -12,8 +12,8 @@
         "CoreIndex": 1,
         "OffsetArray": [
           {
-            "X": -0.5,
-            "Y": 0.4,
+            "X": -0.7,
+            "Y": 0.0,
             "Z": -0.2
           },
           {
@@ -22,8 +22,8 @@
             "Z": 0.0
           },
           {
-            "X": 0.5,
-            "Y": 0.4,
+            "X": 0.7,
+            "Y": 0.0,
             "Z": -0.2
           }
         ],
@@ -70,9 +70,16 @@
         "PaintDegreeMax": 60.0,
         "WidthHalf": 2.3
       },
+      "SplashPaintParam": {
+        "DepthScaleMax": 3.0,
+        "DepthScaleMin": 1.0,
+        "WidthHalf": 1.28
+      },
       "SplashSpawnParam": {
-        "DropInterval": 3.0,
-        "SplashNumMax": 8
+        "DropInterval": 2.0,
+        "NearestLen": 1.25,
+        "SplashNumMax": 8,
+        "SplitNum": 8
       }
     },
     "BulletSaberSlashHorizontalParam": {
@@ -236,8 +243,12 @@
         "GoStraightToBrakeStateFrame": 10,
         "SpawnSpeed": 1.2
       },
+      "SplashPaintParam": {
+        "DepthScaleMax": 2.0,
+        "WidthHalf": 1.28
+      },
       "SplashSpawnParam": {
-        "DropInterval": 1.0,
+        "DropInterval": 1.5,
         "SplashNumMax": 14
       }
     },
@@ -284,6 +295,7 @@
         "ChargeSwingStepShotSlashFrame": 14,
         "InkConsume": 0.03,
         "InkRecoverStop": 30,
+        "InkRecoverStop_ChargeSwing": 30,
         "IsEnableStep": true,
         "IsShotEnable": true,
         "ReserveAcceptFrame": 14,

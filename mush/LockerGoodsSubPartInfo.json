@@ -1,5 +1,6 @@
 [
   {
+    "DisplayOrder": 520,
     "HowToGet": "Shop",
     "Id": 520,
     "LObjParam": "Work/Gyml/LObj_Spt_Clothesline00.spl__LockerObjParam.gyml",
@@ -18,6 +19,7 @@
     "__RowId": "Spt_Clothesline00"
   },
   {
+    "DisplayOrder": 501,
     "HowToGet": "Shop",
     "Id": 501,
     "LObjParam": "Work/Gyml/LObj_Spt_Hook00.spl__LockerObjParam.gyml",
@@ -36,6 +38,7 @@
     "__RowId": "Spt_Hook00"
   },
   {
+    "DisplayOrder": 502,
     "HowToGet": "Shop",
     "Id": 502,
     "LObjParam": "Work/Gyml/LObj_Spt_Hook01.spl__LockerObjParam.gyml",
@@ -54,6 +57,7 @@
     "__RowId": "Spt_Hook01"
   },
   {
+    "DisplayOrder": 550,
     "HowToGet": "Shop",
     "Id": 550,
     "LObjParam": "Work/Gyml/LObj_Spt_PhotoStand00.spl__LockerObjParam.gyml",
@@ -72,6 +76,7 @@
     "__RowId": "Spt_PhotoStand00"
   },
   {
+    "DisplayOrder": 510,
     "HowToGet": "Shop",
     "Id": 510,
     "LObjParam": "Work/Gyml/LObj_Spt_Shelf00.spl__LockerObjParam.gyml",

@@ -32,6 +32,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "AlternaBoss03FloorPrimitive"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "AmbientSoundArea"
   },
   {
@@ -98,11 +103,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "AttackPermitNumChangeArea"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "AttractTarget"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -815,6 +815,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "BulletSaberHorizontalBear"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "BulletSaberSlashBase"
   },
   {
@@ -831,6 +836,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "BulletSaberVertical"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "BulletSaberVerticalBear"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -936,16 +946,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "BulletSpEnergyStandFridge"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "BulletSpFireworkIce"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "BulletSpFireworkPipe"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -1361,6 +1361,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Clt_FST001_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_FST001_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Clt_HAP001_F"
   },
   {
@@ -1381,7 +1391,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Clt_JKT003"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_JKT005"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Clt_JKT006"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_JKT010"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -1402,6 +1427,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Clt_JKT023"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_JKT036"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -1442,6 +1472,26 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Clt_JKT054"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_JKT055"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_JKT056"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_JKT057"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_JKT060"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -1551,7 +1601,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Clt_SHT001"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Clt_SHT003"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_SHT004"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -1596,6 +1656,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Clt_SHT026"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Clt_SHT030"
   },
   {
@@ -1621,6 +1686,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Clt_SHT038"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Clt_SHT040"
   },
   {
@@ -1631,7 +1701,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Clt_SWT007"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Clt_SWT010"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_SWT013"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -1651,12 +1731,32 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Clt_SWT020"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Clt_TEL004_F"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Clt_TEL004_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TEL015_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TEL015_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TEL026"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -1677,6 +1777,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Clt_TES001_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES003_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES003_M"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -1791,6 +1901,36 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES026_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES026_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES028_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES028_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES029_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES029_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Clt_TES030_F"
   },
   {
@@ -1807,6 +1947,46 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Clt_TES035_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES047_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES047_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES048_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES048_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES049"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES050"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES055_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Clt_TES055_M"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -2061,6 +2241,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Clt_VST004"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Clt_VST010"
   },
   {
@@ -2117,6 +2302,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "CoopBossAppearDemoLocator"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "CoopDummyFloor"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -2328,7 +2518,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "CoopLargeEnemyNoTargetArea"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "CoopParamHolderEventGeyser"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "CoopPathCorrectArea"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "CoopPathCorrectPoint"
   },
   {
     "PhysicsBindModelRef": "Work/Component/PhysicsBindModelParam/EnemyCoopSakeArtilleryBullet.spl__gfx__PhysicsBindModelParam.gyml",
@@ -2349,6 +2554,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "CoopSakeArtilleryGunNoShootArea"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "CoopSakeArtilleryGunPoint0"
   },
   {
@@ -2364,12 +2574,27 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "CoopSakeBigMouthNoDropIkuraArea"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "CoopSakeCarrierSpawnDefeatPos"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "CoopSakeCarrierWaitPos"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "CoopSakeDiverNoDiveArea"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "CoopSakeFlyBagManArrivalPointForLift"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -2533,7 +2758,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "CoopVSStageGeyser"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "CoopWaterLevelLocator"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "CoopWaterLevelSwitch"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -2559,6 +2794,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "DObj_BankaraCityFar"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "DObj_BeaconLightCoop"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -2589,11 +2829,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "DObj_BunkerHalfWall01"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "DObj_BunkerHalfWall02"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -2823,6 +3058,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "DObj_FldObj_JyohekiPlayGroundSeesaw"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "DObj_FldObj_Kaisou03Fest"
   },
   {
@@ -3013,16 +3253,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "DObj_HandCard"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "DObj_Jerry00"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "DObj_KebaInkC6"
   },
   {
@@ -3113,22 +3343,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "DObj_Npc_Jerry00"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "DObj_Npc_JerryHelmet"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "DObj_Npc_JerryPlayerMake"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "DObj_Obj_DitchTree"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "DObj_Obj_SoundTree00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -3174,6 +3399,21 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "DObj_PlazaAmiibo"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "DObj_PlazaHelicopter"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "DObj_PlazaHelicopterHovering"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "DObj_PlazaHelicopterTurning"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -3298,12 +3538,27 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "DObj_SeaBind_BuoyBurner"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "DObj_SeaBind_BuoyBurnerPumpkin"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "DObj_SeaBind_BuoyTripod"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "DObj_SeaGull"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "DObj_Shakeship00FloathingCrane"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -3363,7 +3618,7 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "DObj_Tree00"
+    "__RowId": "DObj_TreeSlip"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -3389,6 +3644,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "DObj_VSLobbyScreenSignage"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "DObj_VehicleForkLift"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -3458,11 +3718,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "DummyTextArea"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "DynamicLoadingArea"
   },
   {
@@ -3503,11 +3758,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "EnemyCleaner"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "EnemyCleanerElite"
   },
   {
     "PhysicsBindModelRef": "Work/Component/PhysicsBindModelParam/EnemyEscape.spl__gfx__PhysicsBindModelParam.gyml",
@@ -3646,12 +3896,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "EnemySharkKingBombSplash"
-  },
-  {
-    "PhysicsBindModelRef": "Work/Component/PhysicsBindModelParam/EnemyTakopter.spl__gfx__PhysicsBindModelParam.gyml",
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "EnemySideMoveTakopter"
   },
   {
     "PhysicsBindModelRef": "Work/Component/PhysicsBindModelParam/EnemyStamp.spl__gfx__PhysicsBindModelParam.gyml",
@@ -4469,6 +4713,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Fld_BigRunCarousel03"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Fld_BigSlope00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Fld_BigWorld_Area01"
   },
   {
@@ -4524,6 +4778,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Fld_Jyoheki03"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Fld_Kaisou03"
   },
   {
@@ -4574,17 +4833,7 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Fld_Room_Gear_Fsodr"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Fld_Room_Goods"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Fld_Room_Goods_Fsodr"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -4594,27 +4843,12 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Fld_Room_Shoes_Fsodr"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Fld_Room_Tshirts"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Fld_Room_Tshirts_Fsodr"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Fld_Room_Weapons"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Fld_Room_Weapons_Fsodr"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -4625,6 +4859,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Fld_Shakedent00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Fld_Shakeship00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -4729,11 +4968,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "GamePlacementGroupTag"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "GeneralLocator"
   },
   {
@@ -4745,11 +4979,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "GeneralLocator_Cylinder"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "GeneralLocator_Sphere"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5079,6 +5308,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_ACC003"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_AMB000"
   },
   {
@@ -5164,12 +5398,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_CAP001"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_CAP002"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Hed_CAP003"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_CAP004"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5190,6 +5434,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Hed_CAP021"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_CAP023"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_CAP024"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5249,12 +5503,32 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_COP112"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_COP113"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_COP114"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_COP115"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_COP116"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_EYE000"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5270,11 +5544,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Hed_EYE003"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Hed_EYE007"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5299,12 +5568,32 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_EYE014"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_EYE015"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_EYE016_F"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Hed_EYE016_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_EYE018_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_EYE018_M"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5349,7 +5638,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_EYE031"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_FST000"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_HAT003"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5365,6 +5664,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Hed_HAT008"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_HAT010"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5429,12 +5733,32 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_HDP009"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_INV000"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MET004"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MET006"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_MET007"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MET009"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5454,7 +5778,47 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MET016"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MSK002_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MSK002_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MSK003_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MSK003_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MSK004"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_MSK005"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MSK006"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_MSK007"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -5544,7 +5908,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Hed_NCP001"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Hed_NCP008"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Hed_NCP009"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -6654,6 +7028,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObjParent_Clt_Hang_Fold"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObjParent_Hed_Mannequin"
   },
   {
@@ -6794,6 +7173,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_FST001_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_FST001_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_JKT000"
   },
   {
@@ -6804,7 +7193,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_JKT003"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_JKT005"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_JKT006"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_JKT010"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -6825,6 +7229,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_JKT023"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_JKT036"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -6865,6 +7274,26 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_JKT054"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_JKT055"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_JKT056"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_JKT057"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_JKT060"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -6929,7 +7358,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_SHT001"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_SHT003"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_SHT004"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -6974,6 +7413,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_SHT026"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_SHT030"
   },
   {
@@ -6999,6 +7443,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_SHT038"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_SHT040"
   },
   {
@@ -7009,7 +7458,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_SWT007"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_SWT010"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_SWT013"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -7029,12 +7488,32 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_SWT020"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_TEL004_F"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_TEL004_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TEL015_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TEL015_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TEL026"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -7055,6 +7534,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_TES001_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES003_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES003_M"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -7169,6 +7658,36 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES026_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES026_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES028_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES028_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES029_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES029_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_TES030_F"
   },
   {
@@ -7185,6 +7704,46 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_TES035_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES047_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES047_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES048_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES048_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES049"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES050"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES055_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_TES055_M"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -7439,6 +7998,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Clt_VST004"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Clt_VST010"
   },
   {
@@ -7460,6 +8024,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Fig_AttacheCase"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_Backpack00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -7704,6 +8273,26 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_CoopSalmonBigKing00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_CoopSalmonBigKing01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_CoopSalmonBigKing02"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_CoopSalmonBigKing03"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Fig_CoopSalmonBomb"
   },
   {
@@ -7755,6 +8344,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Fig_DeliveryBox01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_DrawstringBag00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -7819,12 +8413,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_JuiceBox_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Fig_LaundryDetergent00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Fig_LaundryDetergent01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_LunchBox00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8105,6 +8709,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Fig_PropaneGas"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_RingBinder00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8404,6 +9013,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Fig_WaterBottle00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Fig_WeirdDoll00"
   },
   {
@@ -8420,6 +9034,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Fig_Yagura"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_ACC003"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8509,12 +9128,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_CAP001"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_CAP002"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_CAP003"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_CAP004"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8539,6 +9168,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_CAP023"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_CAP024"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_CAP028"
   },
   {
@@ -8559,12 +9198,32 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_COP112"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_COP113"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_COP114"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_COP115"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_COP116"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_EYE000"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8580,11 +9239,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_EYE003"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "LObj_Hed_EYE007"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8609,12 +9263,32 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_EYE014"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_EYE015"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_EYE016_F"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_EYE016_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_EYE018_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_EYE018_M"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8659,7 +9333,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_EYE031"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_FST000"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_HAT003"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8675,6 +9359,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_HAT008"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_HAT010"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8739,7 +9428,27 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_HDP009"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MET004"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MET006"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_MET007"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MET009"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8759,7 +9468,47 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MET016"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MSK002_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MSK002_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MSK003_F"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MSK003_M"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MSK004"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_MSK005"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MSK006"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_MSK007"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -8809,7 +9558,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_NCP001"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Hed_NCP008"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Hed_NCP009"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9014,6 +9773,26 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT002"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT002_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT004"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT004_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_BOT006"
   },
   {
@@ -9034,12 +9813,42 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT010"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT010_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_BOT012"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_BOT012_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT013"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT013_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT019"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT019_Mirror"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9084,12 +9893,72 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT026"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_BOT026_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS000"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS000_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS003"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS003_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS005"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS005_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS007"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS007_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_LTS010"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_LTS010_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS011"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_LTS011_Mirror"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9190,6 +10059,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_SDL005_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SDL006"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SDL006_Mirror"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9334,6 +10213,26 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI008"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI008_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI010"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI010_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_SHI011"
   },
   {
@@ -9374,6 +10273,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI025"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI025_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_SHI042"
   },
   {
@@ -9404,6 +10313,26 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI046"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI046_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI052"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHI052_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_SHT000"
   },
   {
@@ -9420,6 +10349,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_SHT001_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHT002"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SHT002_Mirror"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9554,6 +10493,26 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SLO010"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SLO010_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SLO012"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SLO012_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_SLO021"
   },
   {
@@ -9594,12 +10553,42 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SLO025"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SLO025_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SLP000"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_SLP000_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_SLP002"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Shs_SLP002_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_TRG000"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Shs_TRG000_Mirror"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9679,7 +10668,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Blaster_Short_Cstm01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Brush_Mini"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Brush_Mini_Cstm01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9715,6 +10714,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Charger_NormalTScope"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Charger_Pencil"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9759,6 +10763,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Maneuver_Short_Cstm01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Maneuver_Short_Cstm01_Mirror"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Maneuver_Short_Mirror"
   },
   {
@@ -9779,6 +10793,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Roller_Compact_Cstm01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Roller_Heavy"
   },
   {
@@ -9790,6 +10809,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Roller_NormalT"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Roller_Wide"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9824,12 +10848,27 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Shooter_Blaze_Cstm01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Shooter_Expert"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Shooter_Expert_Cstm01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Shooter_First"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Shooter_First_Cstm01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9864,7 +10903,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Shooter_NormalT_Cstm01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Shooter_Precision"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Shooter_QuickLong"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -9909,6 +10958,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Slosher_StrongT_Cstm01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Slosher_Washtub"
   },
   {
@@ -9925,6 +10979,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "LObj_Wmn_Spinner_QuickT"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "LObj_Wmn_Spinner_QuickT_Cstm01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -10314,11 +11373,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_FldObj_AlternaCube30x35x20"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_AlternaCube30x45x15"
   },
   {
@@ -10375,11 +11429,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_AlternaCubeNP15x15x15"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_FldObj_AlternaCubeNP15x25x50"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -10454,11 +11503,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_FldObj_AlternaSlope30x50x90"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_AlternaSlope50x30x60"
   },
   {
@@ -10474,27 +11518,7 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_FldObj_AlternaSlope60x40x75"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_AlternaSlope60x50x90"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_FldObj_AlternaSlope65x30x60"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_FldObj_AlternaSlope65x40x65"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_FldObj_AlternaSlope70x30x60"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -10535,6 +11559,56 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_BankaraCityFestSecond"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigRunCarousel03_GeneralBox"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigSlope00_CenterBoard"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigSlope00_CenterLeaf"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigSlope00_CenterWall"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigSlope00_SideAsari"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigSlope00_Slope"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigSlope00_SlopeFill"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigSlope00_SlopeMiddle"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigSlope00_TopFloor"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_BigSlope00_TopSlope"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -10780,6 +11854,76 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_HiagariWater"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameBottom"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameBottomAsari"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HiramePaint"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameRightBox"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameSideArea"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameSideHoko"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameSideYagura"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameSlopeArea"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameSlopeHoko"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameTowerAP"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_HirameTowerNP"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Jyoheki03_Water"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_JyohekiPlayGround"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_JyohekiPlayGroundNight"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -11184,7 +12328,47 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_Block00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_Block01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_Block02"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_Box00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_CenterNet00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_Scrap00_Net"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_Plane00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_ScrapMountain00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_SideWall00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -11194,7 +12378,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_Slope01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_Scrap00_Step"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Scrap00_TclStage00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -11234,7 +12428,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Temple00_GatiRule"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_Temple00_Glass01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Temple00_NormalRule"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Temple00_PillarSide"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -11260,6 +12469,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Lft_FldObj_Temple00_SlopeNP02"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Temple00_StageEndPnt"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Lft_FldObj_Temple00_Tcl"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -11514,27 +12733,12 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube15x25x50NP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_GeneralCube15x30x15NP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube15x45x15AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_GeneralCube15x45x30NP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube15x60x15AP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -11594,11 +12798,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube30x35x20AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_GeneralCube30x45x15AP"
   },
   {
@@ -11614,37 +12813,12 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube30x45x60AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube30x60x15AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube30x70x30AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube40x30x15AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_GeneralCube45x15x15AP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Lft_GeneralCube60x30x45AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube60x45x15AP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -11659,57 +12833,7 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralCube90x40x15AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralSlope30x25x45AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_GeneralSlope30x30x60AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralSlope30x40x75AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralSlope30x50x90AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralSlope50x30x60AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralSlope60x25x45AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralSlope60x40x75AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralSlope60x50x90AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralSlope65x30x60AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_GeneralSlope65x40x65AP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -11859,11 +12983,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_MsnCube150x150x15KB"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_MsnCube15x120x15NP"
   },
   {
@@ -11875,11 +12994,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Lft_MsnCube165x15x3Fence"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_MsnCube180x180x15KB"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -12174,11 +13288,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_MsnHoleCrossFloor345x15x345XP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Lft_MsnHoleFloor180x15x180AP"
   },
   {
@@ -12379,12 +13488,7 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Lft_TestBox60x60x60IC"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Lft_Test_CoopBox"
+    "__RowId": "Lft_Shakeship00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -13039,11 +14143,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_FldObj_AlternaCube30x35x20"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_AlternaCube30x45x15"
   },
   {
@@ -13100,11 +14199,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_AlternaCubeNP15x15x15"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_FldObj_AlternaCubeNP15x25x50"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -13179,11 +14273,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_FldObj_AlternaSlope30x50x90"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_AlternaSlope50x30x60"
   },
   {
@@ -13199,27 +14288,7 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_FldObj_AlternaSlope60x40x75"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_AlternaSlope60x50x90"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_FldObj_AlternaSlope65x30x60"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_FldObj_AlternaSlope65x40x65"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_FldObj_AlternaSlope70x30x60"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -13260,6 +14329,56 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_BankaraCityFestSecond"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigRunCarousel03_GeneralBox"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigSlope00_CenterBoard"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigSlope00_CenterLeaf"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigSlope00_CenterWall"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigSlope00_SideAsari"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigSlope00_Slope"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigSlope00_SlopeFill"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigSlope00_SlopeMiddle"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigSlope00_TopFloor"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_BigSlope00_TopSlope"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -13414,11 +14533,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_FldObj_GantryCraneScrap"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_GeneralBoxNoPaintDither15x15x15"
   },
   {
@@ -13510,6 +14624,76 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_HiagariWater"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameBottom"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameBottomAsari"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HiramePaint"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameRightBox"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameSideArea"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameSideHoko"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameSideYagura"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameSlopeArea"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameSlopeHoko"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameTowerAP"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_HirameTowerNP"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Jyoheki03_Water"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_JyohekiPlayGround"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_JyohekiPlayGroundNight"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -13904,7 +15088,47 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_Block00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_Block01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_Block02"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_Box00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_CenterNet00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_Scrap00_Net"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_Plane00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_ScrapMountain00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_SideWall00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -13914,7 +15138,17 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_Slope01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_Scrap00_Step"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Scrap00_TclStage00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -13954,7 +15188,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Temple00_GatiRule"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_Temple00_Glass01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Temple00_NormalRule"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Temple00_PillarSide"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -13980,6 +15229,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Mpt_FldObj_Temple00_SlopeNP02"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Temple00_StageEndPnt"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Mpt_FldObj_Temple00_Tcl"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -14264,27 +15523,12 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube15x25x50NP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_GeneralCube15x30x15NP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube15x45x15AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_GeneralCube15x45x30NP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube15x60x15AP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -14344,11 +15588,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube30x35x20AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_GeneralCube30x45x15AP"
   },
   {
@@ -14364,37 +15603,12 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube30x45x60AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube30x60x15AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube30x70x30AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube40x30x15AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_GeneralCube45x15x15AP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Mpt_GeneralCube60x30x45AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube60x45x15AP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -14409,57 +15623,7 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralCube90x40x15AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralSlope30x25x45AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_GeneralSlope30x30x60AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralSlope30x40x75AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralSlope30x50x90AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralSlope50x30x60AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralSlope60x25x45AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralSlope60x40x75AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralSlope60x50x90AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralSlope65x30x60AP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_GeneralSlope65x40x65AP"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -14604,11 +15768,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_MsnCube150x150x15KB"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_MsnCube15x120x15NP"
   },
   {
@@ -14620,11 +15779,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Mpt_MsnCube165x15x3Fence"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_MsnCube180x180x15KB"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -14914,11 +16068,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_MsnHoleCrossFloor345x15x345XP"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Mpt_MsnHoleFloor180x15x180AP"
   },
   {
@@ -15100,16 +16249,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Mpt_PlayerDead"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_TestBox60x60x60IC"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Mpt_Test_CoopBox"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -15426,7 +16565,7 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "NpcPlayerViewer"
+    "__RowId": "NpcPlayerSimple"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -15791,6 +16930,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Fat_02"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "NpcVsJerry_Float_00"
   },
   {
@@ -15807,6 +16951,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "NpcVsJerry_Float_04"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Footbath_00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -15937,6 +17086,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "NpcVsJerry_General_22"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Giftshop_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Giftshop_01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -16111,11 +17270,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "NpcVsJerry_Helmet_02"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "NpcVsJerry_Kindergartener_00"
   },
   {
@@ -16147,6 +17301,21 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "NpcVsJerry_Kindergartener_06"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Kindergartener_07"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Kindergartener_08"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Kindergartener_09"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -16217,6 +17386,36 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "NpcVsJerry_MarketDisplay_03"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Onsen_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Onsen_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Onsen_02"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Onsen_03"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Onsen_04"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Onsen_05"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -16361,11 +17560,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "NpcVsJerry_SwimWear_Float06"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "NpcVsJerry_Y_RockClimbingA_00"
   },
   {
@@ -16407,6 +17601,46 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "NpcVsJerry_Y_RockClimbing_08"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Yukata_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Yukata_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Yukata_02"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Yukata_03"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Yukata_04"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Yukata_05"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Yukata_06"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "NpcVsJerry_Yukata_07"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -16836,6 +18070,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Obj_Shakeship00Gear"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Obj_Shakeship00PatrolLamp"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Obj_ShieldGimmick"
   },
   {
@@ -16947,16 +18191,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "PaintingLiftSlide6M"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "PaintingLiftTurn12M"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "PaintingLiftTurn6M"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -17087,6 +18321,21 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Propeller"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "PropellerOnline"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "PropellerOnlineDecorationParent"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "PropellerOnlineWithLift"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -17368,6 +18617,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Shs_BOT002"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_BOT004"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Shs_BOT006"
   },
   {
@@ -17378,7 +18637,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Shs_BOT010"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Shs_BOT012"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_BOT013"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_BOT019"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -17403,7 +18677,37 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Shs_BOT026"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_LTS000"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_LTS003"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_LTS005"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_LTS007"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Shs_LTS010"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_LTS011"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -17503,6 +18807,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SDL006"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Shs_SDL007"
   },
   {
@@ -17573,6 +18882,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SHI008"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SHI010"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Shs_SHI011"
   },
   {
@@ -17593,6 +18912,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SHI025"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Shs_SHI042"
   },
   {
@@ -17608,12 +18932,27 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SHI046"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SHI052"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Shs_SHT000"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Shs_SHT001"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SHT002"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -17683,6 +19022,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SLO010"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SLO012"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Shs_SLO021"
   },
   {
@@ -17703,7 +19052,22 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SLO025"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_SLP000"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "Shs_SLP002"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Shs_TRG000"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -17843,7 +19207,12 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Sky_Daytime09"
+    "__RowId": "Sky_Daytime10"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "Sky_Daytime11"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -17953,16 +19322,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Sky_Nighttime00"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Sky_Nighttime01"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "Sky_Nighttime02"
   },
   {
@@ -17994,11 +19353,6 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "Sky_Space00"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "Sky_Space01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -18043,12 +19397,12 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Sky_SunsetCoopBoss"
+    "__RowId": "Sky_SunsetBigRun_00"
   },
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "Sky_Test02"
+    "__RowId": "Sky_SunsetCoopBoss"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -18296,6 +19650,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "SplPhotographerOnline"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "SplPlayer"
   },
   {
@@ -18451,11 +19810,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "TestField0004"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "TimeLimitStartArea"
   },
   {
@@ -18472,16 +19826,6 @@
     "PlacedSaveReflectActorExistence": true,
     "PlacedSaveTarget": "SaveData",
     "__RowId": "TricolNoroshi"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "TttTestPlayer2"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
-    "__RowId": "TttTestSpawn"
   },
   {
     "PlacedSaveReflectActorExistence": true,
@@ -18841,6 +20185,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WeaponChargerPencil"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WeaponChargerPencil_Coop"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WeaponChargerQuick"
   },
   {
@@ -19032,6 +20386,21 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WeaponRollerRivalLv2"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WeaponRollerWide"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WeaponRollerWide_Coop"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WeaponSaberBear_Coop"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -19277,6 +20646,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WeaponShooterPrecision_Msn"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WeaponShooterQuickLong"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WeaponShooterQuickLong_Coop"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -19614,11 +20993,6 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
-    "__RowId": "WeaponSpSuperHookOct_Mission"
-  },
-  {
-    "PlacedSaveReflectActorExistence": false,
-    "PlacedSaveTarget": "None",
     "__RowId": "WeaponSpSuperHook_Mission"
   },
   {
@@ -19897,6 +21271,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Blaster_Short_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Blaster_Short_Coop"
   },
   {
@@ -19908,6 +21287,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Brush_Mini_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Brush_Mini_01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -20037,6 +21421,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Charger_Pencil_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Charger_Pencil_Coop"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Charger_Quick_00"
   },
   {
@@ -20117,6 +21511,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Maneuver_Short_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Maneuver_Short_Coop"
   },
   {
@@ -20143,6 +21542,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Roller_Compact_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Roller_Compact_01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -20208,6 +21612,21 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Roller_RivalLv2_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Roller_Wide_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Roller_Wide_Coop"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Saber_Bear_Coop"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -20302,6 +21721,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Shooter_Blaze_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Shooter_Blaze_Coop"
   },
   {
@@ -20317,6 +21741,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Shooter_Expert_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Shooter_Expert_Coop"
   },
   {
@@ -20328,6 +21757,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Shooter_First_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Shooter_First_01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -20432,6 +21866,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Shooter_Normal_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Shooter_Normal_01_AMB_1"
   },
   {
@@ -20463,6 +21902,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Shooter_Precision_Msn"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Shooter_QuickLong_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Shooter_QuickLong_Coop"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -20602,6 +22051,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Slosher_Strong_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Slosher_Strong_Coop"
   },
   {
@@ -20658,6 +22112,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnG_Spinner_Quick_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnG_Spinner_Quick_01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -20827,6 +22286,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Blaster_Short_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Blaster_Short_Coop"
   },
   {
@@ -20838,6 +22302,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Brush_Mini_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Brush_Mini_01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -20967,6 +22436,16 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Charger_Pencil_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Charger_Pencil_Coop"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Charger_Quick_00"
   },
   {
@@ -21047,6 +22526,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Maneuver_Short_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Maneuver_Short_Coop"
   },
   {
@@ -21073,6 +22557,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Roller_Compact_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Roller_Compact_01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -21138,6 +22627,21 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Roller_RivalLv2_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Roller_Wide_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Roller_Wide_Coop"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Saber_Bear_Coop"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -21232,6 +22736,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Shooter_Blaze_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Shooter_Blaze_Coop"
   },
   {
@@ -21247,6 +22756,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Shooter_Expert_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Shooter_Expert_Coop"
   },
   {
@@ -21258,6 +22772,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Shooter_First_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Shooter_First_01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -21362,6 +22881,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Shooter_Normal_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Shooter_Normal_01_AMB_1"
   },
   {
@@ -21393,6 +22917,16 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Shooter_Precision_Msn"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Shooter_QuickLong_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Shooter_QuickLong_Coop"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -21532,6 +23066,11 @@
   {
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Slosher_Strong_01"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Slosher_Strong_Coop"
   },
   {
@@ -21588,6 +23127,11 @@
     "PlacedSaveReflectActorExistence": false,
     "PlacedSaveTarget": "None",
     "__RowId": "WmnS_Spinner_Quick_00"
+  },
+  {
+    "PlacedSaveReflectActorExistence": false,
+    "PlacedSaveTarget": "None",
+    "__RowId": "WmnS_Spinner_Quick_01"
   },
   {
     "PlacedSaveReflectActorExistence": false,
@@ -21688,12 +23232,6 @@
     "PlacedSaveReflectActorExistence": true,
     "PlacedSaveTarget": "SceneSetting",
     "__RowId": "WoodenBoxSmall"
-  },
-  {
-    "PhysicsBindModelRef": "Work/Component/PhysicsBindModelParam/ObjWoodBox00L.spl__gfx__PhysicsBindModelParam.gyml",
-    "PlacedSaveReflectActorExistence": true,
-    "PlacedSaveTarget": "SceneSetting",
-    "__RowId": "WoodenBoxSmall_NG"
   },
   {
     "PhysicsBindModelRef": "Work/Component/PhysicsBindModelParam/ObjWoodBox01L.spl__gfx__PhysicsBindModelParam.gyml",

@@ -4,7 +4,7 @@
       "$type": "spl__BulletBlastParam",
       "DistanceDamage": [
         {
-          "Damage": 1800,
+          "Damage": 2200,
           "Distance": 7.5
         },
         {
@@ -73,7 +73,7 @@
     "BulletParam": {
       "$type": "spl__BulletSpSkewerParam",
       "CollisionRadiusForPlayer": 0.8,
-      "DamageValue": 1800
+      "DamageValue": 2200
     },
     "WeaponParam": {
       "$type": "spl__WeaponSpSkewerParam",

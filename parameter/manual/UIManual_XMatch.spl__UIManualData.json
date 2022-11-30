@@ -27,7 +27,7 @@
   "PageList": [
     {
       "BodyLabel": "XMatch_Manual00",
-      "Image": "Work/UI/Icon/Manual/VS/sourceimages/ManualVSM_07.tga",
+      "Image": "Work/UI/Icon/Manual/VS/sourceimages/ManualVSL_09.tga",
       "LayoutType": "HeadingAndImageL",
       "TitleLabel": "XMatch_Title"
     },
@@ -52,7 +52,7 @@
     {
       "BodyLabel": "XMatch_Gachiarea_Manual00",
       "Chapter": 1,
-      "Image": "Work/UI/Icon/Manual/VS/sourceimages/ManualVSL_01.tga",
+      "Image": "Work/UI/Icon/Manual/VS/sourceimages/ManualVSL_04.tga",
       "LayoutType": "HeadingAndImageL",
       "TitleLabel": "XMatch_Gachiarea_Title"
     },

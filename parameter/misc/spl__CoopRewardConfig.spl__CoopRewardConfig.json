@@ -206,6 +206,46 @@
       {
         "KumaScale": 12,
         "RewardMeterElementType": "RandomHit"
+      },
+      {
+        "KumaScale": 13
+      },
+      {
+        "KumaScale": 14,
+        "RewardMeterElementType": "MonthlyGear"
+      },
+      {
+        "KumaScale": 15
+      },
+      {
+        "KumaScale": 16
+      },
+      {
+        "KumaScale": 17
+      },
+      {
+        "KumaScale": 18,
+        "RewardMeterElementType": "RandomHit"
+      },
+      {
+        "KumaScale": 19
+      },
+      {
+        "KumaScale": 20,
+        "RewardMeterElementType": "MonthlyGear"
+      },
+      {
+        "KumaScale": 21
+      },
+      {
+        "KumaScale": 22
+      },
+      {
+        "KumaScale": 23
+      },
+      {
+        "KumaScale": 24,
+        "RewardMeterElementType": "RandomHit"
       }
     ],
     "RepearElementArray": [
@@ -213,25 +253,25 @@
         "KumaScaleSpan": 4,
         "RepeatNum": 7,
         "RewardMeterElementType": "MonthlyGear",
-        "StartKumaScale": 14
+        "StartKumaScale": 26
       },
       {
         "KumaScaleSpan": 4,
         "RepeatNum": 6,
         "RewardMeterElementType": "UsedGearCapsule",
-        "StartKumaScale": 16
+        "StartKumaScale": 28
       },
       {
         "KumaScaleSpan": 8,
         "RepeatNum": 0,
         "RewardMeterElementType": "MonthlyGear",
-        "StartKumaScale": 40
+        "StartKumaScale": 52
       },
       {
         "KumaScaleSpan": 8,
         "RepeatNum": 0,
         "RewardMeterElementType": "UsedGearCapsule",
-        "StartKumaScale": 44
+        "StartKumaScale": 56
       }
     ]
   },

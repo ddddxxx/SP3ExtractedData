@@ -1,5 +1,6 @@
 [
   {
+    "DisplayOrder": 110100,
     "HowToGet": "Shop",
     "Id": 110100,
     "LObjParam": "Work/Gyml/LObj_Fig_AttacheCase.spl__LockerObjParam.gyml",
@@ -24,6 +25,32 @@
     "__RowId": "Fig_AttacheCase"
   },
   {
+    "DisplayOrder": 112100,
+    "HowToGet": "Catalog",
+    "Id": 112100,
+    "LObjParam": "Work/Gyml/LObj_Fig_Backpack00.spl__LockerObjParam.gyml",
+    "Label": "リュックサック ネイビー",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_Backpack00/output/Fig_Backpack00.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.4627451,
+      "G": 0.3960784,
+      "R": 0.2666667
+    },
+    "Price": 69390,
+    "Rarity": 2,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_Backpack00"
+  },
+  {
+    "DisplayOrder": 1300026,
     "HowToGet": "Other",
     "Id": 1300026,
     "LObjParam": "Work/Gyml/LObj_Fig_BigLantern.spl__LockerObjParam.gyml",
@@ -48,6 +75,7 @@
     "__RowId": "Fig_BigLantern"
   },
   {
+    "DisplayOrder": 1300021,
     "HowToGet": "Other",
     "Id": 1300021,
     "LObjParam": "Work/Gyml/LObj_Fig_BigLanternSakura.spl__LockerObjParam.gyml",
@@ -72,6 +100,7 @@
     "__RowId": "Fig_BigLanternSakura"
   },
   {
+    "DisplayOrder": 108030,
     "HowToGet": "Shop",
     "Id": 108030,
     "LObjParam": "Work/Gyml/LObj_Fig_Book_00.spl__LockerObjParam.gyml",
@@ -96,6 +125,7 @@
     "__RowId": "Fig_Book_00"
   },
   {
+    "DisplayOrder": 108031,
     "HowToGet": "Shop",
     "Id": 108031,
     "LObjParam": "Work/Gyml/LObj_Fig_Book_01.spl__LockerObjParam.gyml",
@@ -120,6 +150,7 @@
     "__RowId": "Fig_Book_01"
   },
   {
+    "DisplayOrder": 100121,
     "HowToGet": "Shop",
     "Id": 100121,
     "LObjParam": "Work/Gyml/LObj_Fig_Box00L.spl__LockerObjParam.gyml",
@@ -144,6 +175,7 @@
     "__RowId": "Fig_Box00L"
   },
   {
+    "DisplayOrder": 100123,
     "HowToGet": "Shop",
     "Id": 100123,
     "LObjParam": "Work/Gyml/LObj_Fig_Box00LHard.spl__LockerObjParam.gyml",
@@ -168,6 +200,7 @@
     "__RowId": "Fig_Box00LHard"
   },
   {
+    "DisplayOrder": 100120,
     "HowToGet": "Shop",
     "Id": 100120,
     "LObjParam": "Work/Gyml/LObj_Fig_Box00S.spl__LockerObjParam.gyml",
@@ -192,6 +225,7 @@
     "__RowId": "Fig_Box00S"
   },
   {
+    "DisplayOrder": 100122,
     "HowToGet": "Shop",
     "Id": 100122,
     "LObjParam": "Work/Gyml/LObj_Fig_Box01L.spl__LockerObjParam.gyml",
@@ -216,6 +250,7 @@
     "__RowId": "Fig_Box01L"
   },
   {
+    "DisplayOrder": 101140,
     "HowToGet": "Catalog",
     "Id": 101140,
     "LObjParam": "Work/Gyml/LObj_Fig_BrainmanStrap.spl__LockerObjParam.gyml",
@@ -240,6 +275,7 @@
     "__RowId": "Fig_BrainmanStrap"
   },
   {
+    "DisplayOrder": 101141,
     "HowToGet": "Catalog",
     "Id": 101141,
     "LObjParam": "Work/Gyml/LObj_Fig_BrainmanStrap01.spl__LockerObjParam.gyml",
@@ -264,6 +300,7 @@
     "__RowId": "Fig_BrainmanStrap01"
   },
   {
+    "DisplayOrder": 110040,
     "HowToGet": "Shop",
     "Id": 110040,
     "LObjParam": "Work/Gyml/LObj_Fig_Bucket00.spl__LockerObjParam.gyml",
@@ -288,6 +325,7 @@
     "__RowId": "Fig_Bucket00"
   },
   {
+    "DisplayOrder": 110041,
     "HowToGet": "Shop",
     "Id": 110041,
     "LObjParam": "Work/Gyml/LObj_Fig_Bucket01.spl__LockerObjParam.gyml",
@@ -312,6 +350,7 @@
     "__RowId": "Fig_Bucket01"
   },
   {
+    "DisplayOrder": 100130,
     "HowToGet": "Shop",
     "Id": 100130,
     "LObjParam": "Work/Gyml/LObj_Fig_Bunker01.spl__LockerObjParam.gyml",
@@ -336,6 +375,7 @@
     "__RowId": "Fig_Bunker01"
   },
   {
+    "DisplayOrder": 100131,
     "HowToGet": "Shop",
     "Id": 100131,
     "LObjParam": "Work/Gyml/LObj_Fig_Bunker01_Blue.spl__LockerObjParam.gyml",
@@ -360,6 +400,7 @@
     "__RowId": "Fig_Bunker01_Blue"
   },
   {
+    "DisplayOrder": 100132,
     "HowToGet": "Shop",
     "Id": 100132,
     "LObjParam": "Work/Gyml/LObj_Fig_Bunker01_Pink.spl__LockerObjParam.gyml",
@@ -384,6 +425,7 @@
     "__RowId": "Fig_Bunker01_Pink"
   },
   {
+    "DisplayOrder": 100133,
     "HowToGet": "Shop",
     "Id": 100133,
     "LObjParam": "Work/Gyml/LObj_Fig_Bunker02_Green.spl__LockerObjParam.gyml",
@@ -408,6 +450,7 @@
     "__RowId": "Fig_Bunker02_Green"
   },
   {
+    "DisplayOrder": 100134,
     "HowToGet": "Shop",
     "Id": 100134,
     "LObjParam": "Work/Gyml/LObj_Fig_Bunker02_Orange.spl__LockerObjParam.gyml",
@@ -432,6 +475,7 @@
     "__RowId": "Fig_Bunker02_Orange"
   },
   {
+    "DisplayOrder": 100135,
     "HowToGet": "Shop",
     "Id": 100135,
     "LObjParam": "Work/Gyml/LObj_Fig_Bunker02_Purple.spl__LockerObjParam.gyml",
@@ -456,6 +500,7 @@
     "__RowId": "Fig_Bunker02_Purple"
   },
   {
+    "DisplayOrder": 105100,
     "HowToGet": "Shop",
     "Id": 105100,
     "LObjParam": "Work/Gyml/LObj_Fig_Can00.spl__LockerObjParam.gyml",
@@ -480,6 +525,7 @@
     "__RowId": "Fig_Can00"
   },
   {
+    "DisplayOrder": 105101,
     "HowToGet": "Shop",
     "Id": 105101,
     "LObjParam": "Work/Gyml/LObj_Fig_Can01.spl__LockerObjParam.gyml",
@@ -504,6 +550,7 @@
     "__RowId": "Fig_Can01"
   },
   {
+    "DisplayOrder": 105102,
     "HowToGet": "Shop",
     "Id": 105102,
     "LObjParam": "Work/Gyml/LObj_Fig_Can01_01.spl__LockerObjParam.gyml",
@@ -528,6 +575,7 @@
     "__RowId": "Fig_Can01_01"
   },
   {
+    "DisplayOrder": 105103,
     "HowToGet": "Shop",
     "Id": 105103,
     "LObjParam": "Work/Gyml/LObj_Fig_Can01_02.spl__LockerObjParam.gyml",
@@ -552,6 +600,7 @@
     "__RowId": "Fig_Can01_02"
   },
   {
+    "DisplayOrder": 105150,
     "HowToGet": "Shop",
     "Id": 105150,
     "LObjParam": "Work/Gyml/LObj_Fig_Can02.spl__LockerObjParam.gyml",
@@ -576,6 +625,7 @@
     "__RowId": "Fig_Can02"
   },
   {
+    "DisplayOrder": 105200,
     "HowToGet": "Shop",
     "Id": 105200,
     "LObjParam": "Work/Gyml/LObj_Fig_CandyCan00.spl__LockerObjParam.gyml",
@@ -600,6 +650,7 @@
     "__RowId": "Fig_CandyCan00"
   },
   {
+    "DisplayOrder": 105201,
     "HowToGet": "Shop",
     "Id": 105201,
     "LObjParam": "Work/Gyml/LObj_Fig_CandyCan01.spl__LockerObjParam.gyml",
@@ -624,6 +675,7 @@
     "__RowId": "Fig_CandyCan01"
   },
   {
+    "DisplayOrder": 104020,
     "HowToGet": "Shop",
     "Id": 104020,
     "LObjParam": "Work/Gyml/LObj_Fig_CellPhone.spl__LockerObjParam.gyml",
@@ -648,6 +700,7 @@
     "__RowId": "Fig_CellPhone"
   },
   {
+    "DisplayOrder": 106000,
     "HowToGet": "Shop",
     "Id": 106000,
     "LObjParam": "Work/Gyml/LObj_Fig_CerealBox00.spl__LockerObjParam.gyml",
@@ -672,6 +725,7 @@
     "__RowId": "Fig_CerealBox00"
   },
   {
+    "DisplayOrder": 106001,
     "HowToGet": "Shop",
     "Id": 106001,
     "LObjParam": "Work/Gyml/LObj_Fig_CerealBox01.spl__LockerObjParam.gyml",
@@ -696,6 +750,7 @@
     "__RowId": "Fig_CerealBox01"
   },
   {
+    "DisplayOrder": 106002,
     "HowToGet": "Shop",
     "Id": 106002,
     "LObjParam": "Work/Gyml/LObj_Fig_CerealBox02.spl__LockerObjParam.gyml",
@@ -720,6 +775,7 @@
     "__RowId": "Fig_CerealBox02"
   },
   {
+    "DisplayOrder": 106300,
     "HowToGet": "Shop",
     "Id": 106300,
     "LObjParam": "Work/Gyml/LObj_Fig_CheeseBox.spl__LockerObjParam.gyml",
@@ -744,6 +800,7 @@
     "__RowId": "Fig_CheeseBox"
   },
   {
+    "DisplayOrder": 100204,
     "HowToGet": "Shop",
     "Id": 100204,
     "LObjParam": "Work/Gyml/LObj_Fig_Clam.spl__LockerObjParam.gyml",
@@ -768,6 +825,7 @@
     "__RowId": "Fig_Clam"
   },
   {
+    "DisplayOrder": 100205,
     "HowToGet": "Shop",
     "Id": 100205,
     "LObjParam": "Work/Gyml/LObj_Fig_ClamGreat.spl__LockerObjParam.gyml",
@@ -792,6 +850,7 @@
     "__RowId": "Fig_ClamGreat"
   },
   {
+    "DisplayOrder": 110020,
     "HowToGet": "Shop",
     "Id": 110020,
     "LObjParam": "Work/Gyml/LObj_Fig_ColorCone.spl__LockerObjParam.gyml",
@@ -816,6 +875,7 @@
     "__RowId": "Fig_ColorCone"
   },
   {
+    "DisplayOrder": 108000,
     "HowToGet": "Shop",
     "Id": 108000,
     "LObjParam": "Work/Gyml/LObj_Fig_Comic00_00.spl__LockerObjParam.gyml",
@@ -840,6 +900,7 @@
     "__RowId": "Fig_Comic00_00"
   },
   {
+    "DisplayOrder": 108001,
     "HowToGet": "Shop",
     "Id": 108001,
     "LObjParam": "Work/Gyml/LObj_Fig_Comic00_01.spl__LockerObjParam.gyml",
@@ -864,6 +925,7 @@
     "__RowId": "Fig_Comic00_01"
   },
   {
+    "DisplayOrder": 108002,
     "HowToGet": "Shop",
     "Id": 108002,
     "LObjParam": "Work/Gyml/LObj_Fig_Comic00_02.spl__LockerObjParam.gyml",
@@ -888,6 +950,7 @@
     "__RowId": "Fig_Comic00_02"
   },
   {
+    "DisplayOrder": 108010,
     "HowToGet": "Shop",
     "Id": 108010,
     "LObjParam": "Work/Gyml/LObj_Fig_Comic01_00.spl__LockerObjParam.gyml",
@@ -912,6 +975,7 @@
     "__RowId": "Fig_Comic01_00"
   },
   {
+    "DisplayOrder": 108011,
     "HowToGet": "Shop",
     "Id": 108011,
     "LObjParam": "Work/Gyml/LObj_Fig_Comic01_01.spl__LockerObjParam.gyml",
@@ -936,6 +1000,7 @@
     "__RowId": "Fig_Comic01_01"
   },
   {
+    "DisplayOrder": 108012,
     "HowToGet": "Shop",
     "Id": 108012,
     "LObjParam": "Work/Gyml/LObj_Fig_Comic01_02.spl__LockerObjParam.gyml",
@@ -960,6 +1025,7 @@
     "__RowId": "Fig_Comic01_02"
   },
   {
+    "DisplayOrder": 108020,
     "HowToGet": "Shop",
     "Id": 108020,
     "LObjParam": "Work/Gyml/LObj_Fig_Comic02_00.spl__LockerObjParam.gyml",
@@ -984,6 +1050,7 @@
     "__RowId": "Fig_Comic02_00"
   },
   {
+    "DisplayOrder": 108021,
     "HowToGet": "Shop",
     "Id": 108021,
     "LObjParam": "Work/Gyml/LObj_Fig_Comic02_01.spl__LockerObjParam.gyml",
@@ -1008,6 +1075,7 @@
     "__RowId": "Fig_Comic02_01"
   },
   {
+    "DisplayOrder": 108022,
     "HowToGet": "Shop",
     "Id": 108022,
     "LObjParam": "Work/Gyml/LObj_Fig_Comic02_02.spl__LockerObjParam.gyml",
@@ -1032,6 +1100,7 @@
     "__RowId": "Fig_Comic02_02"
   },
   {
+    "DisplayOrder": 1300022,
     "HowToGet": "Other",
     "Id": 1300022,
     "LObjParam": "Work/Gyml/LObj_Fig_ConcreteBlockSq.spl__LockerObjParam.gyml",
@@ -1056,6 +1125,7 @@
     "__RowId": "Fig_ConcreteBlockSq"
   },
   {
+    "DisplayOrder": 110036,
     "HowToGet": "Shop",
     "Id": 110036,
     "LObjParam": "Work/Gyml/LObj_Fig_CoolerBox.spl__LockerObjParam.gyml",
@@ -1080,6 +1150,7 @@
     "__RowId": "Fig_CoolerBox"
   },
   {
+    "DisplayOrder": 1200005,
     "HowToGet": "Uroko",
     "Id": 1200005,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopDiver.spl__LockerObjParam.gyml",
@@ -1104,6 +1175,7 @@
     "__RowId": "Fig_CoopDiver"
   },
   {
+    "DisplayOrder": 1200000,
     "HowToGet": "Uroko",
     "Id": 1200000,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmon.spl__LockerObjParam.gyml",
@@ -1128,6 +1200,7 @@
     "__RowId": "Fig_CoopSalmon"
   },
   {
+    "DisplayOrder": 1200003,
     "HowToGet": "Uroko",
     "Id": 1200003,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonBaby.spl__LockerObjParam.gyml",
@@ -1152,6 +1225,7 @@
     "__RowId": "Fig_CoopSalmonBaby"
   },
   {
+    "DisplayOrder": 1200001,
     "HowToGet": "Uroko",
     "Id": 1200001,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonBig.spl__LockerObjParam.gyml",
@@ -1176,6 +1250,107 @@
     "__RowId": "Fig_CoopSalmonBig"
   },
   {
+    "DisplayOrder": 1200031,
+    "HowToGet": "Other",
+    "Id": 1200031,
+    "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonBigKing00.spl__LockerObjParam.gyml",
+    "Label": "ヨコヅナ（ノーマル）",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_CoopSalmonBigKing/output/Fig_CoopSalmonBigKing.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.0,
+      "G": 1.0,
+      "R": 0.0
+    },
+    "Price": 0,
+    "Rarity": 1,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_CoopSalmonBigKing00"
+  },
+  {
+    "DisplayOrder": 1200032,
+    "HowToGet": "Other",
+    "Id": 1200032,
+    "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonBigKing01.spl__LockerObjParam.gyml",
+    "Label": "ヨコヅナ（ブロンズ）",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_CoopSalmonBigKing/output/Fig_CoopSalmonBigKing.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.527,
+      "G": 0.631,
+      "R": 0.956
+    },
+    "Price": 0,
+    "Rarity": 1,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_CoopSalmonBigKing01"
+  },
+  {
+    "DisplayOrder": 1200033,
+    "HowToGet": "Other",
+    "Id": 1200033,
+    "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonBigKing02.spl__LockerObjParam.gyml",
+    "Label": "ヨコヅナ（シルバー）",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_CoopSalmonBigKing/output/Fig_CoopSalmonBigKing.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.913,
+      "G": 0.956,
+      "R": 0.973
+    },
+    "Price": 0,
+    "Rarity": 1,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_CoopSalmonBigKing02"
+  },
+  {
+    "DisplayOrder": 1200034,
+    "HowToGet": "Other",
+    "Id": 1200034,
+    "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonBigKing03.spl__LockerObjParam.gyml",
+    "Label": "ヨコヅナ（ゴールド）",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_CoopSalmonBigKing/output/Fig_CoopSalmonBigKing.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.328,
+      "G": 0.761,
+      "R": 1.0
+    },
+    "Price": 0,
+    "Rarity": 1,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_CoopSalmonBigKing03"
+  },
+  {
+    "DisplayOrder": 1200004,
     "HowToGet": "Uroko",
     "Id": 1200004,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonBomb.spl__LockerObjParam.gyml",
@@ -1200,6 +1375,7 @@
     "__RowId": "Fig_CoopSalmonBomb"
   },
   {
+    "DisplayOrder": 1200007,
     "HowToGet": "Uroko",
     "Id": 1200007,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonCup.spl__LockerObjParam.gyml",
@@ -1224,6 +1400,7 @@
     "__RowId": "Fig_CoopSalmonCup"
   },
   {
+    "DisplayOrder": 1200019,
     "HowToGet": "Uroko",
     "Id": 1200019,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonGeyser.spl__LockerObjParam.gyml",
@@ -1248,6 +1425,7 @@
     "__RowId": "Fig_CoopSalmonGeyser"
   },
   {
+    "DisplayOrder": 1200010,
     "HowToGet": "Uroko",
     "Id": 1200010,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonGuardian.spl__LockerObjParam.gyml",
@@ -1272,6 +1450,7 @@
     "__RowId": "Fig_CoopSalmonGuardian"
   },
   {
+    "DisplayOrder": 1200008,
     "HowToGet": "Uroko",
     "Id": 1200008,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonRocket.spl__LockerObjParam.gyml",
@@ -1296,6 +1475,7 @@
     "__RowId": "Fig_CoopSalmonRocket"
   },
   {
+    "DisplayOrder": 1200009,
     "HowToGet": "Uroko",
     "Id": 1200009,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonSnake.spl__LockerObjParam.gyml",
@@ -1320,6 +1500,7 @@
     "__RowId": "Fig_CoopSalmonSnake"
   },
   {
+    "DisplayOrder": 1200006,
     "HowToGet": "Uroko",
     "Id": 1200006,
     "LObjParam": "Work/Gyml/LObj_Fig_CoopSalmonTower.spl__LockerObjParam.gyml",
@@ -1344,6 +1525,7 @@
     "__RowId": "Fig_CoopSalmonTower"
   },
   {
+    "DisplayOrder": 101133,
     "HowToGet": "Catalog",
     "Id": 101133,
     "LObjParam": "Work/Gyml/LObj_Fig_CrabDoll.spl__LockerObjParam.gyml",
@@ -1368,6 +1550,7 @@
     "__RowId": "Fig_CrabDoll"
   },
   {
+    "DisplayOrder": 104040,
     "HowToGet": "Shop",
     "Id": 104040,
     "LObjParam": "Work/Gyml/LObj_Fig_DancingFlower.spl__LockerObjParam.gyml",
@@ -1392,6 +1575,7 @@
     "__RowId": "Fig_DancingFlower"
   },
   {
+    "DisplayOrder": 110038,
     "HowToGet": "Shop",
     "Id": 110038,
     "LObjParam": "Work/Gyml/LObj_Fig_DeliveryBox00.spl__LockerObjParam.gyml",
@@ -1416,6 +1600,7 @@
     "__RowId": "Fig_DeliveryBox00"
   },
   {
+    "DisplayOrder": 110037,
     "HowToGet": "Shop",
     "Id": 110037,
     "LObjParam": "Work/Gyml/LObj_Fig_DeliveryBox01.spl__LockerObjParam.gyml",
@@ -1440,6 +1625,32 @@
     "__RowId": "Fig_DeliveryBox01"
   },
   {
+    "DisplayOrder": 112000,
+    "HowToGet": "Catalog",
+    "Id": 112000,
+    "LObjParam": "Work/Gyml/LObj_Fig_DrawstringBag00.spl__LockerObjParam.gyml",
+    "Label": "ナップザック メッシュ",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_DrawstringBag00/output/Fig_DrawstringBag00.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.1921569,
+      "G": 0.6078432,
+      "R": 1.0
+    },
+    "Price": 7239,
+    "Rarity": 1,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_DrawstringBag00"
+  },
+  {
+    "DisplayOrder": 110032,
     "HowToGet": "Shop",
     "Id": 110032,
     "LObjParam": "Work/Gyml/LObj_Fig_DrinkCase.spl__LockerObjParam.gyml",
@@ -1464,6 +1675,7 @@
     "__RowId": "Fig_DrinkCase"
   },
   {
+    "DisplayOrder": 110012,
     "HowToGet": "Shop",
     "Id": 110012,
     "LObjParam": "Work/Gyml/LObj_Fig_DustBox02.spl__LockerObjParam.gyml",
@@ -1488,6 +1700,7 @@
     "__RowId": "Fig_DustBox02"
   },
   {
+    "DisplayOrder": 110004,
     "HowToGet": "Shop",
     "Id": 110004,
     "LObjParam": "Work/Gyml/LObj_Fig_ElectricalCord.spl__LockerObjParam.gyml",
@@ -1512,6 +1725,7 @@
     "__RowId": "Fig_ElectricalCord"
   },
   {
+    "DisplayOrder": 110003,
     "HowToGet": "Shop",
     "Id": 110003,
     "LObjParam": "Work/Gyml/LObj_Fig_FireExtinguisher.spl__LockerObjParam.gyml",
@@ -1536,6 +1750,7 @@
     "__RowId": "Fig_FireExtinguisher"
   },
   {
+    "DisplayOrder": 100151,
     "HowToGet": "Shop",
     "Id": 100151,
     "LObjParam": "Work/Gyml/LObj_Fig_GeneralBoxL.spl__LockerObjParam.gyml",
@@ -1560,6 +1775,7 @@
     "__RowId": "Fig_GeneralBoxL"
   },
   {
+    "DisplayOrder": 100154,
     "HowToGet": "Shop",
     "Id": 100154,
     "LObjParam": "Work/Gyml/LObj_Fig_GeneralBoxNoPaintL.spl__LockerObjParam.gyml",
@@ -1584,6 +1800,7 @@
     "__RowId": "Fig_GeneralBoxNoPaintL"
   },
   {
+    "DisplayOrder": 100153,
     "HowToGet": "Shop",
     "Id": 100153,
     "LObjParam": "Work/Gyml/LObj_Fig_GeneralBoxNoPaintS.spl__LockerObjParam.gyml",
@@ -1608,6 +1825,7 @@
     "__RowId": "Fig_GeneralBoxNoPaintS"
   },
   {
+    "DisplayOrder": 100150,
     "HowToGet": "Shop",
     "Id": 100150,
     "LObjParam": "Work/Gyml/LObj_Fig_GeneralBoxS.spl__LockerObjParam.gyml",
@@ -1632,6 +1850,7 @@
     "__RowId": "Fig_GeneralBoxS"
   },
   {
+    "DisplayOrder": 100203,
     "HowToGet": "Shop",
     "Id": 100203,
     "LObjParam": "Work/Gyml/LObj_Fig_GoalShachi.spl__LockerObjParam.gyml",
@@ -1656,6 +1875,7 @@
     "__RowId": "Fig_GoalShachi"
   },
   {
+    "DisplayOrder": 106010,
     "HowToGet": "Shop",
     "Id": 106010,
     "LObjParam": "Work/Gyml/LObj_Fig_IceBox.spl__LockerObjParam.gyml",
@@ -1680,6 +1900,7 @@
     "__RowId": "Fig_IceBox"
   },
   {
+    "DisplayOrder": 101220,
     "HowToGet": "Catalog",
     "Id": 101220,
     "LObjParam": "Work/Gyml/LObj_Fig_Ikaman.spl__LockerObjParam.gyml",
@@ -1704,6 +1925,7 @@
     "__RowId": "Fig_Ikaman"
   },
   {
+    "DisplayOrder": 105160,
     "HowToGet": "Shop",
     "Id": 105160,
     "LObjParam": "Work/Gyml/LObj_Fig_IkuraBottle.spl__LockerObjParam.gyml",
@@ -1728,6 +1950,32 @@
     "__RowId": "Fig_IkuraBottle"
   },
   {
+    "DisplayOrder": 105120,
+    "HowToGet": "Catalog",
+    "Id": 105120,
+    "LObjParam": "Work/Gyml/LObj_Fig_JuiceBox_00.spl__LockerObjParam.gyml",
+    "Label": "パックジュース マンゴー",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_JuiceBox00/output/Fig_JuiceBox00.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.172549,
+      "G": 0.6039216,
+      "R": 0.9843137
+    },
+    "Price": 7590,
+    "Rarity": 1,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_JuiceBox_00"
+  },
+  {
+    "DisplayOrder": 106201,
     "HowToGet": "Shop",
     "Id": 106201,
     "LObjParam": "Work/Gyml/LObj_Fig_LaundryDetergent00.spl__LockerObjParam.gyml",
@@ -1752,6 +2000,7 @@
     "__RowId": "Fig_LaundryDetergent00"
   },
   {
+    "DisplayOrder": 106200,
     "HowToGet": "Shop",
     "Id": 106200,
     "LObjParam": "Work/Gyml/LObj_Fig_LaundryDetergent01.spl__LockerObjParam.gyml",
@@ -1776,6 +2025,32 @@
     "__RowId": "Fig_LaundryDetergent01"
   },
   {
+    "DisplayOrder": 113100,
+    "HowToGet": "Catalog",
+    "Id": 113100,
+    "LObjParam": "Work/Gyml/LObj_Fig_LunchBox00.spl__LockerObjParam.gyml",
+    "Label": "ランチタッパー ブルー",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_LunchBox00/output/Fig_LunchBox00.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.9098039,
+      "G": 0.6352941,
+      "R": 0.0
+    },
+    "Price": 8311,
+    "Rarity": 2,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_LunchBox00"
+  },
+  {
+    "DisplayOrder": 107000,
     "HowToGet": "Shop",
     "Id": 107000,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine00.spl__LockerObjParam.gyml",
@@ -1800,6 +2075,7 @@
     "__RowId": "Fig_Magazine00"
   },
   {
+    "DisplayOrder": 107001,
     "HowToGet": "Shop",
     "Id": 107001,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine01.spl__LockerObjParam.gyml",
@@ -1824,6 +2100,7 @@
     "__RowId": "Fig_Magazine01"
   },
   {
+    "DisplayOrder": 107002,
     "HowToGet": "Shop",
     "Id": 107002,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine02.spl__LockerObjParam.gyml",
@@ -1848,6 +2125,7 @@
     "__RowId": "Fig_Magazine02"
   },
   {
+    "DisplayOrder": 107003,
     "HowToGet": "Shop",
     "Id": 107003,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine03.spl__LockerObjParam.gyml",
@@ -1872,6 +2150,7 @@
     "__RowId": "Fig_Magazine03"
   },
   {
+    "DisplayOrder": 107004,
     "HowToGet": "Shop",
     "Id": 107004,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine04.spl__LockerObjParam.gyml",
@@ -1896,6 +2175,7 @@
     "__RowId": "Fig_Magazine04"
   },
   {
+    "DisplayOrder": 107005,
     "HowToGet": "Shop",
     "Id": 107005,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine05.spl__LockerObjParam.gyml",
@@ -1920,6 +2200,7 @@
     "__RowId": "Fig_Magazine05"
   },
   {
+    "DisplayOrder": 107006,
     "HowToGet": "Shop",
     "Id": 107006,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine06.spl__LockerObjParam.gyml",
@@ -1944,6 +2225,7 @@
     "__RowId": "Fig_Magazine06"
   },
   {
+    "DisplayOrder": 107007,
     "HowToGet": "Shop",
     "Id": 107007,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine07.spl__LockerObjParam.gyml",
@@ -1968,6 +2250,7 @@
     "__RowId": "Fig_Magazine07"
   },
   {
+    "DisplayOrder": 107008,
     "HowToGet": "Shop",
     "Id": 107008,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine08.spl__LockerObjParam.gyml",
@@ -1992,6 +2275,7 @@
     "__RowId": "Fig_Magazine08"
   },
   {
+    "DisplayOrder": 107009,
     "HowToGet": "Shop",
     "Id": 107009,
     "LObjParam": "Work/Gyml/LObj_Fig_Magazine09.spl__LockerObjParam.gyml",
@@ -2016,6 +2300,7 @@
     "__RowId": "Fig_Magazine09"
   },
   {
+    "DisplayOrder": 110002,
     "HowToGet": "Shop",
     "Id": 110002,
     "LObjParam": "Work/Gyml/LObj_Fig_Measurement.spl__LockerObjParam.gyml",
@@ -2040,6 +2325,7 @@
     "__RowId": "Fig_Measurement"
   },
   {
+    "DisplayOrder": 1300023,
     "HowToGet": "Other",
     "Id": 1300023,
     "LObjParam": "Work/Gyml/LObj_Fig_MegapolisHydrant.spl__LockerObjParam.gyml",
@@ -2064,6 +2350,7 @@
     "__RowId": "Fig_MegapolisHydrant"
   },
   {
+    "DisplayOrder": 1300018,
     "HowToGet": "Other",
     "Id": 1300018,
     "LObjParam": "Work/Gyml/LObj_Fig_MegapolisTrashBin.spl__LockerObjParam.gyml",
@@ -2088,6 +2375,7 @@
     "__RowId": "Fig_MegapolisTrashBin"
   },
   {
+    "DisplayOrder": 1300019,
     "HowToGet": "Other",
     "Id": 1300019,
     "LObjParam": "Work/Gyml/LObj_Fig_MegapolisWoodPallet.spl__LockerObjParam.gyml",
@@ -2112,6 +2400,7 @@
     "__RowId": "Fig_MegapolisWoodPallet"
   },
   {
+    "DisplayOrder": 101200,
     "HowToGet": "Shop",
     "Id": 101200,
     "LObjParam": "Work/Gyml/LObj_Fig_Miche.spl__LockerObjParam.gyml",
@@ -2136,6 +2425,7 @@
     "__RowId": "Fig_Miche"
   },
   {
+    "DisplayOrder": 101201,
     "HowToGet": "Shop",
     "Id": 101201,
     "LObjParam": "Work/Gyml/LObj_Fig_Miche01.spl__LockerObjParam.gyml",
@@ -2160,6 +2450,7 @@
     "__RowId": "Fig_Miche01"
   },
   {
+    "DisplayOrder": 101202,
     "HowToGet": "Shop",
     "Id": 101202,
     "LObjParam": "Work/Gyml/LObj_Fig_Miche02.spl__LockerObjParam.gyml",
@@ -2184,6 +2475,7 @@
     "__RowId": "Fig_Miche02"
   },
   {
+    "DisplayOrder": 101203,
     "HowToGet": "Shop",
     "Id": 101203,
     "LObjParam": "Work/Gyml/LObj_Fig_Miche03.spl__LockerObjParam.gyml",
@@ -2208,6 +2500,7 @@
     "__RowId": "Fig_Miche03"
   },
   {
+    "DisplayOrder": 101204,
     "HowToGet": "Shop",
     "Id": 101204,
     "LObjParam": "Work/Gyml/LObj_Fig_Miche04.spl__LockerObjParam.gyml",
@@ -2232,6 +2525,7 @@
     "__RowId": "Fig_Miche04"
   },
   {
+    "DisplayOrder": 101205,
     "HowToGet": "Shop",
     "Id": 101205,
     "LObjParam": "Work/Gyml/LObj_Fig_Miche05.spl__LockerObjParam.gyml",
@@ -2256,6 +2550,7 @@
     "__RowId": "Fig_Miche05"
   },
   {
+    "DisplayOrder": 1400000,
     "HowToGet": "Other",
     "Id": 1400000,
     "LObjParam": "Work/Gyml/LObj_Fig_MiniGameReward01.spl__LockerObjParam.gyml",
@@ -2280,6 +2575,7 @@
     "__RowId": "Fig_MiniGameReward01"
   },
   {
+    "DisplayOrder": 1400001,
     "HowToGet": "Other",
     "Id": 1400001,
     "LObjParam": "Work/Gyml/LObj_Fig_MiniGameReward02.spl__LockerObjParam.gyml",
@@ -2304,6 +2600,7 @@
     "__RowId": "Fig_MiniGameReward02"
   },
   {
+    "DisplayOrder": 1400002,
     "HowToGet": "Other",
     "Id": 1400002,
     "LObjParam": "Work/Gyml/LObj_Fig_MiniGameReward03.spl__LockerObjParam.gyml",
@@ -2328,6 +2625,7 @@
     "__RowId": "Fig_MiniGameReward03"
   },
   {
+    "DisplayOrder": 101100,
     "HowToGet": "Shop",
     "Id": 101100,
     "LObjParam": "Work/Gyml/LObj_Fig_MrShrug.spl__LockerObjParam.gyml",
@@ -2352,6 +2650,7 @@
     "__RowId": "Fig_MrShrug"
   },
   {
+    "DisplayOrder": 1300000,
     "HowToGet": "Other",
     "Id": 1300000,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj00.spl__LockerObjParam.gyml",
@@ -2376,6 +2675,7 @@
     "__RowId": "Fig_MsnFindObj00"
   },
   {
+    "DisplayOrder": 1300001,
     "HowToGet": "Other",
     "Id": 1300001,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj01.spl__LockerObjParam.gyml",
@@ -2400,6 +2700,7 @@
     "__RowId": "Fig_MsnFindObj01"
   },
   {
+    "DisplayOrder": 1300002,
     "HowToGet": "Other",
     "Id": 1300002,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj02.spl__LockerObjParam.gyml",
@@ -2424,6 +2725,7 @@
     "__RowId": "Fig_MsnFindObj02"
   },
   {
+    "DisplayOrder": 1300003,
     "HowToGet": "Other",
     "Id": 1300003,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj03.spl__LockerObjParam.gyml",
@@ -2448,6 +2750,7 @@
     "__RowId": "Fig_MsnFindObj03"
   },
   {
+    "DisplayOrder": 1300004,
     "HowToGet": "Other",
     "Id": 1300004,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj04.spl__LockerObjParam.gyml",
@@ -2472,6 +2775,7 @@
     "__RowId": "Fig_MsnFindObj04"
   },
   {
+    "DisplayOrder": 1300005,
     "HowToGet": "Other",
     "Id": 1300005,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj05.spl__LockerObjParam.gyml",
@@ -2496,6 +2800,7 @@
     "__RowId": "Fig_MsnFindObj05"
   },
   {
+    "DisplayOrder": 1300006,
     "HowToGet": "Other",
     "Id": 1300006,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj06.spl__LockerObjParam.gyml",
@@ -2520,6 +2825,7 @@
     "__RowId": "Fig_MsnFindObj06"
   },
   {
+    "DisplayOrder": 1300007,
     "HowToGet": "Other",
     "Id": 1300007,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj07.spl__LockerObjParam.gyml",
@@ -2544,6 +2850,7 @@
     "__RowId": "Fig_MsnFindObj07"
   },
   {
+    "DisplayOrder": 1300008,
     "HowToGet": "Other",
     "Id": 1300008,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj08.spl__LockerObjParam.gyml",
@@ -2568,6 +2875,7 @@
     "__RowId": "Fig_MsnFindObj08"
   },
   {
+    "DisplayOrder": 1300009,
     "HowToGet": "Other",
     "Id": 1300009,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj09.spl__LockerObjParam.gyml",
@@ -2592,6 +2900,7 @@
     "__RowId": "Fig_MsnFindObj09"
   },
   {
+    "DisplayOrder": 1300010,
     "HowToGet": "Other",
     "Id": 1300010,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj10.spl__LockerObjParam.gyml",
@@ -2616,6 +2925,7 @@
     "__RowId": "Fig_MsnFindObj10"
   },
   {
+    "DisplayOrder": 1300011,
     "HowToGet": "Other",
     "Id": 1300011,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj11.spl__LockerObjParam.gyml",
@@ -2640,6 +2950,7 @@
     "__RowId": "Fig_MsnFindObj11"
   },
   {
+    "DisplayOrder": 1300012,
     "HowToGet": "Other",
     "Id": 1300012,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj12.spl__LockerObjParam.gyml",
@@ -2664,6 +2975,7 @@
     "__RowId": "Fig_MsnFindObj12"
   },
   {
+    "DisplayOrder": 1300013,
     "HowToGet": "Other",
     "Id": 1300013,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj13.spl__LockerObjParam.gyml",
@@ -2688,6 +3000,7 @@
     "__RowId": "Fig_MsnFindObj13"
   },
   {
+    "DisplayOrder": 1300014,
     "HowToGet": "Other",
     "Id": 1300014,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj14.spl__LockerObjParam.gyml",
@@ -2712,6 +3025,7 @@
     "__RowId": "Fig_MsnFindObj14"
   },
   {
+    "DisplayOrder": 1300015,
     "HowToGet": "Other",
     "Id": 1300015,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj16.spl__LockerObjParam.gyml",
@@ -2736,6 +3050,7 @@
     "__RowId": "Fig_MsnFindObj16"
   },
   {
+    "DisplayOrder": 1300016,
     "HowToGet": "Other",
     "Id": 1300016,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj17.spl__LockerObjParam.gyml",
@@ -2760,6 +3075,7 @@
     "__RowId": "Fig_MsnFindObj17"
   },
   {
+    "DisplayOrder": 1300017,
     "HowToGet": "Other",
     "Id": 1300017,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj18.spl__LockerObjParam.gyml",
@@ -2784,6 +3100,7 @@
     "__RowId": "Fig_MsnFindObj18"
   },
   {
+    "DisplayOrder": 1300024,
     "HowToGet": "Other",
     "Id": 1300024,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj26.spl__LockerObjParam.gyml",
@@ -2808,6 +3125,7 @@
     "__RowId": "Fig_MsnFindObj26"
   },
   {
+    "DisplayOrder": 1300025,
     "HowToGet": "Other",
     "Id": 1300025,
     "LObjParam": "Work/Gyml/LObj_Fig_MsnFindObj27.spl__LockerObjParam.gyml",
@@ -2832,6 +3150,7 @@
     "__RowId": "Fig_MsnFindObj27"
   },
   {
+    "DisplayOrder": 105000,
     "HowToGet": "Shop",
     "Id": 105000,
     "LObjParam": "Work/Gyml/LObj_Fig_MugCup00.spl__LockerObjParam.gyml",
@@ -2856,6 +3175,7 @@
     "__RowId": "Fig_MugCup00"
   },
   {
+    "DisplayOrder": 105001,
     "HowToGet": "Shop",
     "Id": 105001,
     "LObjParam": "Work/Gyml/LObj_Fig_MugCup01.spl__LockerObjParam.gyml",
@@ -2880,6 +3200,7 @@
     "__RowId": "Fig_MugCup01"
   },
   {
+    "DisplayOrder": 105002,
     "HowToGet": "Shop",
     "Id": 105002,
     "LObjParam": "Work/Gyml/LObj_Fig_MugCup02.spl__LockerObjParam.gyml",
@@ -2904,6 +3225,7 @@
     "__RowId": "Fig_MugCup02"
   },
   {
+    "DisplayOrder": 105003,
     "HowToGet": "Shop",
     "Id": 105003,
     "LObjParam": "Work/Gyml/LObj_Fig_MugCup03.spl__LockerObjParam.gyml",
@@ -2928,6 +3250,7 @@
     "__RowId": "Fig_MugCup03"
   },
   {
+    "DisplayOrder": 105004,
     "HowToGet": "Shop",
     "Id": 105004,
     "LObjParam": "Work/Gyml/LObj_Fig_MugCup04.spl__LockerObjParam.gyml",
@@ -2952,6 +3275,7 @@
     "__RowId": "Fig_MugCup04"
   },
   {
+    "DisplayOrder": 105005,
     "HowToGet": "Shop",
     "Id": 105005,
     "LObjParam": "Work/Gyml/LObj_Fig_MugCup05.spl__LockerObjParam.gyml",
@@ -2976,6 +3300,7 @@
     "__RowId": "Fig_MugCup05"
   },
   {
+    "DisplayOrder": 101101,
     "HowToGet": "Shop",
     "Id": 101101,
     "LObjParam": "Work/Gyml/LObj_Fig_MzShrug.spl__LockerObjParam.gyml",
@@ -3000,6 +3325,7 @@
     "__RowId": "Fig_MzShrug"
   },
   {
+    "DisplayOrder": 110033,
     "HowToGet": "Shop",
     "Id": 110033,
     "LObjParam": "Work/Gyml/LObj_Fig_NewsPaper.spl__LockerObjParam.gyml",
@@ -3024,6 +3350,7 @@
     "__RowId": "Fig_NewsPaper"
   },
   {
+    "DisplayOrder": 1300020,
     "HowToGet": "Other",
     "Id": 1300020,
     "LObjParam": "Work/Gyml/LObj_Fig_ParabolicAntenna.spl__LockerObjParam.gyml",
@@ -3048,6 +3375,7 @@
     "__RowId": "Fig_ParabolicAntenna"
   },
   {
+    "DisplayOrder": 101120,
     "HowToGet": "Shop",
     "Id": 101120,
     "LObjParam": "Work/Gyml/LObj_Fig_PettanDoll.spl__LockerObjParam.gyml",
@@ -3072,6 +3400,7 @@
     "__RowId": "Fig_PettanDoll"
   },
   {
+    "DisplayOrder": 110031,
     "HowToGet": "Shop",
     "Id": 110031,
     "LObjParam": "Work/Gyml/LObj_Fig_PipeChair00.spl__LockerObjParam.gyml",
@@ -3096,6 +3425,7 @@
     "__RowId": "Fig_PipeChair00"
   },
   {
+    "DisplayOrder": 110030,
     "HowToGet": "Shop",
     "Id": 110030,
     "LObjParam": "Work/Gyml/LObj_Fig_PropaneGas.spl__LockerObjParam.gyml",
@@ -3120,6 +3450,32 @@
     "__RowId": "Fig_PropaneGas"
   },
   {
+    "DisplayOrder": 120100,
+    "HowToGet": "Catalog",
+    "Id": 120100,
+    "LObjParam": "Work/Gyml/LObj_Fig_RingBinder00.spl__LockerObjParam.gyml",
+    "Label": "リングバインダー パープル",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_RingBinder00/output/Fig_RingBinder00.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.8039216,
+      "G": 0.509804,
+      "R": 0.7960784
+    },
+    "Price": 12500,
+    "Rarity": 2,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_RingBinder00"
+  },
+  {
+    "DisplayOrder": 101131,
     "HowToGet": "Shop",
     "Id": 101131,
     "LObjParam": "Work/Gyml/LObj_Fig_SakeBalloon.spl__LockerObjParam.gyml",
@@ -3144,6 +3500,7 @@
     "__RowId": "Fig_SakeBalloon"
   },
   {
+    "DisplayOrder": 101130,
     "HowToGet": "Catalog",
     "Id": 101130,
     "LObjParam": "Work/Gyml/LObj_Fig_Sakebeko.spl__LockerObjParam.gyml",
@@ -3168,6 +3525,7 @@
     "__RowId": "Fig_Sakebeko"
   },
   {
+    "DisplayOrder": 100220,
     "HowToGet": "Shop",
     "Id": 100220,
     "LObjParam": "Work/Gyml/LObj_Fig_Sazae.spl__LockerObjParam.gyml",
@@ -3192,6 +3550,7 @@
     "__RowId": "Fig_Sazae"
   },
   {
+    "DisplayOrder": 100202,
     "HowToGet": "Shop",
     "Id": 100202,
     "LObjParam": "Work/Gyml/LObj_Fig_Shachihoko.spl__LockerObjParam.gyml",
@@ -3216,6 +3575,7 @@
     "__RowId": "Fig_Shachihoko"
   },
   {
+    "DisplayOrder": 110001,
     "HowToGet": "Shop",
     "Id": 110001,
     "LObjParam": "Work/Gyml/LObj_Fig_Shovel.spl__LockerObjParam.gyml",
@@ -3240,6 +3600,7 @@
     "__RowId": "Fig_Shovel"
   },
   {
+    "DisplayOrder": 100105,
     "HowToGet": "Shop",
     "Id": 100105,
     "LObjParam": "Work/Gyml/LObj_Fig_SighterTarget_Black.spl__LockerObjParam.gyml",
@@ -3264,6 +3625,7 @@
     "__RowId": "Fig_SighterTarget_Black"
   },
   {
+    "DisplayOrder": 100101,
     "HowToGet": "Shop",
     "Id": 100101,
     "LObjParam": "Work/Gyml/LObj_Fig_SighterTarget_Blue.spl__LockerObjParam.gyml",
@@ -3288,6 +3650,7 @@
     "__RowId": "Fig_SighterTarget_Blue"
   },
   {
+    "DisplayOrder": 100103,
     "HowToGet": "Shop",
     "Id": 100103,
     "LObjParam": "Work/Gyml/LObj_Fig_SighterTarget_Green.spl__LockerObjParam.gyml",
@@ -3312,6 +3675,7 @@
     "__RowId": "Fig_SighterTarget_Green"
   },
   {
+    "DisplayOrder": 100104,
     "HowToGet": "Shop",
     "Id": 100104,
     "LObjParam": "Work/Gyml/LObj_Fig_SighterTarget_Orange.spl__LockerObjParam.gyml",
@@ -3336,6 +3700,7 @@
     "__RowId": "Fig_SighterTarget_Orange"
   },
   {
+    "DisplayOrder": 100102,
     "HowToGet": "Shop",
     "Id": 100102,
     "LObjParam": "Work/Gyml/LObj_Fig_SighterTarget_Purple.spl__LockerObjParam.gyml",
@@ -3360,6 +3725,7 @@
     "__RowId": "Fig_SighterTarget_Purple"
   },
   {
+    "DisplayOrder": 100100,
     "HowToGet": "Catalog",
     "Id": 100100,
     "LObjParam": "Work/Gyml/LObj_Fig_SighterTarget_Yellow.spl__LockerObjParam.gyml",
@@ -3384,6 +3750,7 @@
     "__RowId": "Fig_SighterTarget_Yellow"
   },
   {
+    "DisplayOrder": 102000,
     "HowToGet": "Shop",
     "Id": 102000,
     "LObjParam": "Work/Gyml/LObj_Fig_SkateBoard00.spl__LockerObjParam.gyml",
@@ -3408,6 +3775,7 @@
     "__RowId": "Fig_SkateBoard00"
   },
   {
+    "DisplayOrder": 102001,
     "HowToGet": "Shop",
     "Id": 102001,
     "LObjParam": "Work/Gyml/LObj_Fig_SkateBoard00_01.spl__LockerObjParam.gyml",
@@ -3432,6 +3800,7 @@
     "__RowId": "Fig_SkateBoard00_01"
   },
   {
+    "DisplayOrder": 102002,
     "HowToGet": "Shop",
     "Id": 102002,
     "LObjParam": "Work/Gyml/LObj_Fig_SkateBoard00_02.spl__LockerObjParam.gyml",
@@ -3456,6 +3825,7 @@
     "__RowId": "Fig_SkateBoard00_02"
   },
   {
+    "DisplayOrder": 102003,
     "HowToGet": "Shop",
     "Id": 102003,
     "LObjParam": "Work/Gyml/LObj_Fig_SkateBoard00_03.spl__LockerObjParam.gyml",
@@ -3480,6 +3850,7 @@
     "__RowId": "Fig_SkateBoard00_03"
   },
   {
+    "DisplayOrder": 102004,
     "HowToGet": "Shop",
     "Id": 102004,
     "LObjParam": "Work/Gyml/LObj_Fig_SkateBoard00_04.spl__LockerObjParam.gyml",
@@ -3504,6 +3875,7 @@
     "__RowId": "Fig_SkateBoard00_04"
   },
   {
+    "DisplayOrder": 102005,
     "HowToGet": "Shop",
     "Id": 102005,
     "LObjParam": "Work/Gyml/LObj_Fig_SkateBoard00_05.spl__LockerObjParam.gyml",
@@ -3528,6 +3900,7 @@
     "__RowId": "Fig_SkateBoard00_05"
   },
   {
+    "DisplayOrder": 106100,
     "HowToGet": "Shop",
     "Id": 106100,
     "LObjParam": "Work/Gyml/LObj_Fig_Snack00.spl__LockerObjParam.gyml",
@@ -3552,6 +3925,7 @@
     "__RowId": "Fig_Snack00"
   },
   {
+    "DisplayOrder": 106101,
     "HowToGet": "Shop",
     "Id": 106101,
     "LObjParam": "Work/Gyml/LObj_Fig_Snack01.spl__LockerObjParam.gyml",
@@ -3576,6 +3950,7 @@
     "__RowId": "Fig_Snack01"
   },
   {
+    "DisplayOrder": 106110,
     "HowToGet": "Shop",
     "Id": 106110,
     "LObjParam": "Work/Gyml/LObj_Fig_Snack02.spl__LockerObjParam.gyml",
@@ -3600,6 +3975,7 @@
     "__RowId": "Fig_Snack02"
   },
   {
+    "DisplayOrder": 106112,
     "HowToGet": "Shop",
     "Id": 106112,
     "LObjParam": "Work/Gyml/LObj_Fig_Snack03.spl__LockerObjParam.gyml",
@@ -3624,6 +4000,7 @@
     "__RowId": "Fig_Snack03"
   },
   {
+    "DisplayOrder": 106113,
     "HowToGet": "Shop",
     "Id": 106113,
     "LObjParam": "Work/Gyml/LObj_Fig_Snack04.spl__LockerObjParam.gyml",
@@ -3648,6 +4025,7 @@
     "__RowId": "Fig_Snack04"
   },
   {
+    "DisplayOrder": 106111,
     "HowToGet": "Shop",
     "Id": 106111,
     "LObjParam": "Work/Gyml/LObj_Fig_Snack05.spl__LockerObjParam.gyml",
@@ -3672,6 +4050,7 @@
     "__RowId": "Fig_Snack05"
   },
   {
+    "DisplayOrder": 106102,
     "HowToGet": "Shop",
     "Id": 106102,
     "LObjParam": "Work/Gyml/LObj_Fig_Snack06.spl__LockerObjParam.gyml",
@@ -3696,6 +4075,7 @@
     "__RowId": "Fig_Snack06"
   },
   {
+    "DisplayOrder": 100200,
     "HowToGet": "Shop",
     "Id": 100200,
     "LObjParam": "Work/Gyml/LObj_Fig_Spawner.spl__LockerObjParam.gyml",
@@ -3720,6 +4100,7 @@
     "__RowId": "Fig_Spawner"
   },
   {
+    "DisplayOrder": 101150,
     "HowToGet": "Shop",
     "Id": 101150,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidCushion00.spl__LockerObjParam.gyml",
@@ -3744,6 +4125,7 @@
     "__RowId": "Fig_SquidCushion00"
   },
   {
+    "DisplayOrder": 101151,
     "HowToGet": "Shop",
     "Id": 101151,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidCushion01.spl__LockerObjParam.gyml",
@@ -3768,6 +4150,7 @@
     "__RowId": "Fig_SquidCushion01"
   },
   {
+    "DisplayOrder": 101152,
     "HowToGet": "Shop",
     "Id": 101152,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidCushion02.spl__LockerObjParam.gyml",
@@ -3792,6 +4175,7 @@
     "__RowId": "Fig_SquidCushion02"
   },
   {
+    "DisplayOrder": 101153,
     "HowToGet": "Shop",
     "Id": 101153,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidCushion03.spl__LockerObjParam.gyml",
@@ -3816,6 +4200,7 @@
     "__RowId": "Fig_SquidCushion03"
   },
   {
+    "DisplayOrder": 101154,
     "HowToGet": "Shop",
     "Id": 101154,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidCushion04.spl__LockerObjParam.gyml",
@@ -3840,6 +4225,7 @@
     "__RowId": "Fig_SquidCushion04"
   },
   {
+    "DisplayOrder": 101155,
     "HowToGet": "Shop",
     "Id": 101155,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidCushion05.spl__LockerObjParam.gyml",
@@ -3864,6 +4250,7 @@
     "__RowId": "Fig_SquidCushion05"
   },
   {
+    "DisplayOrder": 101110,
     "HowToGet": "Shop",
     "Id": 101110,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidDoll00.spl__LockerObjParam.gyml",
@@ -3888,6 +4275,7 @@
     "__RowId": "Fig_SquidDoll00"
   },
   {
+    "DisplayOrder": 101111,
     "HowToGet": "Shop",
     "Id": 101111,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidDoll01.spl__LockerObjParam.gyml",
@@ -3912,6 +4300,7 @@
     "__RowId": "Fig_SquidDoll01"
   },
   {
+    "DisplayOrder": 101112,
     "HowToGet": "Shop",
     "Id": 101112,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidDoll02.spl__LockerObjParam.gyml",
@@ -3936,6 +4325,7 @@
     "__RowId": "Fig_SquidDoll02"
   },
   {
+    "DisplayOrder": 101113,
     "HowToGet": "Shop",
     "Id": 101113,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidDoll03.spl__LockerObjParam.gyml",
@@ -3960,6 +4350,7 @@
     "__RowId": "Fig_SquidDoll03"
   },
   {
+    "DisplayOrder": 101114,
     "HowToGet": "Shop",
     "Id": 101114,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidDoll04.spl__LockerObjParam.gyml",
@@ -3984,6 +4375,7 @@
     "__RowId": "Fig_SquidDoll04"
   },
   {
+    "DisplayOrder": 101115,
     "HowToGet": "Shop",
     "Id": 101115,
     "LObjParam": "Work/Gyml/LObj_Fig_SquidDoll05.spl__LockerObjParam.gyml",
@@ -4008,6 +4400,7 @@
     "__RowId": "Fig_SquidDoll05"
   },
   {
+    "DisplayOrder": 110000,
     "HowToGet": "Shop",
     "Id": 110000,
     "LObjParam": "Work/Gyml/LObj_Fig_Stepladder00.spl__LockerObjParam.gyml",
@@ -4032,6 +4425,7 @@
     "__RowId": "Fig_Stepladder00"
   },
   {
+    "DisplayOrder": 101145,
     "HowToGet": "Shop",
     "Id": 101145,
     "LObjParam": "Work/Gyml/LObj_Fig_StrapInkFish.spl__LockerObjParam.gyml",
@@ -4056,6 +4450,7 @@
     "__RowId": "Fig_StrapInkFish"
   },
   {
+    "DisplayOrder": 101146,
     "HowToGet": "Shop",
     "Id": 101146,
     "LObjParam": "Work/Gyml/LObj_Fig_StrapOctopus.spl__LockerObjParam.gyml",
@@ -4080,6 +4475,7 @@
     "__RowId": "Fig_StrapOctopus"
   },
   {
+    "DisplayOrder": 110035,
     "HowToGet": "Shop",
     "Id": 110035,
     "LObjParam": "Work/Gyml/LObj_Fig_TissueBox.spl__LockerObjParam.gyml",
@@ -4104,6 +4500,7 @@
     "__RowId": "Fig_TissueBox"
   },
   {
+    "DisplayOrder": 1300027,
     "HowToGet": "Other",
     "Id": 1300027,
     "LObjParam": "Work/Gyml/LObj_Fig_Torii.spl__LockerObjParam.gyml",
@@ -4128,6 +4525,7 @@
     "__RowId": "Fig_Torii"
   },
   {
+    "DisplayOrder": 104021,
     "HowToGet": "Shop",
     "Id": 104021,
     "LObjParam": "Work/Gyml/LObj_Fig_Transceiver.spl__LockerObjParam.gyml",
@@ -4152,6 +4550,7 @@
     "__RowId": "Fig_Transceiver"
   },
   {
+    "DisplayOrder": 101132,
     "HowToGet": "Shop",
     "Id": 101132,
     "LObjParam": "Work/Gyml/LObj_Fig_Tuna.spl__LockerObjParam.gyml",
@@ -4176,6 +4575,7 @@
     "__RowId": "Fig_Tuna"
   },
   {
+    "DisplayOrder": 300004,
     "HowToGet": "Other",
     "Id": 300004,
     "LObjParam": "Work/Gyml/LObj_Fig_UdemaeReward_Lv01.spl__LockerObjParam.gyml",
@@ -4200,6 +4600,7 @@
     "__RowId": "Fig_UdemaeReward_Lv01"
   },
   {
+    "DisplayOrder": 300003,
     "HowToGet": "Other",
     "Id": 300003,
     "LObjParam": "Work/Gyml/LObj_Fig_UdemaeReward_Lv02.spl__LockerObjParam.gyml",
@@ -4224,6 +4625,7 @@
     "__RowId": "Fig_UdemaeReward_Lv02"
   },
   {
+    "DisplayOrder": 300002,
     "HowToGet": "Other",
     "Id": 300002,
     "LObjParam": "Work/Gyml/LObj_Fig_UdemaeReward_Lv03.spl__LockerObjParam.gyml",
@@ -4248,6 +4650,7 @@
     "__RowId": "Fig_UdemaeReward_Lv03"
   },
   {
+    "DisplayOrder": 300001,
     "HowToGet": "Other",
     "Id": 300001,
     "LObjParam": "Work/Gyml/LObj_Fig_UdemaeReward_Lv04.spl__LockerObjParam.gyml",
@@ -4272,6 +4675,7 @@
     "__RowId": "Fig_UdemaeReward_Lv04"
   },
   {
+    "DisplayOrder": 110034,
     "HowToGet": "Shop",
     "Id": 110034,
     "LObjParam": "Work/Gyml/LObj_Fig_Umbrella00.spl__LockerObjParam.gyml",
@@ -4296,6 +4700,7 @@
     "__RowId": "Fig_Umbrella00"
   },
   {
+    "DisplayOrder": 1300028,
     "HowToGet": "Other",
     "Id": 1300028,
     "LObjParam": "Work/Gyml/LObj_Fig_UmbrellaNostalgia.spl__LockerObjParam.gyml",
@@ -4320,6 +4725,7 @@
     "__RowId": "Fig_UmbrellaNostalgia"
   },
   {
+    "DisplayOrder": 108050,
     "HowToGet": "Shop",
     "Id": 108050,
     "LObjParam": "Work/Gyml/LObj_Fig_VideoGame00_00.spl__LockerObjParam.gyml",
@@ -4344,6 +4750,7 @@
     "__RowId": "Fig_VideoGame00_00"
   },
   {
+    "DisplayOrder": 108051,
     "HowToGet": "Shop",
     "Id": 108051,
     "LObjParam": "Work/Gyml/LObj_Fig_VideoGame00_01.spl__LockerObjParam.gyml",
@@ -4368,6 +4775,7 @@
     "__RowId": "Fig_VideoGame00_01"
   },
   {
+    "DisplayOrder": 108052,
     "HowToGet": "Shop",
     "Id": 108052,
     "LObjParam": "Work/Gyml/LObj_Fig_VideoGame00_02.spl__LockerObjParam.gyml",
@@ -4392,6 +4800,7 @@
     "__RowId": "Fig_VideoGame00_02"
   },
   {
+    "DisplayOrder": 108060,
     "HowToGet": "Shop",
     "Id": 108060,
     "LObjParam": "Work/Gyml/LObj_Fig_VideoGame01_00.spl__LockerObjParam.gyml",
@@ -4416,6 +4825,7 @@
     "__RowId": "Fig_VideoGame01_00"
   },
   {
+    "DisplayOrder": 108061,
     "HowToGet": "Shop",
     "Id": 108061,
     "LObjParam": "Work/Gyml/LObj_Fig_VideoGame01_01.spl__LockerObjParam.gyml",
@@ -4440,6 +4850,7 @@
     "__RowId": "Fig_VideoGame01_01"
   },
   {
+    "DisplayOrder": 108062,
     "HowToGet": "Shop",
     "Id": 108062,
     "LObjParam": "Work/Gyml/LObj_Fig_VideoGame01_02.spl__LockerObjParam.gyml",
@@ -4464,6 +4875,7 @@
     "__RowId": "Fig_VideoGame01_02"
   },
   {
+    "DisplayOrder": 108070,
     "HowToGet": "Shop",
     "Id": 108070,
     "LObjParam": "Work/Gyml/LObj_Fig_VideoGame02_00.spl__LockerObjParam.gyml",
@@ -4488,6 +4900,7 @@
     "__RowId": "Fig_VideoGame02_00"
   },
   {
+    "DisplayOrder": 108071,
     "HowToGet": "Shop",
     "Id": 108071,
     "LObjParam": "Work/Gyml/LObj_Fig_VideoGame02_01.spl__LockerObjParam.gyml",
@@ -4512,6 +4925,7 @@
     "__RowId": "Fig_VideoGame02_01"
   },
   {
+    "DisplayOrder": 108072,
     "HowToGet": "Shop",
     "Id": 108072,
     "LObjParam": "Work/Gyml/LObj_Fig_VideoGame02_02.spl__LockerObjParam.gyml",
@@ -4536,6 +4950,32 @@
     "__RowId": "Fig_VideoGame02_02"
   },
   {
+    "DisplayOrder": 113000,
+    "HowToGet": "Catalog",
+    "Id": 113000,
+    "LObjParam": "Work/Gyml/LObj_Fig_WaterBottle00.spl__LockerObjParam.gyml",
+    "Label": "ウォーターボトル アクア",
+    "MaxNumberOfPossessions": 10,
+    "Model": "Work/Model/Locker/Fig_WaterBottle00/output/Fig_WaterBottle00.fmdb",
+    "ModelColor": {
+      "A": 1.0,
+      "B": 0.9098039,
+      "G": 0.6352941,
+      "R": 0.0
+    },
+    "Price": 21000,
+    "Rarity": 2,
+    "Season": 2,
+    "UrokoPrice": {
+      "BronzeUrokoNum": 0,
+      "GoldUrokoNum": 0,
+      "SilverUrokoNum": 0
+    },
+    "UrokoUnlockLevel": 1,
+    "__RowId": "Fig_WaterBottle00"
+  },
+  {
+    "DisplayOrder": 101121,
     "HowToGet": "Shop",
     "Id": 101121,
     "LObjParam": "Work/Gyml/LObj_Fig_WeirdDoll00.spl__LockerObjParam.gyml",
@@ -4560,6 +5000,7 @@
     "__RowId": "Fig_WeirdDoll00"
   },
   {
+    "DisplayOrder": 101122,
     "HowToGet": "Shop",
     "Id": 101122,
     "LObjParam": "Work/Gyml/LObj_Fig_WeirdDoll01.spl__LockerObjParam.gyml",
@@ -4584,6 +5025,7 @@
     "__RowId": "Fig_WeirdDoll01"
   },
   {
+    "DisplayOrder": 110050,
     "HowToGet": "Shop",
     "Id": 110050,
     "LObjParam": "Work/Gyml/LObj_Fig_WoodenBoat.spl__LockerObjParam.gyml",
@@ -4608,6 +5050,7 @@
     "__RowId": "Fig_WoodenBoat"
   },
   {
+    "DisplayOrder": 100201,
     "HowToGet": "Shop",
     "Id": 100201,
     "LObjParam": "Work/Gyml/LObj_Fig_Yagura.spl__LockerObjParam.gyml",

@@ -1,6 +1,7 @@
 [
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Bomb_Curling.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000008,
     "HowToGet": "Shop",
     "Id": 2000008,
     "LObjParam": "Work/Gyml/LObj_Wsb_Bomb_Curling.spl__LockerObjParam.gyml",
@@ -20,6 +21,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Bomb_Handy.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000002,
     "HowToGet": "Shop",
     "Id": 2000002,
     "LObjParam": "Work/Gyml/LObj_Wsb_Bomb_Handy.spl__LockerObjParam.gyml",
@@ -39,6 +41,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Bomb_Hold.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000001,
     "HowToGet": "Shop",
     "Id": 2000001,
     "LObjParam": "Work/Gyml/LObj_Wsb_Bomb_Hold.spl__LockerObjParam.gyml",
@@ -58,6 +61,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Bomb_Piyo.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000011,
     "HowToGet": "Shop",
     "Id": 2000011,
     "LObjParam": "Work/Gyml/LObj_Wsb_Bomb_Piyo.spl__LockerObjParam.gyml",
@@ -77,6 +81,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Bomb_Robo.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000009,
     "HowToGet": "Shop",
     "Id": 2000009,
     "LObjParam": "Work/Gyml/LObj_Wsb_Bomb_Robo.spl__LockerObjParam.gyml",
@@ -96,6 +101,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Bomb_Splash.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000000,
     "HowToGet": "Shop",
     "Id": 2000000,
     "LObjParam": "Work/Gyml/LObj_Wsb_Bomb_Splash.spl__LockerObjParam.gyml",
@@ -115,6 +121,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Bomb_Tako.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000012,
     "HowToGet": "Shop",
     "Id": 2000012,
     "LObjParam": "Work/Gyml/LObj_Wsb_Bomb_Tako.spl__LockerObjParam.gyml",
@@ -134,6 +141,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_DevillBall.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000010,
     "HowToGet": "Shop",
     "Id": 2000010,
     "LObjParam": "Work/Gyml/LObj_Wsb_DevillBall.spl__LockerObjParam.gyml",
@@ -153,6 +161,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Flag.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000004,
     "HowToGet": "Shop",
     "Id": 2000004,
     "LObjParam": "Work/Gyml/LObj_Wsb_Flag.spl__LockerObjParam.gyml",
@@ -172,6 +181,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_LinMarker.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000013,
     "HowToGet": "Shop",
     "Id": 2000013,
     "LObjParam": "Work/Gyml/LObj_Wsb_LinMarker.spl__LockerObjParam.gyml",
@@ -191,6 +201,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_MarkingBall.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000006,
     "HowToGet": "Shop",
     "Id": 2000006,
     "LObjParam": "Work/Gyml/LObj_Wsb_MarkingBall.spl__LockerObjParam.gyml",
@@ -210,6 +221,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Shield.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000005,
     "HowToGet": "Shop",
     "Id": 2000005,
     "LObjParam": "Work/Gyml/LObj_Wsb_Shield.spl__LockerObjParam.gyml",
@@ -229,6 +241,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Sprinkler.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000003,
     "HowToGet": "Shop",
     "Id": 2000003,
     "LObjParam": "Work/Gyml/LObj_Wsb_Sprinkler.spl__LockerObjParam.gyml",
@@ -248,6 +261,7 @@
   },
   {
     "CaptureParam": "Work/Debug/LockerGoodsCapture/Wsb_Trap.spl__LockerGoodsCaptureParam.gyml",
+    "DisplayOrder": 2000007,
     "HowToGet": "Shop",
     "Id": 2000007,
     "LObjParam": "Work/Gyml/LObj_Wsb_Trap.spl__LockerObjParam.gyml",

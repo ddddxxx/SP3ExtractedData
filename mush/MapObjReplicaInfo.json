@@ -9,6 +9,9 @@
     "__RowId": "CoopTurret"
   },
   {
+    "__RowId": "CoopVSStageGeyser"
+  },
+  {
     "__RowId": "GachiasariGoal"
   },
   {
@@ -70,6 +73,12 @@
   },
   {
     "__RowId": "PaintTargetArea_Cylinder"
+  },
+  {
+    "__RowId": "PropellerOnline"
+  },
+  {
+    "__RowId": "PropellerOnlineWithLift"
   },
   {
     "__RowId": "SpongeSmall_3p0_VS"

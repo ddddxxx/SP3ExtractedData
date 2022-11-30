@@ -65,8 +65,13 @@
         "WidthHalfMid": 2.5,
         "WidthHalfMin": 2.5
       },
+      "SplashPaintParam": {
+        "DepthScaleMax": 2.7,
+        "WidthHalf": 1.35
+      },
       "SplashSpawnParam": {
         "DropInterval": 10.0,
+        "SplashNumMax": 5,
         "SplitNum": 7
       },
       "WallDropMoveParam": {

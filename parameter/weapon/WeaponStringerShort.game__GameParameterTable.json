@@ -66,6 +66,10 @@
         "WidthHalfMid": 2.8,
         "WidthHalfMin": 2.8
       },
+      "SplashPaintParam": {
+        "DepthScaleMax": 1.28,
+        "WidthHalf": 1.28
+      },
       "SplashSpawnParam": {
         "DropInterval": 10.0,
         "SplitNum": 7

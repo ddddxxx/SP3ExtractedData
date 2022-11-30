@@ -70,11 +70,6 @@
     "__RowId": "Work/Gyml/FldObj_Carousel03_FerrisWheel.game__gfx__parameter__LODThreshold.gyml"
   },
   {
-    "EndDistFromBounding": 50.0,
-    "StartDistFromBounding": 40.0,
-    "__RowId": "Work/Gyml/FldObj_OctaFloorP90x15x120_Octa.game__gfx__parameter__LODThreshold.gyml"
-  },
-  {
     "EndDistFromBounding": 55.0,
     "StartDistFromBounding": 55.0,
     "__RowId": "Work/Gyml/Npc_JerryPlaza_BuildingCleaning.game__gfx__parameter__LODThreshold.gyml"
@@ -115,14 +110,14 @@
     "__RowId": "Work/Gyml/Obj_CarouselMerryGoRound.game__gfx__parameter__LODThreshold.gyml"
   },
   {
-    "EndDistFromBounding": 50.0,
-    "StartDistFromBounding": 35.0,
-    "__RowId": "Work/Gyml/Obj_Jerry00_LodAdjust.game__gfx__parameter__LODThreshold.gyml"
-  },
-  {
     "EndDistFromBounding": 80.0,
     "StartDistFromBounding": 80.0,
     "__RowId": "Work/Gyml/Obj_JerryDistrict.game__gfx__parameter__LODThreshold.gyml"
+  },
+  {
+    "EndDistFromBounding": 85.0,
+    "StartDistFromBounding": 20.0,
+    "__RowId": "Work/Gyml/Obj_JerryHaori.game__gfx__parameter__LODThreshold.gyml"
   },
   {
     "EndDistFromBounding": 120.0,
@@ -138,6 +133,11 @@
     "EndDistFromBounding": 100.0,
     "StartDistFromBounding": 60.0,
     "__RowId": "Work/Gyml/Obj_JerryWaterballoon.game__gfx__parameter__LODThreshold.gyml"
+  },
+  {
+    "EndDistFromBounding": 85.0,
+    "StartDistFromBounding": 20.0,
+    "__RowId": "Work/Gyml/Obj_JerryYukata.game__gfx__parameter__LODThreshold.gyml"
   },
   {
     "EndDistFromBounding": 300.0,

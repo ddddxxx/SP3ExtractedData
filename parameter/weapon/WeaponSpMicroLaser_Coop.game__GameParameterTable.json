@@ -4,11 +4,11 @@
     "spl__BulletSpMicroLaserBitParam": {
       "$type": "spl__BulletSpMicroLaserBitParam",
       "ChargeParam": {
-        "LockonDelayFrame": 10,
+        "LockonDelayFrame": 5,
         "MaxAngularVel": 1.6
       },
       "LaserParam": {
-        "LaserDamage": 120,
+        "LaserDamage": 150,
         "LaserDamageIntervalFrame": 10
       }
     }
